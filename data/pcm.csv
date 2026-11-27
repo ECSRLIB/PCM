@@ -1,0 +1,1320 @@
+﻿ID,Name,Category,Type,Manufacturer,Formula,Composition,Phase change temp (°C),Reported range (°C),Latent heat (kJ/kg),Latent heat range (kJ/kg),cp solid (kJ/kg·K),cp liquid (kJ/kg·K),Density solid (kg/m³),Density liquid (kg/m³),k solid (W/m·K),k liquid (W/m·K),Max operating temp (°C),References
+1,PlusICE E-74,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-74.0,,230.0,,3.15,,1280.0,,0.54,,100.0,Manufacturer datasheet
+2,PlusICE E-73,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-73.0,,223.0,,3.15,,1298.0,,0.54,,100.0,Manufacturer datasheet
+3,PlusICE E-72,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-72.0,,215.0,,3.15,,1315.0,,0.54,,100.0,Manufacturer datasheet
+4,PlusICE E-71,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-71.0,,208.0,,3.15,,1333.0,,0.54,,100.0,Manufacturer datasheet
+5,PlusICE E-70,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-70.0,,200.0,,3.15,,1350.0,,0.54,,100.0,Manufacturer datasheet
+6,PlusICE E-69,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-69.0,,202.0,,3.15,,1350.0,,0.54,,100.0,Manufacturer datasheet
+7,PlusICE E-68,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-68.0,,205.0,,3.15,,1360.0,,0.54,,100.0,Manufacturer datasheet
+8,PlusICE E-67,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-67.0,,200.0,,3.15,,1380.0,,0.54,,100.0,Manufacturer datasheet
+9,PlusICE E-65,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-65.0,,240.0,,3.15,,1180.0,,0.56,,100.0,Manufacturer datasheet
+10,ATS -63,Eutectic,Commercial,Axiotherm (Germany),,,-63.0,,140.3,,3.0,3.0,1436.0,1350.0,0.6,0.6,,Manufacturer datasheet
+11,PlusICE E-63,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-63.0,,230.0,,3.15,,1200.0,,0.54,,100.0,Manufacturer datasheet
+12,PlusICE E-62,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-62.0,,224.0,,3.15,,1230.0,,0.54,,100.0,Manufacturer datasheet
+13,PlusICE E-61,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-61.0,,218.0,,3.15,,1260.0,,0.54,,100.0,Manufacturer datasheet
+14,PlusICE E-60,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-60.0,,212.0,,3.15,,1290.0,,0.54,,100.0,Manufacturer datasheet
+15,PlusICE E-59,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-59.0,,206.0,,3.15,,1320.0,,0.54,,100.0,Manufacturer datasheet
+16,PlusICE E-58,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-58.0,,200.0,,3.15,,1350.0,,0.54,,100.0,Manufacturer datasheet
+17,PlusICE E-57,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-57.0,,230.0,,3.15,,1380.0,,0.54,,100.0,Manufacturer datasheet
+18,PlusICE E-56,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-56.0,,228.0,,3.15,,1400.0,,0.54,,100.0,Manufacturer datasheet
+19,PlusICE E-55,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-55.0,,223.0,,3.15,,1420.0,,0.54,,100.0,Manufacturer datasheet
+20,PlusICE E-54,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-54.0,,219.0,,3.15,,1440.0,,0.54,,100.0,Manufacturer datasheet
+21,PlusICE E-53,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-53.0,,215.0,,3.15,,1460.0,,0.54,,100.0,Manufacturer datasheet
+22,PlusICE E-52,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-52.0,,211.0,,3.15,,1480.0,,0.54,,100.0,Manufacturer datasheet
+23,PlusICE E-51,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-51.0,,206.0,,3.15,,1500.0,,0.54,,100.0,Manufacturer datasheet
+24,ATS -50,Eutectic,Commercial,Axiotherm (Germany),,,-50.0,,177.2,,3.0,3.0,1378.0,1240.0,0.6,0.6,,Manufacturer datasheet
+25,PlusICE E-50,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-50.0,,175.0,,3.28,,1325.0,,0.56,,100.0,Manufacturer datasheet
+26,SP-50,Salt hydrate,Commercial,Rubitherm (Germany),,,-50.0,,188.4,,2.0,2.0,1100.0,1300.0,0.6,0.6,,Manufacturer datasheet
+27,PlusICE E-49,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-49.0,,202.0,,3.28,,1510.0,,0.56,,100.0,Manufacturer datasheet
+28,PlusICE E-48,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-48.0,,202.0,,3.28,,1510.0,,0.56,,100.0,Manufacturer datasheet
+29,ATS -40,Eutectic,Commercial,Axiotherm (Germany),,,-40.0,,136.6,,3.0,3.0,1543.0,1450.0,0.6,0.6,,Manufacturer datasheet
+30,Mercury,Metal / alloy,Pure / literature,,,,-38.87,,11.4,,0.139,,13546.0,,8.34,,,Nicholas R. Jankowski 2013; Literature compilation
+31,PlusICE E-37,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-37.0,,225.0,,3.15,,1500.0,,0.54,,100.0,Manufacturer datasheet
+32,PureTemp-37,Fatty ester,Commercial,PureTemp (USA),,,-37.0,,144.8,,1.39,1.99,970.0,880.0,0.25,0.15,,Manufacturer datasheet
+33,ATS -34,Eutectic,Commercial,Axiotherm (Germany),,,-34.0,,199.7,,3.0,3.0,1255.0,1180.0,0.6,0.6,,Manufacturer datasheet
+34,PlusICE E-34,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-34.0,,200.0,,3.05,,1205.0,,0.54,,100.0,Manufacturer datasheet
+35,PlusICE E-32,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-32.0,,225.0,,2.95,,1290.0,,0.56,,100.0,Manufacturer datasheet
+36,Al(NO3)3 + H2O,Eutectic,Pure / literature,,,30.5 wt% + water,-30.6,,131.0,,,,1267.0,,,,,L.F.Cabeza 2011
+37,HS30N,Salt hydrate,Commercial,PLUSS Advanced Technologies (India),,,-30.0,,173.2,,2.1,2.7,1460.0,1425.0,5.0,0.7,,Manufacturer datasheet
+38,SP-30,Salt hydrate,Commercial,Rubitherm (Germany),,,-30.0,,229.6,,2.0,2.0,1100.0,1200.0,0.6,0.6,,Manufacturer datasheet
+39,PlusICE E-29,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-29.0,,250.0,,3.69,,1420.0,,0.64,,100.0,Manufacturer datasheet
+40,Decane,Paraffin,Pure / literature,,C10H22,,-28.29,,209.2,,1.585,2.083,896.2,728.5,0.2,0.133,,PCM property database; Nicholas 2014
+41,SP-28,Salt hydrate,Commercial,Rubitherm (Germany),,,-28.0,,245.9,,2.0,2.0,1300.0,1200.0,0.6,0.6,,Manufacturer datasheet
+42,HS26N,Salt hydrate,Commercial,PLUSS Advanced Technologies (India),,,-26.0,,244.2,,1.7,3.6,1122.0,1200.0,5.0,0.7,,Manufacturer datasheet
+43,PlusICE E-26,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-26.0,,265.0,,3.67,,1250.0,,0.58,,100.0,Manufacturer datasheet
+44,Undecane (C11),Paraffin,Pure / literature,,,,-25.6,,177.0,,,,,737.0,,,,Nicholas 2014
+45,ATS -24,Eutectic,Commercial,Axiotherm (Germany),,,-24.0,,300.0,,3.0,3.0,1191.0,1120.0,0.6,0.6,,Manufacturer datasheet
+46,SP-24,Salt hydrate,Commercial,Rubitherm (Germany),,,-24.0,,219.0,,2.0,2.0,1200.0,1300.0,0.6,0.6,,Manufacturer datasheet
+47,HS23N,Salt hydrate,Commercial,PLUSS Advanced Technologies (India),,,-23.0,,248.1,,1.58,3.4,1078.0,1155.0,4.976,0.702,,Manufacturer datasheet
+48,Propionic acid,Fatty / organic acid,Pure / literature,,C3H6O2,,-22.38,,143.4,,3.039,2.046,1189.4,1027.8,,0.1534,,PCM property database
+49,PlusICE E-22,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-22.0,,305.0,,3.34,,1180.0,,0.57,,100.0,Manufacturer datasheet
+50,NaCl (22.4 wt%) + H2O,Eutectic,Pure / literature,,,,-21.2,,222.0,,,,1136.5,,,,,Nicholas 2014; Nicholas R. Jankowski 2013
+51,ATS -21,Eutectic,Commercial,Axiotherm (Germany),,,-21.0,,274.1,,3.0,3.0,1234.0,1160.0,0.6,0.6,,Manufacturer datasheet
+52,ClimSel C-21,Salt hydrate,Commercial,Climator (Sweden),,,-21.0,,217.2,,3.1,4.2,1300.0,1300.0,1.45,0.33,,Manufacturer datasheet
+53,PlusICE E-21,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-21.0,,285.0,,3.13,,1240.0,,0.51,,100.0,Manufacturer datasheet
+54,PureTemp-21,Fatty ester,Commercial,PureTemp (USA),,,-21.0,,238.6,,1.83,3.43,1170.0,1060.0,2.39,0.55,,Manufacturer datasheet
+55,SP-21,Salt hydrate,Commercial,Rubitherm (Germany),,,-21.0,,278.0,,2.0,2.0,1300.0,1200.0,0.6,0.6,,Manufacturer datasheet
+56,PlusICE E-19,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-19.0,,300.0,,3.29,,1125.0,,0.58,,100.0,Manufacturer datasheet
+57,Ethyl decanoate,Fatty ester,Pure / literature,,,,-18.47,,159.9,,,,,754.12,,0.0993,,PCM property database
+58,ClimSel C-18,Salt hydrate,Commercial,Climator (Sweden),,,-18.0,,237.2,,2.85,3.4,1400.0,1400.0,2.17,0.56,,Manufacturer datasheet
+59,HS18N,Salt hydrate,Commercial,PLUSS Advanced Technologies (India),,,-18.0,,223.4,,3.9,3.48,1083.0,1095.0,5.0,0.44,,Manufacturer datasheet
+60,SP-17,Salt hydrate,Commercial,Rubitherm (Germany),,,-17.0,,301.0,,2.0,2.0,1200.0,1100.0,0.6,0.6,,Manufacturer datasheet
+61,Valeric Acid,Fatty / organic acid,Pure / literature,,,,-15.2,,218.0,,,,,,,,,Nicholas 2014
+62,HS15N,Salt hydrate,Commercial,PLUSS Advanced Technologies (India),,,-15.0,,302.1,,1.87,3.4,1016.0,1070.0,,0.53,,Manufacturer datasheet
+63,PlusICE E-15,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-15.0,,320.0,,3.87,,1060.0,,0.53,,100.0,Manufacturer datasheet
+64,PureTemp-15,Fatty ester,Commercial,PureTemp (USA),,,-15.0,,300.8,,1.84,2.06,1130.0,1030.0,2.34,0.55,,Manufacturer datasheet
+65,ATS -12,Eutectic,Commercial,Axiotherm (Germany),,,-12.0,,312.0,,3.0,3.0,1064.0,1000.0,0.6,0.6,,Manufacturer datasheet
+66,PlusICE E-11,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-12.0,,310.0,,3.55,,1090.0,,0.57,,100.0,Manufacturer datasheet
+67,Methyl decanoate,Fatty ester,Pure / literature,,,,-11.5,,183.1,,2.055,,1056.3,780.98,,0.1023,,PCM property database
+68,SP-11,Salt hydrate,Commercial,Rubitherm (Germany),,,-11.0,,266.5,,2.0,2.0,1100.0,1200.0,0.6,0.6,,Manufacturer datasheet
+69,KCl (19.5 wt%) + H2O,Eutectic,Pure / literature,,,,-10.7,,283.0,,,,1115.5,,,,,Nicholas 2014; Nicholas R. Jankowski 2013
+70,ATS -10,Eutectic,Commercial,Axiotherm (Germany),,,-10.0,,302.1,,3.0,3.0,1289.0,1160.0,0.6,0.6,,Manufacturer datasheet
+71,Diethylene Glycol,Organic (other),Pure / literature,,,,-10.0,,247.0,,,,,1200.0,,,,Nicholas 2014; Cabeza 2011; Literature compilation
+72,HS10N,Salt hydrate,Commercial,PLUSS Advanced Technologies (India),,,-10.0,,302.3,,1.9,3.4,1057.0,1125.0,4.25,0.6,,Manufacturer datasheet
+73,RT-9HC,Paraffin,Commercial,Rubitherm (Germany),,,-9.0,,221.0,,2.0,2.0,880.0,750.0,0.2,0.2,,Manufacturer datasheet
+74,Dodecane,Paraffin,Pure / literature,,C12H26,,-8.61,,208.5,,1.645,2.21,899.4,745.0,0.21,0.137,,PCM property database; Nicholas 2014; Literature compilation
+75,HS7N,Salt hydrate,Commercial,PLUSS Advanced Technologies (India),,,-7.0,,267.3,,2.0,3.5,1026.0,1120.0,1.76,0.55,,Manufacturer datasheet
+76,SP-7,Salt hydrate,Commercial,Rubitherm (Germany),,,-7.0,,223.5,,2.0,2.0,1250.0,1150.0,0.6,0.6,,Manufacturer datasheet
+77,Tri ethylene glycol,Organic (other),Pure / literature,,,,-7.0,,247.0,,,,,1200.0,,,,Su 2015; Nicholas 2014; Cabeza 2011; Literature compilation
+78,ATS -6,Eutectic,Commercial,Axiotherm (Germany),,,-6.0,,307.6,,3.0,3.0,1170.0,1100.0,0.6,0.6,,Manufacturer datasheet
+79,PlusICE E-6,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-6.0,,300.0,,3.83,,1110.0,,0.56,,100.0,Manufacturer datasheet
+80,Tridecane (C13),Paraffin,Pure / literature,,C13H28,,-5.4,,196.0,,,2.21,756.0,753.0,,,,Nicholas 2014; Literature compilation
+81,Butyric Acid,Fatty / organic acid,Pure / literature,,,,-5.1,,216.0,,,,,,,,,Nicholas 2014
+82,SP-5,Salt hydrate,Commercial,Rubitherm (Germany),,,-5.0,,303.5,,2.0,2.0,1200.0,1100.0,0.2,0.2,,Manufacturer datasheet
+83,PlusICE E-3,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-4.0,,330.0,,3.84,,1060.0,,0.6,,100.0,Manufacturer datasheet
+84,RT-4,Paraffin,Commercial,Rubitherm (Germany),,,-4.0,,151.4,,2.0,2.0,880.0,760.0,0.2,0.2,,Manufacturer datasheet
+85,ATS -3,Eutectic,Commercial,Axiotherm (Germany),,,-3.0,,277.6,,3.0,3.0,1170.0,1100.0,0.6,0.6,,Manufacturer datasheet
+86,HS3N,Salt hydrate,Commercial,PLUSS Advanced Technologies (India),,,-3.0,,330.3,,1.8,3.98,985.0,1060.0,2.2,0.35,,Manufacturer datasheet
+87,Hexanoic acid,Fatty / organic acid,Pure / literature,,C6H12O2,,-2.02,,145.3,,1.6927,2.251,1066.4,921.13,0.14,0.1457,,PCM property database; Nicholas 2014
+88,PlusICE E-2,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,-2.0,,325.0,,3.8,,1070.0,,0.58,,100.0,Manufacturer datasheet
+89,PureTemp-2,Fatty ester,Commercial,PureTemp (USA),,,-2.0,,276.9,,2.1,4.02,930.0,1020.0,2.21,0.6,,Manufacturer datasheet
+90,Tetradecane + Octadecane,Eutectic,Pure / literature,,,,-0.96,-4.02 to 2.1,227.52,,,,,,,,,Nicholas 2014; Literature compilation
+91,Ethyl dodecanoate,Fatty ester,Pure / literature,,,,-0.1,,176.2,,,,,740.13,,0.093,,PCM property database
+92,HS01,Salt hydrate,Commercial,PLUSS Advanced Technologies (India),,,0.0,,331.7,,2.0,3.9,924.0,1010.0,2.2,0.55,,Manufacturer datasheet
+93,PlusICE E0,Eutectic,Commercial,PCM Products Ltd / PlusICE (UK),,,0.0,,395.0,,4.19,,1000.0,,0.58,,100.0,Manufacturer datasheet
+94,Water,Inorganic (other),Pure / literature,,H2O,,0.0,,333.0,,,,,,0.598,,,Literature compilation
+95,Water / ice,Paraffin,Commercial,Rubitherm (Germany),H2O,,0.0,,183.8,,2.0,2.0,880.0,770.0,0.2,0.2,,Manufacturer datasheet; CRC Handbook of Chemistry and Physics
+96,Water+polyacrylamide,Eutectic,Pure / literature,,,,0.0,,295.0,,,,,,,,,Literature compilation
+97,Propionic Acid,Fatty / organic acid,Pure / literature,,,,0.1,,210.0,,,,,,,,,Nicholas 2014
+98,Phosphorus oxychloride,Inorganic (other),Pure / literature,,POCl3,,1.0,,85.0,,,,,,,,,Literature compilation
+99,91.67% Tetradecane + 8.33% Hexadecane,Eutectic,Pure / literature,,,91.67/8.33,1.7,,156.2,,,,,,,,,Nicholas 2014
+100,Tetradecane + hexadecane,Eutectic,Pure / literature,,,91.67 + 8.33,1.7,,156.2,,,,,,,,,Su 2015; Literature compilation
+101,ATP 2,Paraffin,Commercial,Axiotherm (Germany),,,2.0,,182.5,,2.0,2.0,844.0,760.0,0.2,0.2,,Manufacturer datasheet
+102,PlusICE A2,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,2.0,,230.0,,2.2,,765.0,,0.21,,150.0,Manufacturer datasheet
+103,RT2HC,Paraffin,Commercial,Rubitherm (Germany),,,2.0,,170.7,,2.0,2.0,880.0,770.0,0.2,0.2,,Manufacturer datasheet
+104,PlusICE A3,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,3.0,,230.0,,2.2,,765.0,,0.21,,150.0,Manufacturer datasheet
+105,RT3HC,Paraffin,Commercial,Rubitherm (Germany),,,3.0,,165.0,,2.0,2.0,880.0,770.0,0.2,0.2,,Manufacturer datasheet
+106,PEG 400,Polymer / PEG,Pure / literature,,"HO(C2H4O)nH, Mn≈400",,3.2,,91.4,,,,1125,1128,,0.187,,"Pielichowska & Pielichowski 2014, Prog. Mater. Sci. 65:67"
+107,Tetradecane + Docosane,Eutectic,Pure / literature,,,,3.55,1.5–5.6,234.33,,,,,,,,,Nicholas 2014; Su 2015; Literature compilation
+108,Deuterium oxide,Inorganic (other),Pure / literature,,D2O,,3.7,,318.0,,,,,,0.595,,,Literature compilation
+109,ATP 4,Paraffin,Commercial,Axiotherm (Germany),,,4.0,,225.0,,2.0,2.0,833.0,750.0,0.2,0.2,,Manufacturer datasheet
+110,Antimony chloride,Inorganic (other),Pure / literature,,SbCl5,,4.0,,33.0,,,,,,,,,Literature compilation
+111,FS03,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,4.0,,133.1,,2.49,2.23,860.0,860.0,0.22,0.16,,Manufacturer datasheet
+112,Na2SO4 + NaCl + KCl + H2O,Eutectic,Pure / literature,,,31 + 13 + 16 + 40,4.0,,234.0,,,,,,,,,Su 2015; Literature compilation
+113,PlusICE A4,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,4.0,,235.0,,2.18,,766.0,,0.21,,150.0,Manufacturer datasheet
+114,PureTemp4,Fatty ester,Commercial,PureTemp (USA),,,4.0,,185.9,,1.78,2.26,960.0,880.0,0.25,0.15,,Manufacturer datasheet
+115,RT4,Paraffin,Commercial,Rubitherm (Germany),,,4.0,,142.7,,2.0,2.0,880.0,750.0,0.2,0.2,,Manufacturer datasheet
+116,Paraffin C14,Paraffin,Pure / literature,,,,4.5,,165.0,,,,,,,,,Zalba 2003; L.F.Cabeza 2011
+117,Tetradecane + Heneicosane,Eutectic,Pure / literature,,,,4.55,3.54–5.56,200.28,,,,,,,,,Nicholas 2014
+118,Tetradecane + geneicosane,Eutectic,Pure / literature,,,,4.55,3.54–5.56,200.28,,,,,,,,,Su 2015; Literature compilation
+119,Crodatherm 5,Paraffin,Commercial,Croda (UK),,,5.0,,203.9,,1.8,1.7,924.0,870.0,0.23,0.15,,Manufacturer datasheet
+120,OM03,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,5.0,,168.2,,1.76,1.91,912.0,835.0,0.224,0.146,,Manufacturer datasheet
+121,PlusICE A5,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,5.0,,170.0,,2.18,,768.0,,0.22,,150.0,Manufacturer datasheet
+122,RT5,Paraffin,Commercial,Rubitherm (Germany),,,5.0,,147.0,,2.0,2.0,880.0,770.0,0.2,0.2,,Manufacturer datasheet
+123,RT5HC,Paraffin,Commercial,Rubitherm (Germany),,,5.0,,241.0,,2.0,2.0,880.0,770.0,0.2,0.2,,Manufacturer datasheet
+124,SP5_gel,Salt hydrate,Commercial,Rubitherm (Germany),,,5.0,,145.0,,2.0,2.0,1400.0,1300.0,0.6,0.6,,Manufacturer datasheet
+125,Tetrahidrofurano (THF),Eutectic,Pure / literature,,,,5.0,,280.0,,,,,,,,,Su 2015; Literature compilation
+126,Tetrahydrofuran,Organic (other),Pure / literature,,,,5.0,,280.0,,,,,,,,,Nicholas 2014
+127,Paraffin blend (n = 14–16),Paraffin,Pure / literature,,,,5.5,5–6,152.0,,,,783.0,,,,,Nicholas 2014
+128,Methyl dodecanoate,Fatty ester,Pure / literature,,,,5.9,,185.8,,1.567,2.037,1031.0,1029.32,,0.1177,,PCM property database
+129,Trimethylamine semi clathrate,Eutectic,Pure / literature,,,,5.9,,239.0,,,,,,,,,Nicholas R. Jankowski 2013
+130,1-Decanol,Fatty alcohol,Pure / literature,,,,6.0,,206.0,,,,,,,,,Nicholas 2014
+131,ATP 6,Paraffin,Commercial,Axiotherm (Germany),,,6.0,,236.0,,2.0,2.0,822.0,740.0,0.2,0.2,,Manufacturer datasheet
+132,OM05-P,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,6.0,,163.0,,3.86,5.95,727.0,763.0,0.13,0.12,,Manufacturer datasheet
+133,PlusICE A6,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,6.0,,185.0,,2.17,,768.0,,0.21,,150.0,Manufacturer datasheet
+134,n‐Tetradecane,Paraffin,Pure / literature,,,,6.0,,230.0,,,,,,0.21,,,Zalba 2003
+135,A6.5,Organic (other),Pure / literature,,,,6.5,,190.0,,2.18,,770.0,,,,,Literature compilation
+136,Crodatherm 6.5,Paraffin,Commercial,Croda (UK),,,6.5,,190.8,,1.4,1.9,921.0,957.0,0.24,0.15,,Manufacturer datasheet
+137,PlusICE A6.5,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,6.5,,190.0,,2.18,,770.0,,0.22,,150.0,Manufacturer datasheet
+138,Pentadecane + Heneicosane,Eutectic,Pure / literature,,,,6.72,6.23–7.21,128.25,,,,,,,,,Nicholas 2014; Su 2015; Literature compilation
+139,Tetradecane,Paraffin,Pure / literature,,C14H30,,6.9,5.5–5.8,222.6,227–228,2.016,2.173,914.0,764.0,0.15,0.1384,,PCM property database; L.F.Cabeza 2011; Nicholas 2014; Su 2015; Literature compilation
+140,ClimSel C7,Salt hydrate,Commercial,Climator (Sweden),,,7.0,,55.3,,3.3,3.8,1400.0,1400.0,0.78,0.59,,Manufacturer datasheet
+141,OM08,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,7.0,,132.5,,1.71,2.11,1190.0,1020.0,0.235,0.118,,Manufacturer datasheet
+142,PlusICE A7,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,7.0,,190.0,,2.18,,770.0,,0.22,,150.0,Manufacturer datasheet
+143,SO2 clathrate hydrate (6H2O),Eutectic,Pure / literature,,,,7.0,,247.0,,,,,,,,,Nicholas R. Jankowski 2013
+144,SP7_gel,Salt hydrate,Commercial,Rubitherm (Germany),,,7.0,,137.0,,2.0,2.0,1400.0,1300.0,0.6,0.6,,Manufacturer datasheet
+145,Formic Acid,Fatty / organic acid,Pure / literature,,,,7.8,,247.0,,,,1226.7,,,,,Nicholas 2014; Su 2015; Literature compilation
+146,Lithium chlorate trihydrate,Salt hydrate,Pure / literature,,LiClO3·3H2O,,8.0,,253.0,,,,1720.0,1530.0,,,,Su 2015; Zalba 2003; Nicholas 2014; Literature compilation
+147,Paraffin C15–C16,Paraffin,Pure / literature,,,,8.0,,153.0,,,,,,,,,Zalba 2003
+148,Paraffin blend (n = 15–16),Paraffin,Pure / literature,,,,8.0,,150.0,147–153,,,780.55,,,,,Nicholas 2014
+149,PlusICE A8,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,8.0,,180.0,,2.16,,770.0,,0.21,,150.0,Manufacturer datasheet
+150,PlusICE S8,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,8.0,,130.0,,1.9,,1475.0,,0.44,,60.0,Manufacturer datasheet
+151,Polyglycol E400,Polymer / PEG,Pure / literature,,,,8.0,,99.6,,,,,,,,,Zalba 2003
+152,PureTemp8,Fatty ester,Commercial,PureTemp (USA),,,8.0,,177.7,,1.85,2.15,950.0,860.0,0.22,0.14,,Manufacturer datasheet
+153,RT8,Paraffin,Commercial,Rubitherm (Germany),,,8.0,,153.6,,2.0,2.0,880.0,770.0,0.2,0.2,,Manufacturer datasheet
+154,RT8HC,Paraffin,Commercial,Rubitherm (Germany),,,8.0,,160.0,,2.0,2.0,880.0,750.0,0.2,0.2,,Manufacturer datasheet
+155,Pentadecane + Docosane,Eutectic,Pure / literature,,,,8.295,7.6–8.99,214.83,,,,,,,,,Nicholas 2014; Su 2015; Literature compilation
+156,Pentadecane + Octadecane,Eutectic,Pure / literature,,,,8.75,8.5–9.0,271.93,,,,,,,,,Nicholas 2014; Su 2015; Literature compilation
+157,PlusICE A9,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,9.0,,190.0,,2.16,,770.0,,0.21,,150.0,Manufacturer datasheet
+158,SP9_gel,Salt hydrate,Commercial,Rubitherm (Germany),,,9.0,,136.0,,2.0,2.0,1400.0,1300.0,0.6,0.6,,Manufacturer datasheet
+159,Crodatherm 9.5,Paraffin,Commercial,Croda (UK),,,9.5,,192.3,,2.2,2.1,963.0,858.0,0.24,0.15,,Manufacturer datasheet
+160,Dimethyl adipate [13],Fatty ester,Pure / literature,,,,9.7,,164.6,,,,1062.0,,0.358,,,Literature compilation
+161,Dimethyladipate,Fatty ester,Pure / literature,,,,9.7,,164.6,,,,1062.0,,0.358,,,Su 2015
+162,n‐Pentadecane,Paraffin,Pure / literature,,,,9.9,,194.0,,,,,,,,,Cabeza 2011
+163,ClimSel C10,Salt hydrate,Commercial,Climator (Sweden),,,10.0,,77.7,,2.5,3.0,1400.0,1400.0,0.83,0.7,,Manufacturer datasheet
+164,Paraffin C15,Paraffin,Pure / literature,,,,10.0,,205.0,,,,770.0,,,,,L.F.Cabeza 2011
+165,PlusICE A10,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,10.0,,210.0,,2.16,,770.0,,0.22,,150.0,Manufacturer datasheet
+166,PlusICE S10,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,10.0,,170.0,,1.9,,1470.0,,0.43,,60.0,Manufacturer datasheet
+167,Propyl palmitate,Fatty ester,Pure / literature,,,,10.0,,186.0,,,,,,,,,Nicholas 2014; Zalba 2003; Su 2015; Literature compilation
+168,RT10,Paraffin,Commercial,Rubitherm (Germany),,,10.0,,142.0,,2.0,2.0,880.0,770.0,0.2,0.2,,Manufacturer datasheet
+169,RT10HC,Paraffin,Commercial,Rubitherm (Germany),,,10.0,,175.6,,2.0,2.0,880.0,770.0,0.2,0.2,,Manufacturer datasheet
+170,Zinc chloride trihydrate,Salt hydrate,Pure / literature,,ZnCl2·3H2O,,10.0,,,,,,,,,,,Su 2015; Literature compilation
+171,Sulphuric acid,Inorganic (other),Pure / literature,,H2SO4,,10.4,,100.0,,,,,,0.26,,,Literature compilation
+172,67Ga–20.5In–12.5Zn,Metal / alloy,Pure / literature,,,,10.7,,67.2,,,,,,,,,Nicholas 2014
+173,Gallium–Indium–Zinc eutectic,Eutectic,Pure / literature,,,68Ga–20In–12Zn,10.7,,67.2,,,,,,,,,Nicholas 2014
+174,Pentadecane,Paraffin,Pure / literature,,C15H32,,10.96,,217.3,205–210,2.215,2.184,913.4,771.01,0.17,0.1425,,PCM property database; Su 2015; Nicholas 2014; Literature compilation
+175,Ammonium chloride sodium sulphate decahydrate,Salt hydrate,Pure / literature,,NH4Cl·Na2SO4·10H2O,,11.0,,163.0,,,,,,,,,Su 2015; Literature compilation
+176,Ethyl myristate,Fatty ester,Pure / literature,,,,11.0,,184.0,,,,,,,,,Nicholas 2014
+177,Isopropyl palmitate,Fatty ester,Pure / literature,,,,11.0,,97.5,95–100,,,863.0,,,,,Nicholas 2014; Zalba 2003; Su 2015; Literature compilation
+178,Na2SO4 + NaCl + NH4Cl + H2O,Eutectic,Pure / literature,,,32 + 14 + 12 + 42,11.0,,,,,,,,,,,Su 2015; Literature compilation
+179,PlusICE A11,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,11.0,,210.0,,2.16,,775.0,,0.22,,150.0,Manufacturer datasheet
+180,RT11HC,Paraffin,Commercial,Rubitherm (Germany),,,11.0,,191.4,,2.0,2.0,880.0,770.0,0.2,0.2,,Manufacturer datasheet
+181,SP11_gel,Salt hydrate,Commercial,Rubitherm (Germany),,,11.0,,143.0,,2.0,2.0,1330.0,1320.0,0.6,0.6,,Manufacturer datasheet
+182,Tetrabutyl ammoniumbromide (type A-type B),Organic (other),Pure / literature,,,,11.0,10–12,196.0,193–199,,,,,,,,Literature compilation
+183,Tetrabutylammoniumbromide,Organic (other),Pure / literature,,,,11.0,10–12,196.0,193–199,,,,,,,,Su 2015
+184,ATP 12,Paraffin,Commercial,Axiotherm (Germany),,,12.0,,188.8,,2.0,2.0,889.0,800.0,0.2,0.2,,Manufacturer datasheet
+185,C5H5C6H5 + (C6H5)2O,Eutectic,Pure / literature,,,26.5 + 73.5,12.0,,97.9,,,,,,,,,Su 2015
+186,C6H5C6H5 + (C6H5)2O,Eutectic,Pure / literature,,,26.5+73.5,12.0,,97.9,,,,,,,,,Literature compilation
+187,PlusICE A12,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,12.0,,215.0,,2.16,,775.0,,0.22,,150.0,Manufacturer datasheet
+188,RT12,Paraffin,Commercial,Rubitherm (Germany),,,12.0,,142.3,,2.0,2.0,880.0,770.0,0.2,0.2,,Manufacturer datasheet
+189,SO2 clathrate hydrate (6.1H2O),Eutectic,Pure / literature,,,,12.1,,,,,,,,,,,Nicholas R. Jankowski 2013
+190,Tetrabutylammonium bromide hydrate,Eutectic,Pure / literature,,,,12.5,,,,,,,,,,,Nicholas R. Jankowski 2013
+191,PlusICE A13,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,13.0,,225.0,,2.16,,775.0,,0.22,,150.0,Manufacturer datasheet
+192,PlusICE S13,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,13.0,,150.0,,1.9,,1515.0,,0.43,,60.0,Manufacturer datasheet
+193,90% Capric–Lauric acid + 10% Pentadecane,Eutectic,Pure / literature,,,,13.3,,142.2,,,,,,,,,Nicholas 2014
+194,Triethylolethane + Water + Urea,Eutectic,Pure / literature,,,38.5 + 31.5 + 30,13.4,,160.0,,,,,,,,,Cabeza 2011; Su 2015; Literature compilation
+195,Iodine chloride (β),Inorganic (other),Pure / literature,,ICl (β),,13.9,,56.0,,,,,,,,,Literature compilation
+196,Di potassium hydrogen phosphate hexahydrate,Salt hydrate,Pure / literature,,K2HPO4·6H2O,,14.0,,109.0,,,,,,,,,Su 2015; Literature compilation
+197,PlusICE A14,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,14.0,,200.0,,2.16,,775.0,,0.22,,150.0,Manufacturer datasheet
+198,38.5% Trimethylolethane + 31.5% H2O + 30% Urea,Eutectic,Pure / literature,,,,14.4,,160.0,,,,,,,,,Nicholas 2014
+199,38.5% Trimethylolethane + 31.5% Water + 30% Urea,Eutectic,Pure / literature,,,,14.4,,160.0,,,,,1170.0,0.66,,,Cabeza 2011
+200,Trimethyloletane + Water + Urea,Eutectic,Pure / literature,,,,14.4,,160.0,,,,,1170.0,0.66,,,Cabeza 2011
+201,CaCl2·6H2O + CaBr2·6H2O,Eutectic,Pure / literature,,,45 + 55,14.7,,140.0,,,,,,,,,Su 2015; Literature compilation
+202,Oleicacid,Organic (other),Pure / literature,,,,14.9,13.5–16.3,,,,,863.0,,,,,Su 2015; Literature compilation
+203,Crodatherm 15,Paraffin,Commercial,Croda (UK),,,15.0,,175.8,,2.0,1.9,896.0,859.0,0.29,0.1,,Manufacturer datasheet
+204,PX15,Organic (other),Commercial,Rubitherm (Germany),,,15.0,,56.0,,2.0,2.0,650.0,650.0,0.1,0.1,,Manufacturer datasheet
+205,PlusICE A15,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,15.0,,205.0,,2.16,,780.0,,0.18,,150.0,Manufacturer datasheet
+206,PlusICE S15,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,15.0,,180.0,,1.9,,1510.0,,0.43,,60.0,Manufacturer datasheet
+207,PureTemp15,Fatty ester,Commercial,PureTemp (USA),,,15.0,,182.8,,2.25,2.56,950.0,860.0,0.25,0.15,,Manufacturer datasheet
+208,RT15,Paraffin,Commercial,Rubitherm (Germany),,,15.0,,145.0,,2.0,2.0,880.0,770.0,0.2,0.2,,Manufacturer datasheet
+209,SP15_gel,Salt hydrate,Commercial,Rubitherm (Germany),,,15.0,,142.6,,2.0,2.0,1400.0,1300.0,0.6,0.6,,Manufacturer datasheet
+210,78.55Ga–21.45In,Metal / alloy,Pure / literature,,,,15.7,,69.7,,,,,,,,,Nicholas 2014
+211,ATP 16,Paraffin,Commercial,Axiotherm (Germany),,,16.0,,212.0,,2.0,2.0,856.0,770.0,0.2,0.2,,Manufacturer datasheet
+212,Isopropyl Stearate,Fatty ester,Pure / literature,,,,16.0,14 – 18,141.0,140 – 142,,,,,,,,Zalba 2003; Nicholas 2014; Su 2015; Literature compilation
+213,PlusICE A16,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,16.0,,225.0,,2.16,,780.0,,0.18,,150.0,Manufacturer datasheet
+214,Caprylic Acid,Fatty / organic acid,Pure / literature,,,,16.3,,141.6,,,,901.0,,0.149,,,Nicholas 2014; Zalba 2003; Su 2015; Literature compilation
+215,Caprylic acid (octanoic acid),Fatty / organic acid,Pure / literature,,C8H16O2,,16.3,,149,,1.94,2.46,981,862,0.149,,,"Yuan et al. 2014, Renew. Sustain. Energy Rev. 29:482"
+216,Octanoic acid,Fatty / organic acid,Pure / literature,,,,16.3,,141.6,,,,,,,,,Nicholas 2014
+217,Dimethyl Sulfoxide,Organic (other),Pure / literature,,,,16.5,,85.7,,,,1009.0,1009.0,,,,Zalba 2003; Su 2015; Literature compilation
+218,Calcium bromide - Calcium chloride hexahydrate (55wt%/45wt%),Eutectic,Pure / literature,,,,16.53,,100.0,,,,,,,,,PCM property database
+219,Acetic Acid,Fatty / organic acid,Pure / literature,,,,16.7,,187.0,187–273,2.04,1.96,1050.0,1050.0,,0.18,,Nicholas 2014; Su 2015; Literature compilation
+220,Capric Acid,Fatty / organic acid,Pure / literature,,,,16.7,,149.0,,,,,,,,,Zalba 2003
+221,Paraffin C16,Paraffin,Pure / literature,,,,16.7,,237.1,,,,,,,,,L.F.Cabeza 2011
+222,48% Butyl Palmite + 48% Butyl Stearate + 3% Other,Eutectic,Pure / literature,,,,17.0,,140.0,,,,,,,,,Cabeza 2011
+223,Butyl palmitate + Butyl stearate + 3% others,Eutectic,Pure / literature,,,,17.0,,140.0,,,,,,,,,Nicholas 2014
+224,Molybdenum fluoride,Inorganic (other),Pure / literature,,MoF6,,17.0,,50.0,,,,,,,,,Literature compilation
+225,PlusICE A17,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,17.0,,235.0,,2.18,,780.0,,0.18,,200.0,Manufacturer datasheet
+226,PlusICE S17,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,17.0,,155.0,,1.9,,1525.0,,0.43,,60.0,Manufacturer datasheet
+227,Sulphur trioxide (α),Inorganic (other),Pure / literature,,SO3(α),,17.0,,108.0,,,,,,,,,Literature compilation
+228,1-Undecanol,Fatty alcohol,Pure / literature,,C11H24O,,17.13,,207.2,,1.708,2.361,978.7,830.68,,0.169,,PCM property database
+229,Glycerin,Organic (other),Pure / literature,,,,17.9,,198.7,,,,1260.0,,,,,Su 2015; Literature compilation
+230,Glycerol,Organic (other),Pure / literature,,,,17.9,,198.7,,,,,,,,,Nicholas 2014
+231,ATP 18,Paraffin,Commercial,Axiotherm (Germany),,,18.0,,237.0,,2.0,2.0,844.0,760.0,0.2,0.2,,Manufacturer datasheet
+232,Na2SO4 + NaCl + H2O,Eutectic,Pure / literature,,,37+17+46,18.0,,,,,,,,,,,Literature compilation
+233,PlusICE A18,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,18.0,,155.0,,2.18,,765.0,,0.22,,200.0,Manufacturer datasheet
+234,PlusICE S18,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,18.0,,145.0,,1.9,,1520.0,,0.43,,60.0,Manufacturer datasheet
+235,Potassium fluoride tetrahydrate,Salt hydrate,Pure / literature,,KF·4H2O,,18.0,,330.0,,1.84,2.39,1463.5,1447,,,,"Su 2015; Zalba 2003; Literature compilation; Zalba et al. 2003, Appl. Therm. Eng. 23:251"
+236,PureTemp18,Fatty ester,Commercial,PureTemp (USA),,,18.0,,191.6,,1.47,1.74,950.0,860.0,0.25,0.15,,Manufacturer datasheet
+237,RT18HC,Paraffin,Commercial,Rubitherm (Germany),,,18.0,,232.8,,2.0,2.0,880.0,760.0,0.2,0.2,,Manufacturer datasheet
+238,Sodium chloride sodium sulphate decahydrate,Salt hydrate,Pure / literature,,NaCl·Na2SO4·10H2O,,18.0,,286.0,,,,,,,,,Su 2015; Literature compilation
+239,Di potassium hydrogen phosphate tetrahydrate,Salt hydrate,Pure / literature,,K2HPO4·4H2O,,18.5,,231.0,"1.84(s), 2.39(l)",1.84,2.39,1480.0,1447.0,,,,Su 2015; Literature compilation
+240,82Ga–12Sn–6Zn,Metal / alloy,Pure / literature,,,,18.8,,86.5,,,,,,,,,Nicholas 2014
+241,Butyl stearate,Fatty ester,Pure / literature,,,,19.0,,110.0,,,,760.0,,0.21,,,Cheng Zhou 2018; Zalba 2003; Su 2015; Literature compilation
+242,Capric + Lauric Acid,Eutectic,Pure / literature,,,61.5+38.5,19.0,17–21,143.0,,,,,,,,,Cabeza 2011; Literature compilation
+243,Crodatherm 19,Paraffin,Commercial,Croda (UK),,,19.0,,173.6,,2.5,1.8,911.0,850.0,0.23,0.16,,Manufacturer datasheet
+244,OM18,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,19.0,,126.1,,2.92,2.69,906.0,880.0,0.182,0.175,,Manufacturer datasheet
+245,PlusICE A19,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,19.0,,150.0,,2.18,,765.0,,0.22,,200.0,Manufacturer datasheet
+246,PlusICE S19,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,19.0,,175.0,,1.9,,1520.0,,0.43,,60.0,Manufacturer datasheet
+247,Propyl palmitate,Fatty ester,Pure / literature,,,,19.0,,186.0,,,,,,,,,Su 2015; Literature compilation
+248,n‐Heptadecane,Paraffin,Pure / literature,,,,19.0,,240.0,,,,,760.0,,0.21,,Zalba 2003
+249,Hexadecane,Paraffin,Pure / literature,,C16H34,,19.22,16.7–18.1,229.9,236–237,2.207,2.2077,902.0,770.17,0.21,0.141,,PCM property database; Su 2015; Nicholas 2014; Literature compilation
+250,ATP 20,Paraffin,Commercial,Axiotherm (Germany),,,20.0,,187.0,,2.5,2.5,894.0,840.0,0.2,0.2,,Manufacturer datasheet
+251,PlusICE A20,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,20.0,,160.0,,2.2,,770.0,,0.22,,200.0,Manufacturer datasheet
+252,PlusICE S20,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,20.0,,195.0,,2.2,,1530.0,,0.54,,60.0,Manufacturer datasheet
+253,PureTemp20,Fatty ester,Commercial,PureTemp (USA),,,20.0,,170.8,,2.07,2.15,950.0,860.0,0.23,0.14,,Manufacturer datasheet
+254,74Ga/22Sn/4Cd,Metal / alloy,Pure / literature,,,"74% Ga, 22% Sn, 4% Cd",20.2,,75.2,,,,5983.0,,,,,Nicholas R. Jankowski 2013; Nicholas 2014
+255,86.5Ga–13.5Sn,Metal / alloy,Pure / literature,,,,20.55,,81.9,,,,,,,,,Nicholas 2014
+256,Methyl tetradecanoate,Fatty ester,Pure / literature,,,,20.91,,158.5,,,,,717.02,,0.0899,,PCM property database
+257,ClimSel C21,Salt hydrate,Commercial,Climator (Sweden),,,21.0,,83.8,,4.4,3.4,1500.0,1500.0,0.93,0.75,,Manufacturer datasheet
+258,Crodatherm 21,Paraffin,Commercial,Croda (UK),,,21.0,,186.7,,2.3,1.9,891.0,850.0,0.18,0.15,,Manufacturer datasheet
+259,Dimethyl Sabacate,Fatty ester,Pure / literature,,,,21.0,,127.5,120 – 135,,,,,,,,Cabeza 2011; Su 2015; Literature compilation
+260,Iron bromide hexahydrate,Salt hydrate,Pure / literature,,FeBr3·6H2O,,21.0,,105.0,,,,,,,,,Su 2015; Literature compilation
+261,Lithium chloride ethanolate,Organic (other),Pure / literature,,,,21.0,,188.0,,,,,,,,,Su 2015; Literature compilation
+262,Octadecyl 3-mercaptopropionate,Organic (other),Pure / literature,,,,21.0,,143.0,,,,,,,,,Cabeza 2011
+263,Octadecyl3-mencaptopropylate,Fatty ester,Pure / literature,,,,21.0,,143.0,,,,,,,,,Su 2015; Literature compilation
+264,Paraffin C16–C18,Paraffin,Pure / literature,,,,21.0,20 – 22,152.0,,,,,,,,,Cabeza 2011
+265,Paraffin blend (n = 16–18),Paraffin,Pure / literature,,,,21.0,20–22,152.0,,,,,,,,,Nicholas 2014
+266,PlusICE A21,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,21.0,,160.0,,2.2,,770.0,,0.22,,200.0,Manufacturer datasheet
+267,PlusICE S21,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,21.0,,220.0,,2.2,,1530.0,,0.54,,60.0,Manufacturer datasheet
+268,RT21,Paraffin,Commercial,Rubitherm (Germany),,,21.0,,141.0,,2.0,2.0,880.0,770.0,0.2,0.2,,Manufacturer datasheet
+269,RT21HC,Paraffin,Commercial,Rubitherm (Germany),,,21.0,,166.0,,2.0,2.0,880.0,770.0,0.2,0.2,,Manufacturer datasheet
+270,SP21EK,Salt hydrate,Commercial,Rubitherm (Germany),,,21.0,,151.0,,2.0,2.0,1600.0,1500.0,0.5,0.5,,Manufacturer datasheet
+271,SmartBoard 21,Paraffin,Commercial,Knauf (Germany),,,21.0,,25.9,,1.2,1.2,767.0,767.0,0.18,0.18,,Manufacturer datasheet
+272,Capric + Myristic Acid,Eutectic,Pure / literature,,,,21.4,,152.0,,,,,,,,,Cabeza 2011
+273,Capric + myrstic,Eutectic,Pure / literature,,,73.5+26.5,21.4,,152.0,,,,,,,,,Literature compilation
+274,Paraffin C17,Paraffin,Pure / literature,,,,21.7,,213.0,,,,,,,,,L.F.Cabeza 2011
+275,FS21R,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,22.0,,144.8,,2.56,2.68,887.0,898.0,0.3,0.1,,Manufacturer datasheet
+276,HS22,Salt hydrate,Commercial,PLUSS Advanced Technologies (India),,,22.0,,165.2,,2.27,2.53,1651.0,1540.0,1.13,0.56,,Manufacturer datasheet
+277,OM21,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,22.0,,86.4,,2.82,2.85,931.0,891.0,0.21,0.14,,Manufacturer datasheet
+278,PlusICE A22,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,22.0,,160.0,,2.2,,785.0,,0.18,,200.0,Manufacturer datasheet
+279,PlusICE S22,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,22.0,,215.0,,2.2,,1530.0,,0.54,,60.0,Manufacturer datasheet
+280,Polyglycol E600,Polymer / PEG,Pure / literature,,,,22.0,,127.2,,,,1179.0,,,0.189,,Zalba 2003
+281,RT22HC,Paraffin,Commercial,Rubitherm (Germany),,,22.0,,154.4,,2.0,2.0,760.0,700.0,0.2,0.2,,Manufacturer datasheet
+282,75.2% Capric Acid + 24.8% Palmitic Acid,Eutectic,Pure / literature,,,,22.1,,153.0,,,,,,,,,Cabeza 2011
+283,Capric + Palmitic Acid,Eutectic,Pure / literature,,,,22.1,,153.0,,,,,,,,,Cabeza 2011
+284,Capric + palmitate,Eutectic,Pure / literature,,,75.2+24.8,22.1,,153.0,,,,,,,,,Literature compilation
+285,Polyethylene glycol 600,Organic (other),Pure / literature,,,,22.5,20–25,146.0,,,,1100.0,,,,,Su 2015; Literature compilation
+286,Heptadecane,Paraffin,Pure / literature,,C17H36,,22.81,21.7–22.0,224.9,213–216,2.222,2.295,906.6,769.54,,0.1443,,PCM property database; Cheng Zhou 2018; Su 2015; Nicholas 2014; Literature compilation
+287,ATP 23,Paraffin,Commercial,Axiotherm (Germany),,,23.0,,197.0,,2.0,2.0,889.0,800.0,0.2,0.2,,Manufacturer datasheet
+288,BioPCM Q23,Fatty ester,Commercial,Phase Change Solutions (USA),,,23,,230,210–250,,,,,,,,BioPCM Q23 technical data sheet
+289,Ethyl palmitate,Fatty ester,Pure / literature,,,,23.0,,122.0,,,,,,,,,Nicholas 2014
+290,PlusICE A23,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,23.0,,155.0,,2.2,,785.0,,0.18,,200.0,Manufacturer datasheet
+291,PlusICE S23,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,23.0,,200.0,,2.2,,1530.0,,0.54,,60.0,Manufacturer datasheet
+292,PureTemp23,Fatty ester,Commercial,PureTemp (USA),,,23.0,,200.7,,1.84,1.99,910.0,830.0,0.25,0.15,,Manufacturer datasheet
+293,Tetraphosphorus hexaoxide,Inorganic (other),Pure / literature,,P4O6,,23.7,,64.0,,,,,,,,,Literature compilation
+294,65–90% Methyl palmitate + 35–10% Methyl stearate,Eutectic,Pure / literature,,,,23.75,22–25.5,120.0,,,,,,,,,Nicholas 2014
+295,Methyl Palmitate + Methyl Stearate,Eutectic,Pure / literature,,,65–90/35–10,23.75,22–25.5,120.0,,,,,,,,,Cabeza 2011
+296,34% C14H28O2 + 66% C10H20O2,Eutectic,Pure / literature,,,,24.0,,147.7,,,,,,,,,Cabeza 2011
+297,C14H28O2 (34%) + C10H20O (66%),Eutectic,Pure / literature,,,,24.0,,147.7,,,,,,,,,Nicholas 2014
+298,C14H28O2 + C10H20O2,Eutectic,Pure / literature,,,34+66,24.0,,147.7,,,,,,,,,Literature compilation
+299,ClimSel C24,Salt hydrate,Commercial,Climator (Sweden),,,24.0,,80.7,,4.0,3.0,1400.0,1400.0,0.74,0.93,,Manufacturer datasheet
+300,Crodatherm 24W,Paraffin,Commercial,Croda (UK),,,24.0,,160.2,,3.7,2.2,906.0,843.0,0.22,0.16,,Manufacturer datasheet
+301,Crodatherm ME 24XD,Fatty ester,Commercial,Croda (UK),,,24.0,,,,,,,980.0,,,,Manufacturer datasheet
+302,HS24,Salt hydrate,Commercial,PLUSS Advanced Technologies (India),,,24.0,,191.7,,2.07,2.42,1621.0,1510.0,1.05,0.55,,Manufacturer datasheet
+303,Na2S4 + MgSO4 + H2O,Eutectic,Pure / literature,,,25+21+54,24.0,,,,,,,,,,,Literature compilation
+304,PlusICE A24,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,24.0,,155.0,,2.22,,790.0,,0.18,,200.0,Manufacturer datasheet
+305,PlusICE S24,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,24.0,,180.0,,2.2,,1530.0,,0.54,,60.0,Manufacturer datasheet
+306,RT24HC,Paraffin,Commercial,Rubitherm (Germany),,,24.0,,177.8,,2.0,2.0,800.0,700.0,0.2,0.2,,Manufacturer datasheet
+307,SP24E,Salt hydrate,Commercial,Rubitherm (Germany),,,24.0,,182.7,,2.0,2.0,1600.0,1500.0,0.5,0.5,,Manufacturer datasheet
+308,93Ga/5Zn/2Cd,Metal / alloy,Pure / literature,,,"93% Ga, 5% Zn, 2% Cd",24.6,,85.03,,,,6020.0,,,,,Nicholas R. Jankowski 2013; Nicholas 2014
+309,1-Dodecanol,Fatty alcohol,Pure / literature,,C12H26O,,24.78,,221.4,,1.739,2.358,949.1,826.96,,0.1457,,PCM property database; Nicholas 2014
+310,66.6% CaCl2·6H2O + 33.3% MgCl2·6H2O,Eutectic,Pure / literature,,,66.6/33.3,25.0,,127.0,,,,1590.0,,,,,Zalba 2003
+311,96.5Ga–3.5Zn,Metal / alloy,Pure / literature,,,,25.0,,88.5,,,,526.0,,,,,Nicholas 2014
+312,CaCl2 . 6H2O + MgCl2 . 6H2O,Eutectic,Pure / literature,,,50+50,25.0,,95.0,,,,,,,,,Literature compilation
+313,CaCl2 . 6H2O + Nucleat + MgCl2 . 6H2O,Eutectic,Pure / literature,,,66.7+33.3,25.0,,127.0,,,,,,,,,Literature compilation
+314,Gallium–Zinc eutectic,Eutectic,Pure / literature,,,96.5Ga–3.5Zn,25.0,,88.5,,,,,,,,,Nicholas 2014
+315,Mn(NO3)2·4H2O,Salt hydrate,Pure / literature,,,,25.0,,90.1,,,,,,,,,L.F.Cabeza 2011
+316,Octadecane + Docosane (organic eutectic),Eutectic,Pure / literature,,,,25.0,,,,,,,,,,,Cabeza 2011
+317,PX25,Organic (other),Commercial,Rubitherm (Germany),,,25.0,,66.1,,2.0,2.0,650.0,650.0,0.1,0.1,,Manufacturer datasheet
+318,PlusICE A25,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,25.0,,220.0,,2.22,,785.0,,0.18,,200.0,Manufacturer datasheet
+319,PlusICE S25,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,25.0,,175.0,,2.2,,1530.0,,0.54,,60.0,Manufacturer datasheet
+320,PlusICE X25,Solid-solid,Commercial,PCM Products Ltd / PlusICE (UK),,,25.0,,110.0,,1.63,,1055.0,,0.36,,125.0,Manufacturer datasheet
+321,PureTemp25,Fatty ester,Commercial,PureTemp (USA),,,25.0,,186.8,,1.99,2.29,950.0,860.0,0.25,0.15,,Manufacturer datasheet
+322,RT25,Paraffin,Commercial,Rubitherm (Germany),,,25.0,,155.0,,2.0,2.0,840.0,760.0,0.2,0.2,,Manufacturer datasheet
+323,RT25HC,Paraffin,Commercial,Rubitherm (Germany),,,25.0,,198.9,,2.0,2.0,880.0,770.0,0.2,0.2,,Manufacturer datasheet
+324,SP25E2,Salt hydrate,Commercial,Rubitherm (Germany),,,25.0,,142.8,,2.0,2.0,1600.0,1500.0,0.5,0.5,,Manufacturer datasheet
+325,Manganese nitrate hexahydrate,Salt hydrate,Pure / literature,,Mn(NO3)2·6H2O,,25.5,,136.95,125.9–148,,,1738.0,1728.0,,,,Su 2015; Zalba 2003; Literature compilation
+326,Ethyl hexadecanoate,Fatty ester,Pure / literature,,,,25.68,,181.4,,,,864.0,693.04,,0.0846,,PCM property database
+327,Lithium metaborate octahydrate,Salt hydrate,Pure / literature,,LiBO2·8H2O,,25.7,,289.0,,,,,,,,,Su 2015; Literature compilation
+328,Octadecane + Heneicosane,Eutectic,Pure / literature,,,,25.9,25.8–26,173.93,,,,,,,,,Nicholas 2014; L.F.Cabeza 2011
+329,D-Latticacid,Organic (other),Pure / literature,,,,26.0,,184.0,,,,1249.0,,,,,Su 2015; Literature compilation
+330,Myristic + Capric Acid,Eutectic,Pure / literature,,,34 + 66,26.0,,147.7,,,,,,,,,L.F.Cabeza 2011
+331,Phosphoric acid,Inorganic (other),Pure / literature,,H3PO4,,26.0,,147.0,,,,,,,,,Literature compilation
+332,PlusICE A26,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,26.0,,230.0,,2.22,,790.0,,0.21,,200.0,Manufacturer datasheet
+333,SP26E,Salt hydrate,Commercial,Rubitherm (Germany),,,26.0,,175.0,,2.0,2.0,1600.0,1500.0,0.5,0.5,,Manufacturer datasheet
+334,SP29Eu,Salt hydrate,Commercial,Rubitherm (Germany),,,26.0,,170.4,,2.0,2.0,1600.0,1500.0,0.5,0.5,,Manufacturer datasheet
+335,SmartBoard 26,Paraffin,Commercial,Knauf (Germany),,,26.0,,28.1,,1.2,1.2,767.0,767.0,0.18,0.18,,Manufacturer datasheet
+336,d-Lactic acid,Fatty / organic acid,Pure / literature,,,,26.0,,184.0,,,,,,,,,Nicholas 2014; Cabeza 2011
+337,Octadecane + Docosane,Eutectic,Pure / literature,,,,26.25,25.5–27,203.8,,,,,,,,,Nicholas 2014
+338,48% CaCl2 + 4.3% NaCl + 0.4% KCl + 47.3% H2O,Eutectic,Pure / literature,,,complex salt mix,26.8,,188.0,,,,1640.0,,,,,Zalba 2003
+339,CaCl2 + NaCl + KCl + H2O,Eutectic,Pure / literature,,,48+4.3+0.4+47.3,26.8,,188.0,,,,,,,,,Literature compilation
+340,Capric + Stearic acid,Eutectic,Pure / literature,,,86.6% + 13.4%,26.8,,160.0,,,,,,,,,Nicholas 2014; L.F.Cabeza 2011
+341,Capric + stearate,Eutectic,Pure / literature,,,86.6+13.4,26.8,,160.0,,,,,,,,,Literature compilation
+342,Acetamide + Urea (1:1),Eutectic,Pure / literature,,,50% + 50%,27.0,,163.0,,,,,,,,,Nicholas 2014
+343,CH3CONH2 + NH2CONH2,Eutectic,Pure / literature,,,50 + 50,27.0,,163.0,,,,,,,,,L.F.Cabeza 2011; Literature compilation
+344,PlusICE A27,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,27.0,,250.0,,2.22,,768.0,,0.22,,200.0,Manufacturer datasheet
+345,PlusICE S27,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,27.0,,185.0,,2.2,,1530.0,,0.54,,60.0,Manufacturer datasheet
+346,PureTemp27,Fatty ester,Commercial,PureTemp (USA),,,27.0,,201.9,,2.46,2.63,950.0,860.0,0.25,0.15,,Manufacturer datasheet
+347,ATP 28,Paraffin,Commercial,Axiotherm (Germany),,,28.0,,229.0,,2.0,2.0,844.0,760.0,0.2,0.2,,Manufacturer datasheet
+348,ClimSel C28,Salt hydrate,Commercial,Climator (Sweden),,,28.0,,143.6,,3.3,2.4,1500.0,1500.0,0.98,0.72,,Manufacturer datasheet
+349,FS29,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,28.0,,135.7,,2.7,2.1,1040.0,952.0,0.45,0.45,,Manufacturer datasheet
+350,OM29,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,28.0,,180.5,,2.32,2.71,976.0,870.0,0.293,0.172,,Manufacturer datasheet
+351,Paraffin C18,Paraffin,Pure / literature,,,,28.0,,244.0,,,,794.0,774.0,0.253,0.148,,L.F.Cabeza 2011; Zalba 2003
+352,PlusICE A28,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,28.0,,265.0,,2.22,,789.0,,0.21,,200.0,Manufacturer datasheet
+353,PureTemp28,Fatty ester,Commercial,PureTemp (USA),,,28.0,,189.9,,2.34,2.54,950.0,860.0,0.25,0.15,,Manufacturer datasheet
+354,RT28HC,Paraffin,Commercial,Rubitherm (Germany),,,28.0,,220.0,,2.0,2.0,880.0,750.0,0.2,0.2,,Manufacturer datasheet
+355,Vinyl stearate,Fatty ester,Pure / literature,,,,28.0,27–29,122.0,,,,,,,,,Nicholas 2014; Su 2015; Literature compilation
+356,n‐Octadecane,Paraffin,Pure / literature,,,,28.0,,200.0,,,,814.0,774.0,,0.148,,Zalba 2003
+357,Cesium,Metal / alloy,Pure / literature,,,,28.65,,16.4,,0.236,,1796.0,,17.4,,,Su 2015; Literature compilation
+358,Acid Methyl pentacosane,Paraffin,Pure / literature,,,,29.0,,197.0,,,,,,,,,Su 2015; Literature compilation
+359,Crodatherm 29,Paraffin,Commercial,Croda (UK),,,29.0,,196.3,,2.3,1.4,917.0,851.0,0.22,0.15,,Manufacturer datasheet
+360,Crodatherm ME 29D,Fatty ester,Commercial,Croda (UK),,,29.0,,,,,,,980.0,,,,Manufacturer datasheet
+361,Crodatherm ME 29DS,Fatty ester,Commercial,Croda (UK),,,29.0,,,,,,,980.0,,,,Manufacturer datasheet
+362,Crodatherm ME 29P,Fatty ester,Commercial,Croda (UK),,,29.0,,,,,,,,,,,Manufacturer datasheet
+363,Crodatherm ME 29XD,Fatty ester,Commercial,Croda (UK),,,29.0,,,,,,,980.0,,,,Manufacturer datasheet
+364,HS29,Salt hydrate,Commercial,PLUSS Advanced Technologies (India),,,29.0,,193.3,,1.51,2.62,1681.0,1530.0,0.478,0.382,,Manufacturer datasheet
+365,Methyl palmitate,Fatty ester,Pure / literature,,,,29.0,,205.0,,,,,,,,,Nicholas 2014; Su 2015; Literature compilation
+366,Methyl stearate,Fatty ester,Pure / literature,,,,29.0,,169.0,,,,,,,,,Nicholas 2014
+367,PlusICE A29,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,29.0,,230.0,,2.22,,785.0,,0.21,,200.0,Manufacturer datasheet
+368,PureTemp29,Fatty ester,Commercial,PureTemp (USA),,,29.0,,201.9,,1.77,1.94,940.0,850.0,0.25,0.15,,Manufacturer datasheet
+369,Undecanoic acid,Fatty / organic acid,Pure / literature,,C11H22O2,,29.24,,185.0,,2.228,2.329,988.7,886.24,,0.155,,PCM property database
+370,Octadecane,Paraffin,Pure / literature,,C18H38,,29.27,27.5–28,235.8,243–244,1.91,2.22,905.0,769.56,0.3,0.149,,PCM property database; Cheng Zhou 2018; Su 2015; Nicholas 2014; Literature compilation
+371,Cetyl caprate,Organic (other),Pure / literature,,,,29.4,,186.35,182.5–190.2,,,,,,,,Nicholas 2014
+372,Hexadecyl decanoate,Fatty ester,Pure / literature,,C26H52O2,,29.4,,186.6,,2.58,2.08,,,,,,PCM property database
+373,62.5% Trimethylolethane + 37% H2O,Eutectic,Pure / literature,,,,29.8,,218.0,,,,,,,,,Nicholas 2014
+374,Calcium chloride dodecahydrate,Salt hydrate,Pure / literature,,CaCl2·12H2O,,29.8,,174.0,"1.4(s), 2.2(l)",1.4,2.2,1710.0,,1.09,0.53,,Su 2015; Literature compilation
+375,Gallium-gallium antimony,Metal / alloy,Pure / literature,,,,29.8,,,,,,,,,,,Su 2015; Literature compilation
+376,Triethylolethane + urea,Eutectic,Pure / literature,,,62.5+37.5,29.8,,218.0,,,,,,,,,Literature compilation
+377,Gallium,Metal / alloy,Pure / literature,,,,29.9,29.8–30,80.3,,0.37,,5907.0,,29.4,,,Nicholas 2014; Literature compilation
+378,40% Sodium acetate trihydrate + 60% Urea,Eutectic,Pure / literature,,,,30.0,,200.5,,,,,,,,,Nicholas 2014
+379,ATS 30,Salt hydrate,Commercial,Axiotherm (Germany),,,30.0,,172.0,,2.0,2.0,1383.0,1300.0,0.6,0.6,,Manufacturer datasheet
+380,Arsenic bromide,Inorganic (other),Pure / literature,,AsBr3,,30.0,,38.0,,,,,,,,,Literature compilation
+381,CH3COONa·3H2O + NH2CONH2,Eutectic,Pure / literature,,,40 + 60,30.0,,200.5,,,,,,,,,Su 2015; Literature compilation
+382,Ca(NO3)2·4H2O + Mg(NO3)2·6H2O,Eutectic,Pure / literature,,,47 + 53,30.0,,136.0,,,,,,,,,Su 2015
+383,Ca(NO3)4H2O + Mg(NO3)3 . 6H2O,Eutectic,Pure / literature,,,47+53,30.0,,136.0,,,,,,,,,Literature compilation
+384,FS30,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,30.0,,112.0,,2.46,2.77,1058.0,960.0,0.496,0.34,,Manufacturer datasheet
+385,Ga,Metal / alloy,Pure / literature,,,Ga(100),30.0,,80.1,,,,,,,,,Cheng Zhou 2018
+386,Lithium nitrate dihydrate,Salt hydrate,Pure / literature,,LiNO3·2H2O,,30.0,,296.0,,,,,,,,,Su 2015; Literature compilation
+387,Lithium nitrate trihydrate,Salt hydrate,Pure / literature,,LiNO3·3H2O,,30.0,29.9–30.2,242.5,189–296,,,680.0,,2.3,,,Su 2015; Nicholas R. Jankowski 2013; Nicholas 2014; Literature compilation
+388,PlusICE A30,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,30.0,,230.0,,2.22,,790.0,,0.21,,200.0,Manufacturer datasheet
+389,PlusICE X30,Solid-solid,Commercial,PCM Products Ltd / PlusICE (UK),,,30.0,,115.0,,1.65,,1050.0,,0.36,,125.0,Manufacturer datasheet
+390,Tin bromide,Inorganic (other),Pure / literature,,SnBr4,,30.0,,28.0,,,,,,0.0859,,,Literature compilation
+391,Methyl hexadecanoate,Fatty ester,Pure / literature,,,,30.49,,207.8,,1.754,,824.7,698.7,,0.0829,,PCM property database
+392,60% Na(CH3COO)·3H2O + 40% Urea,Eutectic,Pure / literature,,,60/40,30.75,30–31.5,213.25,200.5–226,,,,,,,,Zalba 2003
+393,PlusICE A31,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,31.0,,230.0,,2.22,,790.0,,0.21,,200.0,Manufacturer datasheet
+394,RT31,Paraffin,Commercial,Rubitherm (Germany),,,31.0,,149.2,,2.0,2.0,880.0,760.0,0.2,0.2,,Manufacturer datasheet
+395,SP31,Salt hydrate,Commercial,Rubitherm (Germany),,,31.0,,195.4,,2.0,2.0,1350.0,1300.0,0.5,0.5,,Manufacturer datasheet
+396,vivtek 29 (microencapsulated),Fatty ester,Commercial,Microtek Laboratories (USA),,,31,,170,,,,,,,,,"Microtek product announcement (PureTemp news, 2018)"
+397,Decanoic acid,Fatty / organic acid,Pure / literature,,C10H20O2,,31.03,,167.7,,2.909,2.264,1003.6,879.4,,0.1406,,PCM property database; Nicholas 2014
+398,Calcium chloride hexahydrate,Salt hydrate,Pure / literature,,CaCl2·6H2O,,31.12,29–30,202.6,171–192,1.802,1.562,1710.0,1710.0,1.01,0.54,,PCM property database; Zalba 2003; Su 2015; Literature compilation
+399,Na2SO4·10H2O (Glauber’s Salt),Salt hydrate,Pure / literature,,,,31.7,31–32.4,252.55,251.1–254,,,544.0,,1.93,,,Nicholas R. Jankowski 2013
+400,1-Tridecanol,Fatty alcohol,Pure / literature,,C13H28O,,31.75,,215.8,,1.887,2.445,960.0,809.11,,0.116,,PCM property database
+401,Boron iodide,Inorganic (other),Pure / literature,,BI3,,31.8,,10.0,,,,,,,,,Literature compilation
+402,Capric acid,Fatty / organic acid,Pure / literature,,,,32.0,,152.0,,,,878.0,,0.153,,,Nicholas 2014; Su 2015; Literature compilation
+403,ClimSel C32,Salt hydrate,Commercial,Climator (Sweden),,,32.0,,89.3,,4.9,3.5,1500.0,1500.0,0.76,1.08,,Manufacturer datasheet
+404,Crodatherm 32,Paraffin,Commercial,Croda (UK),,,32.0,,176.4,,2.3,1.4,916.0,836.0,0.22,0.16,,Manufacturer datasheet
+405,Crodatherm ME 32D,Fatty ester,Commercial,Croda (UK),,,32.0,,,,,,,,,,,Manufacturer datasheet
+406,Crodatherm ME 32DS,Fatty ester,Commercial,Croda (UK),,,32.0,,,,,,,980.0,,,,Manufacturer datasheet
+407,OM30,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,32.0,,169.0,,2.6,2.68,906.0,878.0,0.185,0.123,,Manufacturer datasheet
+408,Paraffin C19,Paraffin,Pure / literature,,,,32.0,,222.0,,,,,,,,,L.F.Cabeza 2011
+409,PlusICE A32,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,32.0,,120.0,,2.2,,845.0,,0.21,,250.0,Manufacturer datasheet
+410,PlusICE S32,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,32.0,,220.0,,1.9,,1460.0,,0.51,,60.0,Manufacturer datasheet
+411,Sodium carbonate decahydrate,Salt hydrate,Pure / literature,,Na2CO3·10H2O,,32.0,,267.0,"1.92(s), 3.26(l)",1.92,3.26,830.0,,0.514,0.224,,Su 2015; Literature compilation
+412,Sodium sulphate decahydrate,Salt hydrate,Pure / literature,,Na2SO4·10H2O,,32.0,,252.5,251–254,2.0,3.26,1485.0,1458,0.544,,,"Su 2015; Nicholas 2014; Literature compilation; Zalba et al. 2003, Appl. Therm. Eng. 23:251"
+413,“Paraffin wax”,Paraffin,Pure / literature,,,,32.05,32–32.1,251.0,,3.26,,830.0,,0.514,,,Nicholas 2014
+414,Sulphur trioxide (β),Inorganic (other),Pure / literature,,SO3(β),,32.3,,151.0,,,,,,,,,Literature compilation
+415,Lauric(62.6) + Myristic acid(37.4),Eutectic,Pure / literature,,,62.6% + 37.4%,32.6,,156.0,,,,,,,,,Nicholas 2014
+416,Nonadecane,Paraffin,Pure / literature,,C19H40,,32.67,,225.8,,2.244,2.368,910.3,771.06,0.21,0.149,,PCM property database; Su 2015; Nicholas 2014; Cheng Zhou 2018; Literature compilation
+417,Lauric(80) + Palmitic acid(20),Eutectic,Pure / literature,,,80% + 20%,32.7,,147.0,,,,,,,,,Nicholas 2014
+418,C10Mn,Metal / alloy,Pure / literature,,,,32.8,,70.34,,,,,,,,,Nicholas 2014
+419,Lauric(64) + Palmitic acid(36),Eutectic,Pure / literature,,,64% + 36%,32.8,,165.0,,,,,,,,,Nicholas 2014
+420,Erucicacid,Organic (other),Pure / literature,,,,33.0,,,,,,853.0,,,,,Su 2015; Literature compilation
+421,Iron potassium alum,Molten / inorganic salt,Pure / literature,,KFe(SO4)2·12H2O,,33.0,,173.0,,,,,,,,,Su 2015; Literature compilation
+422,Lauric(77) + Palmitic acid(23),Eutectic,Pure / literature,,,77% + 23%,33.0,,150.6,,,,,,,,,Nicholas 2014
+423,OM32,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,33.0,,145.1,,3.21,2.81,926.0,870.0,0.219,0.145,,Manufacturer datasheet
+424,PlusICE A33,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,33.0,,230.0,,2.22,,790.0,,0.21,,200.0,Manufacturer datasheet
+425,Lauric + Stearic acid,Eutectic,Pure / literature,,,85% + 15%,34.0,,152.0,,,,,,,,,Nicholas 2014
+426,Lithium bromide dihydrate,Salt hydrate,Pure / literature,,LiBr·2H2O,,34.0,,124.0,,,,,,,,,Su 2015; Literature compilation
+427,PlusICE A34,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,34.0,,230.0,,2.22,,790.0,,0.21,,200.0,Manufacturer datasheet
+428,PlusICE S34,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,34.0,,140.0,,2.1,,2100.0,,0.52,,70.0,Manufacturer datasheet
+429,Polyethelene glycol 900 (PEG900),Organic (other),Pure / literature,,,,34.0,,150.5,,2.26,,1200.0,1100.0,0.188,,,Su 2015; Literature compilation
+430,Ethyl octadecanoate,Fatty ester,Pure / literature,,,,34.06,,192.6,,,,1057.0,699.79,,0.0795,,PCM property database
+431,Lauric(66) + Myristic acid(34),Eutectic,Pure / literature,,,66% + 34%,34.2,,166.8,,,,,,,,,Nicholas 2014
+432,Calcium bromide hexahydrate,Salt hydrate,Pure / literature,,CaBr2·6H2O,,34.53,,126.7,115–138,,,2075.0,1956.0,,,,PCM property database; Zalba 2003; Su 2015; Literature compilation
+433,OM35,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,35.0,,153.9,,2.57,2.78,900.0,870.0,0.2,0.16,,Manufacturer datasheet
+434,RT35,Paraffin,Commercial,Rubitherm (Germany),,,35.0,,128.9,,2.0,2.0,860.0,750.0,0.2,0.2,,Manufacturer datasheet
+435,RT35HC,Paraffin,Commercial,Rubitherm (Germany),,,35.0,,215.5,,2.0,2.0,880.0,776.0,0.2,0.2,,Manufacturer datasheet
+436,Lauric + palmitic acid,Eutectic,Pure / literature,,,69 + 31,35.2,,166.3,,,,,,,,,Su 2015; Literature compilation
+437,Lauric(69) + Palmitic acid(31),Eutectic,Pure / literature,,,69% + 31%,35.2,,166.3,,,,,,,,,Nicholas 2014
+438,C10Cu,Metal / alloy,Pure / literature,,,,35.35,33.8–36.9,62.57,,,,,,,,,Nicholas 2014
+439,Disodium hydrogen phosphate dodecahydrate,Salt hydrate,Pure / literature,,Na2HPO4·12H2O,,35.75,35.5–36,266.0,256–281,1.69,1.94,1480.0,1442,,0.476,,"Nicholas 2014; Su 2015; Literature compilation; Zalba et al. 2003, Appl. Therm. Eng. 23:251"
+440,ATP 36,Paraffin,Commercial,Axiotherm (Germany),,,36.0,,203.0,,2.0,2.0,889.0,800.0,0.2,0.2,,Manufacturer datasheet
+441,HS36,Salt hydrate,Commercial,PLUSS Advanced Technologies (India),,,36.0,,142.0,,1.98,2.32,1967.0,1850.0,0.5,0.47,,Manufacturer datasheet
+442,PlusICE A36,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,36.0,,250.0,,2.3,,776.0,,0.22,,250.0,Manufacturer datasheet
+443,Zinc nitrate hexahydrate,Salt hydrate,Pure / literature,,Zn(NO3)2·6H2O,,36.0,,140.5,134–147,1.34,2.26,1937.0,1828.0,0.464,0.464,,"Su 2015; Nicholas 2014; Literature compilation; Zalba et al. 2003, Appl. Therm. Eng. 23:251"
+444,Paraffin C20,Paraffin,Pure / literature,,,,36.7,,246.0,,,,,,,,,L.F.Cabeza 2011
+445,Crodatherm 37,Paraffin,Commercial,Croda (UK),,,37.0,,190.4,,2.3,1.4,957.0,819.0,0.24,0.17,,Manufacturer datasheet
+446,Iron chloride hexahydrate,Salt hydrate,Pure / literature,,FeCl3·6H2O,,37.0,,223.0,,,,6940.0,,,,,Su 2015; Nicholas 2014; Literature compilation
+447,Manganese nitrate tetrahydrate,Salt hydrate,Pure / literature,,Mn(NO3)2·4H2O,,37.0,,115.0,,,,,,,,,Su 2015; Literature compilation
+448,PEG 1000,Polymer / PEG,Pure / literature,,"HO(C2H4O)nH, Mn≈1000",,37,,168,,,,1200,1100,,,,"Pielichowska & Pielichowski 2014, Prog. Mater. Sci. 65:67"
+449,PureTemp37,Fatty ester,Commercial,PureTemp (USA),,,37.0,,209.8,,2.21,2.63,920.0,840.0,0.25,0.15,,Manufacturer datasheet
+450,Eicosane,Paraffin,Pure / literature,,C20H42,,37.04,,247.7,,1.93,2.33,904.8,761.72,0.45,0.144,,PCM property database; Nicholas 2014; Su 2015; Literature compilation
+451,n-Tetradecylamine,Organic (other),Pure / literature,,,,37.52,,250.2,,1.836,2.467,932.6,775.24,,0.1186,,PCM property database
+452,OM37,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,38.0,,164.8,,2.55,2.63,973.0,860.0,0.16,0.13,,Manufacturer datasheet
+453,Rubidium,Paraffin,Commercial,Rubitherm (Germany),Rb,,38.0,,153.7,,2.0,2.0,880.0,750.0,0.2,0.2,,Manufacturer datasheet; CRC Handbook of Chemistry and Physics
+454,Tetradecyl dodecanoate,Fatty ester,Pure / literature,,C26H52O2,,38.05,,207.8,,2.08,2.31,,,,,,PCM property database
+455,Hexadecyl dodecanoate,Fatty ester,Pure / literature,,C28H56O2,,38.2,,195.4,,1.75,1.86,,,,,,PCM property database
+456,Titanium bromide,Inorganic (other),Pure / literature,,TiBr4,,38.2,,23.0,,,,,,,,,Literature compilation
+457,Rubidium,Metal / alloy,Pure / literature,,,,38.85,,25.74,,0.363,,1470.0,,29.3,,,Su 2015; Literature compilation
+458,Calcium chloride tetrahydrate,Salt hydrate,Pure / literature,,CaCl2·4H2O,,39.0,,158.0,,,,,,,,,Su 2015; Literature compilation
+459,Camphenilone,Organic (other),Pure / literature,,,,39.0,,205.0,,,,,,,,,Nicholas 2014; Literature compilation
+460,PlusICE A39,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,39.0,,135.0,,2.22,,900.0,,0.22,,250.0,Manufacturer datasheet
+461,1-Tetradecanol,Fatty alcohol,Pure / literature,,C14H30O,,39.01,,228.9,,1.809,2.407,954.3,818.17,0.252,0.169,,PCM property database; Zalba 2003
+462,Methyl octadecanoate,Fatty ester,Pure / literature,,,,39.18,,230.2,,,,849.8,689.46,,0.0817,,PCM property database
+463,Acetamide + 91% Stearic acid,Eutectic,Pure / literature,,,,39.4,,183.0,,,,,,,,,Nicholas 2014
+464,1-Bromodocosane,Paraffin,Pure / literature,,,,40.0,,201.0,,,,,,,,,Nicholas 2014
+465,Caprilone,Organic (other),Pure / literature,,,,40.0,,260.0,,,,,,,,,Su 2015; Literature compilation
+466,Caprylone,Organic (other),Pure / literature,,,,40.0,,259.0,,,,,,,,,Nicholas 2014
+467,Docasylbromide,Organic (other),Pure / literature,,,,40.0,,201.0,,,,,,,,,Su 2015; Literature compilation
+468,PlusICE X40,Solid-solid,Commercial,PCM Products Ltd / PlusICE (UK),,,40.0,,150.0,,1.67,,1046.0,,0.36,,125.0,Manufacturer datasheet
+469,SP40,Salt hydrate,Commercial,Rubitherm (Germany),,,40.0,,84.0,,2.0,2.0,1700.0,1600.0,0.6,0.6,,Manufacturer datasheet
+470,n‐Heneicosane,Paraffin,Pure / literature,,,,40.0,,184.0,155 – 213,,,778.0,,,,,Cabeza 2011
+471,Heneicosane (C21),Paraffin,Pure / literature,,C21H44,,40.1,,234.0,,,,790.0,,,,,Nicholas 2014; Su 2015; Literature compilation
+472,Paraffin C21,Paraffin,Pure / literature,,,,40.2,,200.0,,,,,,,,,L.F.Cabeza 2011
+473,50% Sodium acetate trihydrate + 50% Formamide,Eutectic,Pure / literature,,,,40.5,,255.0,,,,,,,,,Nicholas 2014
+474,Copper sulphate heptahydrate,Salt hydrate,Pure / literature,,CuSO4·7H2O,,40.7,,171.0,,,,,,,,,Su 2015; Literature compilation
+475,1-Cyclohexyloctadecane,Paraffin,Pure / literature,,,,41.0,,218.0,,,,,,,,,Nicholas 2014
+476,1-Cyclohexylooctadecane,Paraffin,Pure / literature,,,,41.0,,218.0,,,,,,,,,Su 2015; Literature compilation
+477,4-Heptadacanone,Organic (other),Pure / literature,,,,41.0,,197.0,,,,,,,,,Su 2015; Literature compilation
+478,Heptadecanone,Organic (other),Pure / literature,,,,41.0,,201.0,,,,,,,,,Su 2015; Literature compilation
+479,Phenol,Organic (other),Pure / literature,,,,41.0,,120.0,,,,,,,,,Su 2015; Literature compilation
+480,8-Heptadecanone,Organic (other),Pure / literature,,,,42.0,,201.0,,,,,,,,,Nicholas 2014
+481,Calcium iodide hexahydrate,Salt hydrate,Pure / literature,,CaI2·6H2O,,42.0,,162.0,,,,,,,,,Su 2015; Literature compilation
+482,GR42,Organic (other),Commercial,Rubitherm (Germany),,,42.0,,42.0,,2.0,2.0,800.0,800.0,0.2,0.2,,Manufacturer datasheet
+483,Magnesium iodide octahydrate,Salt hydrate,Pure / literature,,MgI2·8H2O,,42.0,,133.0,,,,,,,,,Su 2015; Literature compilation
+484,PlusICE A42,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,42.0,,140.0,,2.22,,905.0,,0.21,,250.0,Manufacturer datasheet
+485,Potassium fluoride dihydrate,Salt hydrate,Pure / literature,,KF·2H2O,,42.0,,214.0,162–266,,,,,,,,Su 2015; Literature compilation
+486,RT42,Paraffin,Commercial,Rubitherm (Germany),,,42.0,,140.0,,2.0,2.0,880.0,750.0,0.2,0.2,,Manufacturer datasheet
+487,Stearicacid,Organic (other),Pure / literature,,,,42.0,41–43,211.6,,1.76,2.27,1007.0,862.0,1.6,,,Su 2015; Literature compilation
+488,Octadecyl dodecanoate,Fatty ester,Pure / literature,,C30H60O2,,42.2,,202.3,,2.05,2.24,,,,,,PCM property database
+489,Methyl-12-hydroxy-stearate,Organic (other),Pure / literature,,,,42.5,42–43,123.0,120–126,,,,,,,,Su 2015; Literature compilation
+490,Tridecanoic acid,Fatty / organic acid,Pure / literature,,C13H26O2,,42.53,,190.6,,1.808,2.361,1022.4,853.43,,0.1215,,PCM property database
+491,ATP 43,Paraffin,Commercial,Axiotherm (Germany),,,43.0,,231.0,,2.0,2.0,844.0,760.0,0.2,0.2,,Manufacturer datasheet
+492,Neopentyl glycol (NPG),Solid-solid,Pure / literature,,C5H12O2,,43,40–48,125,119–131,,,1060,,,,,"Pielichowska & Pielichowski 2014, Prog. Mater. Sci. 65:67"
+493,PlusICE A43,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,43.0,,280.0,,2.37,,780.0,,0.18,,250.0,Manufacturer datasheet
+494,n-Lauricacid,Organic (other),Pure / literature,,,,43.0,42 – 44,183.0,,1.76,2.27,1007.0,862.0,1.6,,,Su 2015; L.F.Cabeza 2011; Zalba 2003; Literature compilation
+495,Dodecanoic acid,Fatty / organic acid,Pure / literature,,,,43.2,,179.1,,,,,,,,,Nicholas 2014
+496,p-Joluidine,Organic (other),Pure / literature,,,,43.3,,167.0,,,,,,,,,Su 2015; Literature compilation
+497,Neopentyl Glycol,Organic (other),Pure / literature,,,,43.5,,120.0,,,,,,,,,Nicholas 2014
+498,Lauric acid (dodecanoic acid),Fatty / organic acid,Pure / literature,,C12H24O2,,43.8,,178,,1.76,2.27,1007,862,0.16,0.147,,"Yuan et al. 2014, Renew. Sustain. Energy Rev. 29:482"
+499,ATS 44,Salt hydrate,Commercial,Axiotherm (Germany),,,44.0,,193.7,,3.0,3.0,1489.0,1400.0,0.6,0.6,,Manufacturer datasheet
+500,Cyanamide,Organic (other),Pure / literature,,,,44.0,,209.0,,,,1080.0,,,,,Nicholas 2014; Literature compilation
+501,Docosane,Paraffin,Pure / literature,,C22H46,,44.0,,252.0,,2.22,,795.0,,0.15,,,Cheng Zhou 2018; Su 2015; Nicholas 2014; Literature compilation
+502,FS42,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,44.0,,110.3,,3.01,2.68,997.0,1100.0,0.3,0.3,,Manufacturer datasheet
+503,OM42,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,44.0,,171.6,,2.71,2.78,903.0,863.0,0.19,0.1,,Manufacturer datasheet
+504,Paraffin C22,Paraffin,Pure / literature,,,,44.0,,249.0,,,,,,,,,L.F.Cabeza 2011
+505,PureTemp44,Fatty ester,Commercial,PureTemp (USA),,,44.0,,179.7,,2.01,2.15,970.0,870.0,0.25,0.15,,Manufacturer datasheet
+506,RT44HC,Paraffin,Commercial,Rubitherm (Germany),,,44.0,,220.7,,2.0,2.0,800.0,750.0,0.2,0.2,,Manufacturer datasheet
+507,1-Pentadecanol,Fatty alcohol,Pure / literature,,C15H32O,,44.1,,235.7,,1.751,2.484,963.9,896.35,,0.122,,PCM property database
+508,Calcium nitrate tetrahydrate,Salt hydrate,Pure / literature,,Ca(NO3)2·4H2O,,45.0,43–47,123.0,106–140,,,,,,,,Su 2015; Literature compilation
+509,Methyl eicosanate,Fatty ester,Pure / literature,,,,45.0,,230.0,,,,851.0,,,,,Su 2015; Literature compilation
+510,RT45,Paraffin,Commercial,Rubitherm (Germany),,,45.0,,143.4,,3.4,2.2,880.0,770.0,0.234,0.156,,Manufacturer datasheet
+511,Trimyristin,Organic (other),Pure / literature,,,,45.0,33–57,207.0,201–213,,,862.0,,,,,Su 2015; Literature compilation
+512,Tripotassium phosphate tribasic heptahydrate,Salt hydrate,Pure / literature,,K3PO4·7H2O,,45.0,,145.0,,,,,,,,,Su 2015; Literature compilation
+513,Zinc nitrate tetrahydrate,Salt hydrate,Pure / literature,,Zn(NO3)2·4H2O,,45.0,,110.0,,,,,,,,,Su 2015; Literature compilation
+514,53% Urea + 47% Ammonium nitrate,Eutectic,Pure / literature,,,,46.0,,95.0,,,,,,,,,Nicholas 2014
+515,NH2CONH2 + NH4NO3,Eutectic,Pure / literature,,,53 + 47,46.0,,95.0,,,,,,,,,Su 2015; Literature compilation
+516,PEG 1500,Polymer / PEG,Pure / literature,,"HO(C2H4O)nH, Mn≈1500",,46,,176,,,,1210,1090,,,,"Pielichowska & Pielichowski 2014, Prog. Mater. Sci. 65:67"
+517,PlusICE A46,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,46.0,,155.0,,2.22,,910.0,,0.22,,250.0,Manufacturer datasheet
+518,PlusICE S46,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,46.0,,110.0,,2.2,,1610.0,,0.6,,120.0,Manufacturer datasheet
+519,Myristic acid - Palmitic acid (66wt%/34wt%),Eutectic,Pure / literature,,,,46.38,,176.1,,,,,,,,,PCM property database
+520,Bismuth-lead-indium-tin-cadmium (Bi44.7Pb22.6In19.1Sn8.3Cd5.3),Metal / alloy,Pure / literature,,,,47.0,,36.8,,0.197,,9160.0,,15.0,,,Literature compilation
+521,Bi–Pb–In–Sn–Cd (Bi44.7Pb22.6In19.1Sn8.3Cd5.3),Metal / alloy,Pure / literature,,,,47.0,,36.8,,0.197,,9160.0,,15.0,,,Su 2015
+522,Crodatherm 47,Paraffin,Commercial,Croda (UK),,,47.0,,181.2,,1.9,2.0,940.0,829.0,0.25,0.16,,Manufacturer datasheet
+523,Elaidicacid,Organic (other),Pure / literature,,,,47.0,,218.0,,,,851.0,,,,,Su 2015; Literature compilation
+524,Indalloy 117,Metal / alloy,Pure / literature,,,44.7Bi–22.6Pb–19.1In–8.3Sn–5.3Cd,47.0,,36.8,,,,9160.0,,15.0,,,Nicholas 2014
+525,Indalloy 117 (44.7Bi–22.6Pb–19.1In...),Metal / alloy,Pure / literature,,,,47.0,,36.8,,,,,,,,,Nicholas 2014
+526,Indalloy 117 (Bi/Pb/In/Sn/Cd),Metal / alloy,Pure / literature,,,,47.0,,36.8,,0.163,0.197,9160.0,,15.0,,,Nicholas 2014
+527,Iron nitrate nonahydrate,Salt hydrate,Pure / literature,,Fe(NO3)3 9H2O,,47.0,,172.5,155–190,,,,,,,,Su 2015; L.F.Cabeza 2011; Literature compilation
+528,Magnesium nitrate tetrahydrate,Salt hydrate,Pure / literature,,Mg(NO3)2 4H2O,,47.0,,142.0,,,,,,,,,Su 2015; Literature compilation
+529,OM46,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,47.0,,151.0,,2.5,2.7,917.0,880.0,0.2,0.1,,Manufacturer datasheet
+530,PlusICE S47,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,47.0,,110.0,,2.25,,1610.0,,0.6,,120.0,Manufacturer datasheet
+531,RT47,Paraffin,Commercial,Rubitherm (Germany),,,47.0,,133.0,,2.0,2.0,880.0,770.0,0.2,0.2,,Manufacturer datasheet
+532,n-Tricosane,Paraffin,Pure / literature,,C23H48,,47.0,,234.0,,,,800.0,,,,,Su 2015; Nicholas 2014; Literature compilation
+533,Paraffin C23,Paraffin,Pure / literature,,,,47.5,,232.0,,,,,,,,,L.F.Cabeza 2011
+534,Myristic acid - Stearic acid (50wt%/50wt%),Eutectic,Pure / literature,,,,47.53,,187.9,,,,,,,,,PCM property database
+535,Na2S2O3·5H2O,Salt hydrate,Pure / literature,,Na2S2O3 5H2O,,47.8,,170.0,,,,7270.0,,,,,Nicholas 2014; Su 2015; Literature compilation
+536,2-Heptadecanone,Organic (other),Pure / literature,,,,48.0,,218.0,,,,,,,,,Nicholas 2014; Literature compilation
+537,3-Heptadecanone,Organic (other),Pure / literature,,,,48.0,,218.0,,,,,,,,,Literature compilation
+538,ClimSel C48,Salt hydrate,Commercial,Climator (Sweden),,,48.0,,94.2,,5.0,3.5,1300.0,1300.0,0.76,0.53,,Manufacturer datasheet
+539,Di potassium hydrogen phosphate heptahydrate,Salt hydrate,Pure / literature,,Na2HPO4 7H2O,,48.0,,152.5,135–170,,,,,,,,Su 2015; Literature compilation
+540,Di potassium hydrogen phosphate trihydrate,Salt hydrate,Pure / literature,,K2HPO4 3H2O,,48.0,,99.0,,,,,,,,,Su 2015; Literature compilation
+541,Hydrocinnamic acid,Fatty / organic acid,Pure / literature,,,,48.0,,118.0,,,,,,,,,Literature compilation
+542,Pelargonic acid,Fatty / organic acid,Pure / literature,,,,48.0,,,,,,,,,,,Literature compilation
+543,PlusICE A48,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,48.0,,230.0,,2.85,,810.0,,0.18,,250.0,Manufacturer datasheet
+544,PlusICE S48,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,48.0,,110.0,,2.35,,1565.0,,0.61,,120.0,Manufacturer datasheet
+545,PureTemp48,Fatty ester,Commercial,PureTemp (USA),,,48.0,,229.8,,2.1,2.27,900.0,820.0,0.25,0.15,,Manufacturer datasheet
+546,Sodium sulphite pentahydrate,Salt hydrate,Pure / literature,,Na2SiO3 5H2O,,48.0,,168.0,,,,,,,,,Su 2015; Literature compilation
+547,Sodium sulphite tetrahydrate,Salt hydrate,Pure / literature,,Na2SiO3 4H2O,,48.0,,168.0,,,,,,,,,Su 2015; Literature compilation
+548,Magnesium sulphate heptahydrate,Salt hydrate,Pure / literature,,MgSO4 7H2O,,48.5,,202.0,,,,,,,,,Su 2015; Literature compilation
+549,Acetamide + 89% Myristic acid,Eutectic,Pure / literature,,,,48.7,,199.0,,,,,,,,,Nicholas 2014
+550,Cetyl Alcohol,Fatty alcohol,Pure / literature,,,,49.0,,208.0,,,,,,,,,L.F.Cabeza 2011; Literature compilation
+551,OM49,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,49.0,,196.1,,3.54,3.59,816.0,816.0,0.188,0.134,,Manufacturer datasheet
+552,Paraffin C20–C33,Paraffin,Pure / literature,,,,49.0,48 – 50,189.0,,,,,,0.21,,,Zalba 2003
+553,PlusICE S49,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,49.0,,110.0,,2.38,,1560.0,,0.61,,120.0,Manufacturer datasheet
+554,Hexadecyl tetradecanoate,Fatty ester,Pure / literature,,C30H60O2,,49.4,,225.8,,2.16,2.48,,,,,,PCM property database
+555,ATS 50,Salt hydrate,Commercial,Axiotherm (Germany),,,50.0,,191.0,,3.0,3.0,1383.0,1300.0,0.6,0.6,,Manufacturer datasheet
+556,Camphene,Organic (other),Pure / literature,,,,50.0,,238.0,,,,842.0,,,,,Literature compilation
+557,Myristic Acid,Fatty / organic acid,Pure / literature,,,,50.0,49 – 51,204.5,,,,,,,,,Zalba 2003
+558,O-Nitroaniline,Organic (other),Pure / literature,,,,50.0,,93.0,,,,,,,,,Literature compilation
+559,OM50,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,50.0,,161.9,,3.33,2.78,961.0,859.0,0.21,0.14,,Manufacturer datasheet
+560,Paraffin C24,Paraffin,Pure / literature,,,,50.0,,237.0,,,,,,,,,L.F.Cabeza 2011
+561,PlusICE S50,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,50.0,,110.0,,2.41,,1545.0,,0.62,,120.0,Manufacturer datasheet
+562,RT50,Paraffin,Commercial,Rubitherm (Germany),,,50.0,,138.0,,2.0,2.0,880.0,750.0,0.2,0.2,,Manufacturer datasheet
+563,SP50,Salt hydrate,Commercial,Rubitherm (Germany),,,50.0,,206.3,,2.0,2.0,1400.0,1300.0,0.6,0.6,,Manufacturer datasheet
+564,Tetracosane,Paraffin,Pure / literature,,C24H50,,50.0,,256.0,,,,805.0,,,,,Cheng Zhou 2018; Nicholas 2014; Su 2015; Literature compilation
+565,a-Nepthylamine,Organic (other),Pure / literature,,,,50.0,,93.0,,,,,,,,,Literature compilation
+566,1-Hexadecanol,Fatty alcohol,Pure / literature,,C16H34O,,50.2,,246.1,,1.741,2.161,972.0,810.8,,,,PCM property database
+567,9-Heptadecanone,Organic (other),Pure / literature,,,,51.0,,213.0,,,,,,,,,Literature compilation
+568,Calcium nitrate trihydrate,Salt hydrate,Pure / literature,,Ca(NO3)2 3H2O,,51.0,,104.0,,,,,,,,,Su 2015; Literature compilation
+569,OM48,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,51.0,,148.9,,2.02,2.35,960.0,875.0,0.2,0.1,,Manufacturer datasheet
+570,PlusICE S51,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,51.0,,110.0,,2.45,,1515.0,,0.63,,120.0,Manufacturer datasheet
+571,Hexadecyl hexadecanoate,Fatty ester,Pure / literature,,C32H64O2,,51.2,,216.7,,2.82,2.77,989.0,599.8,,0.0665,,PCM property database
+572,Thymol,Organic (other),Pure / literature,,,,51.5,,115.0,,,,,,,,,Literature compilation
+573,61.5% Mg(NO3)2·6H2O + 38.5% NH4NO3,Eutectic,Pure / literature,,,61.5/38.5,52.0,,125.5,,,,1555.5,,0.523,,,Zalba 2003
+574,ATP 52,Paraffin,Commercial,Axiotherm (Germany),,,52.0,,200.0,,2.0,2.0,889.0,800.0,0.2,0.2,,Manufacturer datasheet
+575,Methyl behenate,Fatty ester,Pure / literature,,,,52.0,,234.0,,,,,,,,,Literature compilation
+576,Mg(NO3)2·6H2O + NH4NO3,Eutectic,Pure / literature,,,61.5 + 38.5,52.0,,125.5,,,,,,,,,Su 2015
+577,Mg(NO3)3 . 6H2O + NH4NO3,Eutectic,Pure / literature,,,61.5+38.5,52.0,,125.5,,,,,,,,,Literature compilation
+578,PEG 2000,Polymer / PEG,Pure / literature,,"HO(C2H4O)nH, Mn≈2000",,52,,178,,,,1210,1090,,,,"Pielichowska & Pielichowski 2014, Prog. Mater. Sci. 65:67"
+579,PX52,Organic (other),Commercial,Rubitherm (Germany),,,52.0,,72.5,,2.0,2.0,650.0,650.0,0.1,0.1,,Manufacturer datasheet
+580,PlusICE S52,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,52.0,,115.0,,2.45,,1512.0,,0.63,,120.0,Manufacturer datasheet
+581,Palmitic + Stearic acid,Eutectic,Pure / literature,,,64.2% + 35.8%,52.3,,181.7,,,,,,,,,Nicholas 2014
+582,Pentadecanoic acid,Fatty / organic acid,Pure / literature,,,,52.5,,178.0,,,,,,,,,Literature compilation
+583,Diphenyl amine,Organic (other),Pure / literature,,,,52.9,,107.0,,,,,,,,,Literature compilation
+584,Crodatherm 53,Paraffin,Commercial,Croda (UK),,,53.0,,185.3,,1.9,2.2,904.0,829.0,0.28,0.16,,Manufacturer datasheet
+585,PlusICE A53,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,53.0,,155.0,,2.22,,910.0,,0.22,,250.0,Manufacturer datasheet
+586,PlusICE S53,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,53.0,,115.0,,2.5,,1510.0,,0.65,,120.0,Manufacturer datasheet
+587,PureTemp53,Fatty ester,Commercial,PureTemp (USA),,,53.0,,224.7,,2.36,2.6,920.0,840.0,0.25,0.15,,Manufacturer datasheet
+588,Sodium nitrate hexahydrate,Salt hydrate,Pure / literature,,Na(NO3)2 6H2O,,53.0,,158.0,,,,,,,,,Su 2015; Literature compilation
+589,P-Dichlorobenzene,Organic (other),Pure / literature,,,,53.1,,121.0,,,,,,,,,Literature compilation
+590,Pentacosane (C25),Paraffin,Pure / literature,,C25H52,,53.7,,245.0,,,,810.0,,,,,Nicholas 2014; Su 2015; Literature compilation
+591,PlusICE S54,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,54.0,,120.0,,2.5,,1510.0,,0.65,,120.0,Manufacturer datasheet
+592,RT54HC,Paraffin,Commercial,Rubitherm (Germany),,,54.0,,169.5,,2.0,2.0,850.0,800.0,0.2,0.2,,Manufacturer datasheet
+593,Oxolate,Organic (other),Pure / literature,,,,54.3,,178.0,,,,,,,,,Literature compilation
+594,1-Heptadecanol,Fatty alcohol,Pure / literature,,C17H36O,,54.38,,250.3,,1.924,2.533,959.2,814.91,,0.1109,,PCM property database
+595,Hexadecyl octadecanoate,Fatty ester,Pure / literature,,C34H68O2,,54.6,,214.6,,2.17,2.34,869.0,623.8,,0.0625,,PCM property database
+596,Hexacosane,Paraffin,Pure / literature,,C26H54,,55.0,,259.0,,,,770.0,,0.21,,,Cheng Zhou 2018; Su 2015; Nicholas 2014; Literature compilation
+597,Hypophosphoric acid,Fatty / organic acid,Pure / literature,,H4P2O6,,55.0,,213.0,,,,,,,,,Literature compilation
+598,O-Xylene dichloride,Organic (other),Pure / literature,,,,55.0,,121.0,,,,,,,,,Literature compilation
+599,OM55,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,55.0,,165.3,,2.68,2.76,935.0,841.0,0.16,0.1,,Manufacturer datasheet
+600,Palmatic acid,Fatty / organic acid,Pure / literature,,,,55.0,,163.0,,,,,,,,,Literature compilation
+601,PlusICE S55,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,55.0,,120.0,,2.5,,1508.0,,0.65,,120.0,Manufacturer datasheet
+602,PlusICE X55,Solid-solid,Commercial,PCM Products Ltd / PlusICE (UK),,,55.0,,115.0,,1.62,,1060.0,,0.36,,125.0,Manufacturer datasheet
+603,RT55,Paraffin,Commercial,Rubitherm (Germany),,,55.0,,129.4,,2.0,2.0,880.0,750.0,0.2,0.2,,Manufacturer datasheet
+604,RT57HC,Paraffin,Commercial,Rubitherm (Germany),,,55.0,,213.2,,2.0,2.0,990.0,850.0,0.2,0.2,,Manufacturer datasheet
+605,Zinc nitrate dihydrate,Salt hydrate,Pure / literature,,Zn(NO3)2 2H2O,,55.0,,68.0,,,,,,,,,Su 2015; Literature compilation
+606,Tetradecanoic acid,Fatty / organic acid,Pure / literature,,C14H28O2,,55.05,,204.6,,1.595,2.288,1020.0,855.95,,0.1638,,"PCM property database; Yuan et al. 2014, Renew. Sustain. Energy Rev. 29:482"
+607,C12Mn,Metal / alloy,Pure / literature,,,,55.25,54.1–56.4,80.8,,,,,,,,,Nicholas 2014
+608,Beta-Chloroacetic acid,Fatty / organic acid,Pure / literature,,,,56.0,,147.0,,,,,,,,,Nicholas 2014
+609,Chloroacetic acid,Fatty / organic acid,Pure / literature,,,,56.0,,130.0,,,,1580.0,,,,,Nicholas 2014; Literature compilation
+610,Iron chloride dihydrate,Salt hydrate,Pure / literature,,FeCl3 2H2O,,56.0,,90.0,,,,,,,,,Su 2015; Literature compilation
+611,PlusICE S56,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,56.0,,130.0,,2.5,,1505.0,,0.67,,120.0,Manufacturer datasheet
+612,Tristearin,Organic (other),Pure / literature,,,,56.0,,190.8,,,,,,,,,Nicholas R. Jankowski 2013; Literature compilation
+613,Paraffin C26,Paraffin,Pure / literature,,,,56.3,,256.0,,,,,,,,,L.F.Cabeza 2011
+614,Nitro naphthalene,Organic (other),Pure / literature,,,,56.7,,103.0,,,,,,,,,Literature compilation
+615,Bi/Pb/Sn/In,Metal / alloy,Pure / literature,,,(no exact composition),57.0,,29.5,,0.323,0.721,9060.0,8220.0,33.2,10.6,,Nicholas R. Jankowski 2013
+616,Cobaltous nitrate hexahydrate,Salt hydrate,Pure / literature,,Co(NO3)2 6H2O,,57.0,,115.0,,,,,,,,,Su 2015; Literature compilation
+617,Nick nitrate hexahydrate,Salt hydrate,Pure / literature,,Ni(NO3)2 6H2O,,57.0,,169.0,,,,,,,,,Su 2015; Literature compilation
+618,PlusICE S57,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,57.0,,135.0,,2.5,,1505.0,,0.67,,120.0,Manufacturer datasheet
+619,Acetamide + 89% Palmitic acid,Eutectic,Pure / literature,,,,57.2,,172.0,,,,,,,,,Nicholas 2014
+620,Palmitic (89)+ Acetamide(11),Eutectic,Pure / literature,,,89% + 11%,57.2,,172.0,,,,,,,,,Nicholas 2014
+621,Stearyl palmitate,Fatty ester,Pure / literature,,,,57.3,,219.81,219.74–219.88,,,1550.0,1890.0,,,,Nicholas R. Jankowski 2013
+622,ATS 58,Salt hydrate,Commercial,Axiotherm (Germany),,,58.0,,196.0,,3.0,3.0,1362.0,1280.0,0.6,0.6,,Manufacturer datasheet
+623,Bismuth-indium-lead-tin (Bi49In21Pb18Sn12),Metal / alloy,Pure / literature,,,,58.0,,28.9,,0.201,,9010.0,,10.0,,,Literature compilation
+624,Cerrolow,Metal / alloy,Pure / literature,,,,58.0,,90.9,,,,,,,,,Su 2015; Literature compilation
+625,ClimSel C58,Salt hydrate,Commercial,Climator (Sweden),,,58.0,,210.1,,3.2,2.25,1400.0,1400.0,0.57,0.47,,Manufacturer datasheet
+626,HS58,Salt hydrate,Commercial,PLUSS Advanced Technologies (India),,,58.0,,242.9,,2.4,3.15,1400.0,1320.0,0.61,0.51,,Manufacturer datasheet
+627,Indalloy 136,Metal / alloy,Pure / literature,,,49Bi–21In–18Pb–12Sn,58.0,,28.9,,,,9010.0,,10.0,,,Nicholas 2014
+628,Indalloy 136 (Bi/In/Pb/Sn),Metal / alloy,Pure / literature,,,,58.0,,28.9,,0.167,,9010.0,,10.0,,,Nicholas 2014
+629,Lithium acetate dihydrate,Salt hydrate,Pure / literature,,LiC2H3O2 2H2O,,58.0,,314.0,251–377,,,,,,,,Su 2015; Literature compilation
+630,Magnesium chloride tetrahydrate,Salt hydrate,Pure / literature,,MgCl2 4H2O,,58.0,,178.0,,,,,,,,,Su 2015; Literature compilation
+631,Manganese chloride tetrahydrate,Salt hydrate,Pure / literature,,MnCl2 4H2O,,58.0,,151.0,,,,,,,,,Su 2015; Literature compilation
+632,Myristic Acid,Fatty / organic acid,Pure / literature,,,,58.0,52.2–58,190.0,182.6–199,,,862.2,,,,,Nicholas 2014; Literature compilation
+633,PlusICE A58,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,58.0,,240.0,,2.85,,820.0,,0.18,,200.0,Manufacturer datasheet
+634,PlusICE S58,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,58.0,,145.0,,2.55,,1505.0,,0.69,,120.0,Manufacturer datasheet
+635,PureTemp58,Fatty ester,Commercial,PureTemp (USA),,,58.0,,224.7,,2.47,2.71,890.0,810.0,0.25,0.15,,Manufacturer datasheet
+636,SP58,Salt hydrate,Commercial,Rubitherm (Germany),,,58.0,,218.4,,2.0,2.0,1300.0,1200.0,0.6,0.6,,Manufacturer datasheet
+637,Sodium acetate trihydrate,Salt hydrate,Pure / literature,,CH3COONa 3H2O,,58.0,,280.0,270–290,1.68,2.37,1450.0,1280,,,,"Su 2015; Literature compilation; Zalba et al. 2003, Appl. Therm. Eng. 23:251"
+638,Sodium hydroxide monohydrate,Salt hydrate,Pure / literature,,NaOH H2O,,58.0,,272.0,,,,,,,,,Su 2015; Literature compilation
+639,C12Cu,Metal / alloy,Pure / literature,,,,58.15,52.5–63.8,108.64,"70.15, 147.13",,,1111.0,,,,,Nicholas 2014
+640,1-Octadecanol,Fatty alcohol,Pure / literature,,C18H38O,,58.3,,247.3,,1.714,2.607,949.5,803.04,0.248,0.179,,PCM property database
+641,Na(CH3COO)·3H2O,Salt hydrate,Pure / literature,,,,58.4,,245.0,226–264,,,1450.0,,,,,Zalba 2003
+642,58.7% Mg(NO3)2·6H2O + 41.3% MgCl2·6H2O,Eutectic,Pure / literature,,,58.7/41.3,58.5,58–59,132.1,132–132.2,,,1590.0,,0.594,,,Zalba 2003
+643,Paraffin C27,Paraffin,Pure / literature,,,,58.8,,236.0,,,,,,,,,L.F.Cabeza 2011; Cabeza 2011
+644,Heptacosane (C27),Paraffin,Pure / literature,,C27H56,,58.9,,246.0,,,,820.0,,,,,Nicholas 2014; Su 2015; Literature compilation
+645,Cadmium nitrate tetrahydrate,Salt hydrate,Pure / literature,,Cd(NO3)2 4H2O,,59.0,,98.0,,,,,,,,,Su 2015; Literature compilation
+646,Mg(NO3)2·6H2O(58.7) + MgCl2·6H2O(41.3),Eutectic,Pure / literature,,,58.7 + 41.3,59.0,,132.2,,,,,,,,,Su 2015
+647,Mg(NO3)3 . 6H2O + MgCl2 . 6H2O,Eutectic,Pure / literature,,,58.7+41.3,59.0,,132.2,,,,,,,,,Literature compilation
+648,PEG 4000,Polymer / PEG,Pure / literature,,"HO(C2H4O)nH, Mn≈4000",,59,,189,,,,1212,1100,,,,"Pielichowska & Pielichowski 2014, Prog. Mater. Sci. 65:67"
+649,Paraffin C22–C45,Paraffin,Pure / literature,,,,59.0,58 – 60,189.0,,,,920.0,,0.21,,,Zalba 2003
+650,RT 60,Organic (other),Pure / literature,,,,59.0,58–60,214.0,,,,,,0.2,,,L.F.Cabeza 2011
+651,Stearyl Alcohol,Fatty alcohol,Pure / literature,,,,59.0,,245.0,,,,,,,,,L.F.Cabeza 2011
+652,Mg(NO3)2·6H2O + MgCl2·6H2O,Eutectic,Pure / literature,,,50 + 50,59.1,,144.0,,,,,,,,,Su 2015
+653,Palmitic (81)+ Acetamide(19),Eutectic,Pure / literature,,,81% + 19%,59.1,,177.0,,,,,,,,,Nicholas 2014
+654,Stearyl stearate,Fatty ester,Pure / literature,,,,59.2,,214.84,214.75–214.93,,,1860.0,2150.0,,,,Nicholas R. Jankowski 2013
+655,Cetyl arachidate,Organic (other),Pure / literature,,,,59.3,,226.45,224.2–228.7,,,1980.0,2310.0,,,,Nicholas R. Jankowski 2013
+656,Hexadecyl eicosanoate,Fatty ester,Pure / literature,,C36H72O2,,59.3,,226.4,,2.21,2.29,,,,,,PCM property database
+657,Cadmium nitrate monohydrate,Salt hydrate,Pure / literature,,Cd(NO3)2 1H2O,,59.5,,107.0,,,,,,,,,Su 2015; Literature compilation
+658,Magnesium chloride - Magnesium nitrate hexahydrate (41wt%/59wt%),Eutectic,Pure / literature,,,,59.55,,151.6,,,,,,,,,PCM property database
+659,ATP 60,Paraffin,Commercial,Axiotherm (Germany),,,60.0,,200.8,,2.0,2.0,889.0,800.0,0.2,0.2,,Manufacturer datasheet
+660,Crodatherm 60,Paraffin,Commercial,Croda (UK),,,60.0,,181.4,,2.3,1.4,922.0,821.0,0.29,0.27,,Manufacturer datasheet
+661,Ethyl cerotate,Fatty ester,Pure / literature,,,,60.0,,226.0,,,,,,,,,Nicholas R. Jankowski 2013
+662,Potassium,Paraffin,Commercial,Rubitherm (Germany),K,,60.0,,154.4,,2.0,2.0,880.0,750.0,0.2,0.2,,Manufacturer datasheet; CRC Handbook of Chemistry and Physics
+663,PureTemp60,Fatty ester,Commercial,PureTemp (USA),,,60.0,,219.6,,2.04,2.38,960.0,870.0,0.25,0.15,,Manufacturer datasheet
+664,RT60HC,Paraffin,Commercial,Rubitherm (Germany),,,60.0,,264.5,,2.0,2.0,850.0,750.0,0.2,0.2,,Manufacturer datasheet
+665,Iron nitrate hexahydrate,Salt hydrate,Pure / literature,,Fe(NO3)2 6H2O,,60.5,,126.0,,,,,,,,,Su 2015; Literature compilation
+666,Heptaudecanoic acid,Fatty / organic acid,Pure / literature,,,,60.6,,189.0,,,,,,,,,Literature compilation
+667,33Bi–16Cd–51In,Metal / alloy,Pure / literature,,,,61.0,,25.0,,,,2696.667,,,,,Nicholas 2014
+668,53% Mg(NO3)2·6H2O + 47% Al(NO3)2·9H2O,Eutectic,Pure / literature,,,53/47,61.0,,148.0,,,,,,,,,Zalba 2003
+669,Bismuth-cadmium-indium,Metal / alloy,Pure / literature,,,,61.0,,25.0,,,,,,,,,Literature compilation
+670,Bi–Cd–In,Metal / alloy,Pure / literature,,,,61.0,,25.0,,,,,,,,,Su 2015
+671,Indalloy 140,Metal / alloy,Pure / literature,,,47.5Bi–25.4Pb–12.6Sn–9.5Cd–5In,61.0,57–65,36.0,,,,9470.0,,15.0,,,Nicholas 2014
+672,Indalloy 140 (Bi/Pb/Sn/Cd/In),Metal / alloy,Pure / literature,,,,61.0,57–65,36.0,,0.159,0.188,9470.0,,15.0,,,Nicholas 2014
+673,Mg(NO3)2·6H2O + Al(NO3)3·9H2O,Eutectic,Pure / literature,,,53 + 47,61.0,,148.0,,,,,,,,,Su 2015
+674,Mg(NO3)3 . 6H2O + Al(NO3)2 . 9H2O,Eutectic,Pure / literature,,,53+47,61.0,,148.0,,,,,,,,,Literature compilation
+675,Sodium aluminium sulphate decahydrate,Salt hydrate,Pure / literature,,NaAl(SO4)2 10H2O,,61.0,,181.0,,,,,,,,,Su 2015; Literature compilation
+676,Sodium aluminium sulphate dodecahydrate,Salt hydrate,Pure / literature,,NaAl(SO4)2 12H2O,,61.0,,181.0,,,,,,,,,Su 2015; Literature compilation
+677,n-Octacosane,Paraffin,Pure / literature,,C28H58,,61.0,,255.0,,,,910.0,765.0,,,,Su 2015; Cheng Zhou 2018; Nicholas 2014; Literature compilation
+678,a-Chloroacetic acid,Fatty / organic acid,Pure / literature,,,,61.2,,130.0,,,,,,,,,Literature compilation
+679,PEG 10000,Polymer / PEG,Pure / literature,,,,61.48,,178.8,,,,,,,,,PCM property database
+680,Paraffin C28,Paraffin,Pure / literature,,,,61.6,,253.0,,,,,,,,,L.F.Cabeza 2011; Cabeza 2011
+681,PEG 6000,Polymer / PEG,Pure / literature,,,,61.74,,185.5,,,,1212.0,1085.0,,,,PCM property database
+682,Bee wax,Paraffin,Pure / literature,,,,61.8,,177.0,,,,950.0,,,,,Literature compilation
+683,Heptadecanoic acid,Fatty / organic acid,Pure / literature,,C17H34O3,,61.87,,206.7,,1.759,2.394,1020.0,835.54,,0.1124,,PCM property database; Nicholas 2014
+684,PlusICE A62,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,62.0,,205.0,,2.2,,910.0,,0.22,,250.0,Manufacturer datasheet
+685,RT62HC,Paraffin,Commercial,Rubitherm (Germany),,,62.0,,210.4,,2.0,2.0,850.0,850.0,0.2,0.2,,Manufacturer datasheet
+686,Sulphur trioxide (γ),Inorganic (other),Pure / literature,,SO3(γ),,62.1,,331.0,,,,,,,,,Literature compilation
+687,1-Nonadecanol,Fatty alcohol,Pure / literature,,C19H40O,,62.43,,256.0,,1.974,2.417,953.2,997.0,,0.114,,PCM property database
+688,Glycolic acid,Fatty / organic acid,Pure / literature,,,,63.0,,109.0,,,,,,,,,Nicholas 2014; Su 2015; Literature compilation
+689,PEG 20000,Polymer / PEG,Pure / literature,,"HO(C2H4O)nH, Mn≈20000",,63,,187,,,,1215,,,,,"Pielichowska & Pielichowski 2014, Prog. Mater. Sci. 65:67"
+690,Palmitic Acid,Fatty / organic acid,Pure / literature,,,,63.0,57.8–61.8,206.0,185 – 203,,,989.0,850.0,0.162,,,Nicholas 2014; Zalba 2003; Literature compilation
+691,PureTemp63,Fatty ester,Commercial,PureTemp (USA),,,63.0,,205.4,,1.99,2.16,920.0,840.0,0.25,0.15,,Manufacturer datasheet
+692,Hexadecanoic acid,Fatty / organic acid,Pure / literature,,C16H32O2,,63.08,,219.4,,1.599,2.309,984.0,844.1,0.165,0.1583,,"PCM property database; Yuan et al. 2014, Renew. Sustain. Energy Rev. 29:482"
+693,Potassium,Metal / alloy,Pure / literature,,,,63.2,,59.59,,0.78,,664.0,,54.0,,,Su 2015; Literature compilation
+694,P-Bromophenol,Organic (other),Pure / literature,,,,63.5,,86.0,,,,,,,,,Su 2015; Literature compilation
+695,Nonacosane (C29),Paraffin,Pure / literature,,C29H60,,63.7,,248.0,,,,830.0,,,,,Nicholas 2014; Su 2015; Literature compilation
+696,Ferrous sulphate heptahydrate,Salt hydrate,Pure / literature,,FeSO4 7H2O,,64.0,,200.0,,,,,,,,,Su 2015; Literature compilation
+697,Lithium acetate dihydrate,Salt hydrate,Pure / literature,,,,64.0,58–70,263.5,150–377,,,,,,,,Nicholas 2014
+698,Paraffin Wax,Paraffin,Pure / literature,,,,64.0,,173.6,,,,790.0,,0.257,,,L.F.Cabeza 2011
+699,Paraffin Wax (blend),Paraffin,Pure / literature,,,,64.0,,174.0,,,,916.0,790.0,0.346,0.167,,Zalba 2003
+700,RT64HC,Paraffin,Commercial,Rubitherm (Germany),,,64.0,,236.7,,2.0,2.0,880.0,800.0,0.2,0.2,,Manufacturer datasheet
+701,Sodium hydroxide monohydrate,Salt hydrate,Pure / literature,,,,64.3,,249.8,227.6–272,,,,,,,,Nicholas 2014
+702,Octadecyl eicosanoate,Fatty ester,Pure / literature,,C38H76O2,,64.96,,226.0,,2.14,2.33,,,,,,PCM property database
+703,Stearyl arachidate,Fatty ester,Pure / literature,,,,64.96,,226.175,226.12–226.23,,,1930.0,2350.0,,,,Nicholas R. Jankowski 2013
+704,CH3CONH2 + C17H35COOH,Eutectic,Pure / literature,,,50 + 50,65.0,,218.0,,,,,,,,,Su 2015; Literature compilation
+705,FS65,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,65.0,,135.4,,2.54,2.16,842.0,842.0,0.25,0.25,,Manufacturer datasheet
+706,RT65,Paraffin,Commercial,Rubitherm (Germany),,,65.0,,124.0,,2.0,2.0,880.0,750.0,0.2,0.2,,Manufacturer datasheet
+707,Sodium phosphate dodecahydrate,Salt hydrate,Pure / literature,,Na3PO4 12H2O,,65.0,,190.0,,,,,,,,,Su 2015; Literature compilation
+708,n-Triacontane,Paraffin,Pure / literature,,C30H62,,65.0,,252.0,,,,835.0,,,,,Su 2015; Nicholas 2014; Literature compilation
+709,Acetamide + 83% Stearic acid,Eutectic,Pure / literature,,,,65.4,,213.0,,,,,,,,,Nicholas 2014
+710,Paraffin C30,Paraffin,Pure / literature,,,,65.4,,251.0,,,,,,,,,L.F.Cabeza 2011
+711,Stearic acid + Acetamide,Eutectic,Pure / literature,,,83% + –,65.4,,213.0,,,,,,,,,Nicholas 2014
+712,1-Eicosanol,Fatty alcohol,Pure / literature,,C20H42O,,65.76,,261.4,,1.986,2.447,949.4,813.38,,0.107,,PCM property database
+713,Mg(NO3)2·6H2O + MgBr2·6H2O,Eutectic,Pure / literature,,,59 + 41,66.0,,168.0,,,,,,,,,Su 2015; Literature compilation
+714,Stearic acid + Palmitic acid,Eutectic,Pure / literature,,,95% + 5%,66.5,65–68,209.0,,,,,,,,,Nicholas 2014
+715,Naphthalene + Benzoic acid (67.1/32.9),Eutectic,Pure / literature,,,,67.0,,123.4,,,,,,,,,Nicholas 2014
+716,Naphthalene + benzoic acid,Eutectic,Pure / literature,,,67.1 + 32.9,67.0,,123.4,,,,,,,,,Su 2015
+717,Napthalene + benzoic acid,Eutectic,Pure / literature,,,67.1+32.9,67.0,,123.4,,,,,,,,,Literature compilation
+718,Azobenzene,Organic (other),Pure / literature,,,,67.1,,121.0,,,,,,,,,Su 2015; Literature compilation
+719,Hentriacontane (C31),Paraffin,Pure / literature,,C31H64,,67.9,,255.0,,,,840.0,830.0,,,,Nicholas 2014; Su 2015; Literature compilation
+720,Acrylic acid,Fatty / organic acid,Pure / literature,,,,68.0,,115.0,,,,,,,,,Nicholas 2014; Su 2015; Literature compilation
+721,AlCl3 + NaCl + ZrCl2,Eutectic,Pure / literature,,,79 + 17 + 4,68.0,,234.0,,,,,,,,,Su 2015; Literature compilation
+722,OM65,Eutectic,Commercial,PLUSS Advanced Technologies (India),,,68.0,,154.4,,3.32,3.48,924.0,847.0,0.19,0.13,,Manufacturer datasheet
+723,Paraffin C31,Paraffin,Pure / literature,,,,68.0,,242.0,,,,,,,,,L.F.Cabeza 2011
+724,PureTemp68,Fatty ester,Commercial,PureTemp (USA),,,68.0,,212.5,,1.85,1.91,960.0,870.0,0.25,0.15,,Manufacturer datasheet
+725,Sodium borate decahydrate,Salt hydrate,Pure / literature,,Na2B4O7 10H2O,,68.0,,,,,,,,,,,Su 2015; Literature compilation
+726,RT69HC,Paraffin,Commercial,Rubitherm (Germany),,,69.0,,190.6,,2.0,2.0,940.0,940.0,0.2,0.2,,Manufacturer datasheet
+727,Stearic acid,Fatty / organic acid,Pure / literature,,,,69.0,69 – 70,199.0,186 – 203,,,,,,,,Cheng Zhou 2018; Zalba 2003
+728,Octadecanoic acid,Fatty / organic acid,Pure / literature,,C18H36O2,,69.45,,230.3,,1.67,2.322,1004.4,845.28,0.3,0.1718,,"PCM property database; Yuan et al. 2014, Renew. Sustain. Energy Rev. 29:482"
+729,Paraffin C32,Paraffin,Pure / literature,,,,69.5,,170.0,,,,,,,,,L.F.Cabeza 2011
+730,Dotriacontane (C32),Paraffin,Pure / literature,,,,69.7,,258.0,,,,845.0,,,,,Nicholas 2014
+731,ATP 70,Paraffin,Commercial,Axiotherm (Germany),,,70.0,,209.0,,2.0,2.0,889.0,800.0,0.2,0.2,,Manufacturer datasheet
+732,AlCl3 + NaCl + KCl,Eutectic,Pure / literature,,,66+20+14,70.0,,209.0,,,,,,,,,Literature compilation
+733,AlCl3(66) + NaCl (20)+ KCl(14),Eutectic,Pure / literature,,,66 + 20 + 14,70.0,,209.0,,,,,,,,,Su 2015
+734,Bismuth-lead-indium,Metal / alloy,Pure / literature,,,,70.0,,29.0,,,,,,,,,Literature compilation
+735,Bismuth-lead-tin-cadmium (Bi50Pb26.7Sn13.3Cd10),Metal / alloy,Pure / literature,,,,70.0,,39.8,,0.184,,9580.0,,18.0,,,Literature compilation
+736,Bi–Pb–In,Metal / alloy,Pure / literature,,,,70.0,,29.0,,,,,,,,,Su 2015
+737,Bi–Pb–Sn–Cd (Bi50Pb26.7Sn13.3Cd10),Metal / alloy,Pure / literature,,,,70.0,,39.8,,0.184,,9580.0,,18.0,,,Su 2015
+738,Cerrobend,Metal / alloy,Pure / literature,,,,70.0,,32.6,,,,,,,,,Su 2015; Literature compilation
+739,ClimSel C70,Salt hydrate,Commercial,Climator (Sweden),,,70.0,,100.3,,2.35,2.8,1700.0,1700.0,0.81,0.81,,Manufacturer datasheet
+740,"Dintro toluene (2,4)",Organic (other),Pure / literature,,,,70.0,,111.0,,,,,,,,,Su 2015; Literature compilation
+741,Lithium ethanoate dihydrate,Salt hydrate,Pure / literature,,LiCH3COO2H2O,,70.0,,200.5,150–251,,,,,,,,Su 2015; Literature compilation
+742,PlusICE A70,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,70.0,,225.0,,2.2,,890.0,,0.23,,250.0,Manufacturer datasheet
+743,PlusICE S70,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,70.0,,100.0,,2.1,,1680.0,,0.57,,120.0,Manufacturer datasheet
+744,PlusICE X70,Solid-solid,Commercial,PCM Products Ltd / PlusICE (UK),,,70.0,,160.0,,1.57,,1085.0,,0.36,,180.0,Manufacturer datasheet
+745,RT70HC,Paraffin,Commercial,Rubitherm (Germany),,,70.0,,216.0,,2.0,2.0,880.0,800.0,0.2,0.2,,Manufacturer datasheet
+746,SP70,Salt hydrate,Commercial,Rubitherm (Germany),,,70.0,,121.3,,2.0,2.0,1500.0,1300.0,0.6,0.6,,Manufacturer datasheet
+747,Sodium polyphosphate decahydrate,Salt hydrate,Pure / literature,,Na2P2O7 10H2O,,70.0,,208.0,186–230,,,,,,,,Su 2015; Literature compilation
+748,Wood’s Metal,Metal / alloy,Pure / literature,,,50Bi–26.7Pb–13.3Sn–10Cd,70.0,,39.2,32.6–45.8,,,9490.0,,18.5,,,Nicholas 2014
+749,Wood’s metal (50Bi–26.7Pb–13.3Sn–10Cd),Metal / alloy,Pure / literature,,,,70.0,,39.2,32.6–45.8,,,,,,,,Nicholas 2014
+750,n-Dotricontane,Paraffin,Pure / literature,,C32H66,,70.0,,170.0,,,,,,,,,Su 2015; Literature compilation
+751,Indium–Zinc eutectic,Eutectic,Pure / literature,,,80In–20Zn,71.0,,60.0,,,,,,,,,Nicholas 2014
+752,n-Tritricontane,Paraffin,Pure / literature,,C33H68,,71.0,,189.0,,,,,,,,,Su 2015; Literature compilation
+753,Tritriacontane (C33),Paraffin,Pure / literature,,,,71.5,,261.0,,,,850.0,,,,,Nicholas 2014
+754,14% LiNO3 + 86% Mg(NO3)2·6H2O,Eutectic,Pure / literature,,,14/86,72.0,,180.0,,,,1600.0,,,,,Zalba 2003
+755,66.3In–33.7Bi (Indalloy 162),Metal / alloy,Pure / literature,,,,72.0,,25.0,,,,,,,,,Nicholas 2014
+756,Aluminium nitrate nonahydrate,Salt hydrate,Pure / literature,,Al(NO3)2.9H2O,,72.0,,165.5,155-176,,,,,,,,Literature compilation
+757,Bismuth-indium,Metal / alloy,Pure / literature,,,,72.0,,25.0,,,,,,,,,Literature compilation
+758,PlusICE S72,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,72.0,,155.0,,2.13,,1666.0,,0.58,,120.0,Manufacturer datasheet
+759,PlusICE A73,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,73.0,,225.0,,2.2,,890.0,,0.23,,250.0,Manufacturer datasheet
+760,Tetratriacontane (C34),Paraffin,Pure / literature,,C34H70,,73.3,,263.0,,,,855.0,,,,,Nicholas 2014; Su 2015; Literature compilation
+761,Antimony trichloride,Inorganic (other),Pure / literature,,SbCl3,,73.4,,25.0,,,,,,,,,Literature compilation
+762,Paraffin C33,Paraffin,Pure / literature,,,,73.9,,268.0,,,,,,,,,L.F.Cabeza 2011
+763,Crodatherm 74,Paraffin,Commercial,Croda (UK),,,74.0,,,,1.8,2.0,939.0,858.0,,,,Manufacturer datasheet
+764,Oxazolinewax-TS970,Paraffin,Pure / literature,,,,74.0,,,,,,,,,,,Su 2015; Literature compilation
+765,C12Co,Metal / alloy,Pure / literature,,,,74.35,60.7–88.0,92.89,,,,,,,,,Nicholas 2014
+766,C14Cu,Metal / alloy,Pure / literature,,,,74.35,69.2–79.5,163.99,,,,1186.0,,,,,Nicholas 2014
+767,Pentatriacontane (C35),Paraffin,Pure / literature,,,,75.1,,266.0,,,,860.0,,,,,Nicholas 2014
+768,Arachidic acid,Fatty / organic acid,Pure / literature,,,,75.3,,188.0,,,,,,,,,Nicholas 2014
+769,Arachidic acid (eicosanoic acid),Fatty / organic acid,Pure / literature,,C20H40O2,,75.5,,227,,,,,824,,,,"Yuan et al. 2014, Renew. Sustain. Energy Rev. 29:482"
+770,Paraffin C34,Paraffin,Pure / literature,,,,75.9,,269.0,,,,,,,,,L.F.Cabeza 2011
+771,66.6% Urea + 33.4% NH4Br,Eutectic,Pure / literature,,,66.6/33.4,76.0,,161.0,,,,1494.0,,0.507,,,Zalba 2003
+772,NH2CONH2 + NH4Br,Eutectic,Pure / literature,,,66.6 + 33.4,76.0,,151.0,,,,,,,,,Su 2015; Literature compilation
+773,Urea + NH4Br (66.6/33.4),Eutectic,Pure / literature,,,,76.0,,151.0,,,,,,,,,Nicholas 2014
+774,Arachicacid,Organic (other),Pure / literature,,,,76.5,,,,,,,,,,,Su 2015; Literature compilation
+775,Phenylacetic acid,Fatty / organic acid,Pure / literature,,,,76.7,,102.0,,,,,,,,,Nicholas 2014; Su 2015; Literature compilation
+776,Hexatriacontane (C36),Paraffin,Pure / literature,,,,76.9,,269.0,,,,865.0,,,,,Nicholas 2014
+777,Bromcamphor,Organic (other),Pure / literature,,,,77.0,,174.0,,,,1449.0,,,,,Su 2015; Literature compilation
+778,Thiosinamine,Organic (other),Pure / literature,,,,77.0,,140.0,,,,,,,,,Su 2015; Literature compilation
+779,"2-Amino-2-methyl-1,3-propanediol (AMPL)",Solid-solid,Pure / literature,,C4H11NO2,,78,,264,,,,1200,,,,,"Pielichowska & Pielichowski 2014, Prog. Mater. Sci. 65:67"
+780,ATP 78,Paraffin,Commercial,Axiotherm (Germany),,,78.0,,199.0,,2.0,2.0,889.0,800.0,0.2,0.2,,Manufacturer datasheet
+781,Barium hydroxide octahydrate,Salt hydrate,Pure / literature,,Ba(OH)2 8H2O,,78.0,,273.5,267–280,1.17,1.92,2125.0,1937.0,0.954,0.653,,"Zalba 2003; Su 2015; Literature compilation; Zalba et al. 2003, Appl. Therm. Eng. 23:251"
+782,Benzylamine,Organic (other),Pure / literature,,,,78.0,,174.0,,,,,,,,,Su 2015; Literature compilation
+783,HS78,Salt hydrate,Commercial,PLUSS Advanced Technologies (India),,,78.0,,248.2,,1.46,1.59,1890.0,1900.0,0.7,0.89,,Manufacturer datasheet
+784,PlusICE A78,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,78.0,,225.0,,2.2,,890.0,,0.23,,250.0,Manufacturer datasheet
+785,Heptatriacontane (C37),Paraffin,Pure / literature,,,,78.7,,271.0,,,,870.0,,,,,Nicholas 2014
+786,Durene,Organic (other),Pure / literature,,,,79.3,,156.0,,,,838.0,,,,,Su 2015; Literature compilation
+787,Trimethylol Ethane,Fatty alcohol,Pure / literature,,,,79.6,,138.3,,,,,,,,,Nicholas 2014
+788,Behenic acid (docosanoic acid),Fatty / organic acid,Pure / literature,,C22H44O2,,80,,233,,,,,822,,,,"Yuan et al. 2014, Renew. Sustain. Energy Rev. 29:482"
+789,PlusICE X80,Solid-solid,Commercial,PCM Products Ltd / PlusICE (UK),,,80.0,,160.0,,1.52,,1193.0,,0.36,,190.0,Manufacturer datasheet
+790,RT80HC,Paraffin,Commercial,Rubitherm (Germany),,,80.0,,202.7,,2.0,2.0,900.0,800.0,0.2,0.2,,Manufacturer datasheet
+791,C15Cu,Metal / alloy,Pure / literature,,,,80.05,72.3–87.8,126.42,,,,1245.0,,,,,Nicholas 2014
+792,25%LiNO3 + 65%NH4NO3 + 10%NaNO3,Eutectic,Pure / literature,,,,80.5,,113.0,,,,,,,,,Nicholas 2014
+793,LiNO3 + NH4NO3 + NaNO3,Eutectic,Pure / literature,,,25 + 65 + 10,80.5,,113.0,,,,,,,,,Su 2015; Literature compilation
+794,Octatriacontane (C38),Paraffin,Pure / literature,,,,80.5,,274.0,,,,875.0,,,,,Nicholas 2014
+795,Acetamide,Organic (other),Pure / literature,,,,81.0,,241.0,,,,1159.0,,,,,Su 2015; Literature compilation
+796,Methyl brombrenzoate,Fatty ester,Pure / literature,,,,81.0,,126.0,,,,,,,,,Su 2015; Literature compilation
+797,Trimethylolethane (TME),Solid-solid,Pure / literature,,C5H12O3,,81,,192,,,,1220,,,,,"Pielichowska & Pielichowski 2014, Prog. Mater. Sci. 65:67"
+798,14.9%KNO3 + 26.4%LiNO3 + 58.7%NH4NO3,Eutectic,Pure / literature,,,,81.5,,116.0,,,,,,,,,Nicholas 2014
+799,LiNO3 + NH4NO3 + KNO3,Eutectic,Pure / literature,,,26.4 + 58.7 + 14.9,81.5,,116.0,,,,,,,,,Su 2015; Literature compilation
+800,27%LiNO3 + 5%NH4Cl + 68%NH4NO3,Eutectic,Pure / literature,,,,81.6,,108.0,,,,,,,,,Nicholas 2014
+801,LiNO3 + NH4NO3 + NH4Cl,Eutectic,Pure / literature,,,27 + 68 + 5,81.6,,108.0,,,,,,,,,Su 2015; Literature compilation
+802,GR82,Organic (other),Commercial,Rubitherm (Germany),,,82.0,,33.6,,2.0,2.0,800.0,800.0,0.2,0.2,,Manufacturer datasheet
+803,PX82,Organic (other),Commercial,Rubitherm (Germany),,,82.0,,73.0,,2.0,2.0,690.0,690.0,0.1,0.1,,Manufacturer datasheet
+804,PlusICE A82,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,82.0,,240.0,,2.2,,930.0,,0.23,,250.0,Manufacturer datasheet
+805,RT82,Paraffin,Commercial,Rubitherm (Germany),,,82.0,,144.0,,2.0,2.0,880.0,700.0,0.2,0.2,,Manufacturer datasheet
+806,n‐Tetracontane,Paraffin,Pure / literature,,,,82.0,,,,,,,,,,,Zalba 2003
+807,Nonatriacontane (C39),Paraffin,Pure / literature,,,,82.3,,277.0,,,,880.0,,,,,Nicholas 2014
+808,PlusICE S83,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,83.0,,100.0,,2.31,,1600.0,,0.62,,120.0,Manufacturer datasheet
+809,ATS 84,Salt hydrate,Commercial,Axiotherm (Germany),,,84.0,,109.0,,2.0,2.0,1755.0,1650.0,0.6,0.6,,Manufacturer datasheet
+810,Tetracontane (C40),Paraffin,Pure / literature,,,,84.1,,279.0,,,,885.0,,,,,Nicholas 2014
+811,Lignoceric acid,Fatty / organic acid,Pure / literature,,,,84.2,,174.3,,,,,,,,,Nicholas 2014
+812,Tritetracontane (C43),Paraffin,Pure / literature,,,,85.5,,273.0,,,,,,,,,Nicholas R. Jankowski 2013
+813,Tettratetracontane (C44),Paraffin,Pure / literature,,,,86.4,,274.0,,,,,,,,,Nicholas R. Jankowski 2013
+814,Aluminium sulphate 18- hydrate,Salt hydrate,Pure / literature,,Al2(SO4)3 18H2O,,88.0,,218.0,,,,,,,,,Su 2015; Literature compilation
+815,Hextetracontane (C46),Paraffin,Pure / literature,,,,88.3,,276.0,,,,,,,,,Nicholas R. Jankowski 2013
+816,ATS 89,Salt hydrate,Commercial,Axiotherm (Germany),,,89.0,,114.0,,2.0,2.0,1681.0,1580.0,0.6,0.6,,Manufacturer datasheet
+817,HS89,Salt hydrate,Commercial,PLUSS Advanced Technologies (India),,,89.0,,160.4,,3.8,2.65,1630.0,1540.0,0.7,0.89,,Manufacturer datasheet
+818,PlusICE S89,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,89.0,,145.0,,2.48,,1550.0,,0.67,,120.0,Manufacturer datasheet
+819,Strontium hydroxide octahydrate,Salt hydrate,Pure / literature,,Sr(OH)2 8H2O,,89.0,,370.0,,,,,,,,,Su 2015; Literature compilation
+820,Magnesium nitrate hexahydrate,Salt hydrate,Pure / literature,,Mg(NO3)2 6H2O,,89.9,89.5–90.4,167.0,171–178,1.81,2.49,1636.0,1550.0,0.611,0.49,,"Su 2015; Nicholas 2014; Literature compilation; Zalba et al. 2003, Appl. Therm. Eng. 23:251"
+821,PlusICE X90,Solid-solid,Commercial,PCM Products Ltd / PlusICE (UK),,,90.0,,170.0,,1.51,,1200.0,,0.36,,190.0,Manufacturer datasheet
+822,RT 90,Organic (other),Pure / literature,,,,90.0,,163.0,,,,,,0.2,,,L.F.Cabeza 2011
+823,RT90HC,Paraffin,Commercial,Rubitherm (Germany),,,90.0,,127.1,,2.0,2.0,950.0,850.0,0.2,0.2,,Manufacturer datasheet
+824,SP90,Salt hydrate,Commercial,Rubitherm (Germany),,,90.0,,127.2,,2.0,2.0,1700.0,1650.0,0.6,0.6,,Manufacturer datasheet
+825,Octatetracontane (C48),Paraffin,Pure / literature,,,,90.3,,276.0,,,,,,,,,Nicholas R. Jankowski 2013
+826,Aluminium potassium sulphate dodecahydrate,Salt hydrate,Pure / literature,,KAl(SO4)2 12H2O,,91.0,,184.0,,,,,,,,,Su 2015; Literature compilation
+827,"2,2-Dimethyl-1,3-propanediol",Organic (other),Pure / literature,,,,91.2,,135.0,,,,,,,,,Nicholas 2014
+828,AlCl3 + NaCl,Eutectic,Pure / literature,,,66 + 34,93.0,,201.0,,,,,,,,,Su 2015; Literature compilation
+829,AlCl3 + NaCl + KCl,Eutectic,Pure / literature,,,60 + 26 + 14,93.0,,213.0,,,,,,,,,Su 2015; Literature compilation
+830,Xylitol,Sugar alcohol,Pure / literature,,C5H12O5,,94.0,,252.0,,1.27,2.36,1520,1330,,,,"L.F.Cabeza 2011; Solé et al. 2014, Sol. Energy Mater. Sol. Cells 126:125"
+831,Ammonium alum (NH4Al(SO4)2·12H2O),Salt hydrate,Pure / literature,,NH4Al(SO4)2·12H2O,,95,,269,,,,1640,,,,,"Sharma et al. 2009, Renew. Sustain. Energy Rev. 13:318"
+832,Ammoniumalum,Molten / inorganic salt,Pure / literature,,(NH4)Al(SO4) 6H2O,,95.0,,269.0,,,,,,,,,Su 2015; Literature compilation
+833,Ethyl lithium,Metal / alloy,Pure / literature,,,,95.0,,389.0,,,,,,,,,Nicholas 2014
+834,PlusICE A95,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,95.0,,260.0,,2.2,,900.0,,0.22,,300.0,Manufacturer datasheet
+835,PlusICE X95,Solid-solid,Commercial,PCM Products Ltd / PlusICE (UK),,,95.0,,140.0,,1.51,,1215.0,,0.36,,190.0,Manufacturer datasheet
+836,Sorbitol,Sugar alcohol,Pure / literature,,C6H14O6,,95.0,,259.0,,,,1490,,,,,"L.F.Cabeza 2011; Solé et al. 2014, Sol. Energy Mater. Sol. Cells 126:125"
+837,n‐Pentacontane,Paraffin,Pure / literature,,,,95.0,,,,,,779.0,,,,,Zalba 2003
+838,Alphanapthol,Organic (other),Pure / literature,,,,96.0,,163.0,,,,1095.0,,,,,Su 2015; Literature compilation
+839,Bismuth-lead-tin,Metal / alloy,Pure / literature,,,,96.0,,,,,,,,,,,Literature compilation
+840,Bismuth-lead-tin (Bi52Pb30Sn18),Metal / alloy,Pure / literature,,,,96.0,,34.7,,0.167,,9600.0,,24.0,,,Literature compilation
+841,Bi–Pb–Sn,Metal / alloy,Pure / literature,,,,96.0,,,,,,,,,,,Su 2015
+842,Bi–Pb–Sn (Bi52Pb30Sn18),Metal / alloy,Pure / literature,,,,96.0,,34.7,,0.167,,9600.0,,24.0,,,Su 2015
+843,Indalloy 39,Metal / alloy,Pure / literature,,,52Bi–30Pb–18Sn,96.0,,34.7,,,,9600.0,,13.0,,,Nicholas 2014
+844,Pentacontane (C50),Paraffin,Pure / literature,,,,96.3,,285.0,,,,935.0,,,,,Nicholas 2014
+845,Glutaric acid,Fatty / organic acid,Pure / literature,,,,97.5,,156.0,,,,1429.0,,,,,Nicholas 2014; Su 2015; Literature compilation
+846,Sodium,Metal / alloy,Pure / literature,,,,97.8,,,,,,,,,,,Su 2015; Literature compilation
+847,Hexatcontane (C60),Paraffin,Pure / literature,,,,99.0,,279.0,,,,,,,,,Nicholas R. Jankowski 2013
+848,Lithium chloride monohydrate,Salt hydrate,Pure / literature,,LiCl.H2O,,99.0,,212.0,,,,,,,,,Literature compilation
+849,RT 100,Organic (other),Pure / literature,,,,99.0,,137.0,,,,,,0.2,,,L.F.Cabeza 2011
+850,RT100HC,Paraffin,Commercial,Rubitherm (Germany),,,100.0,,133.3,,2.0,2.0,1000.0,1000.0,0.2,0.2,,Manufacturer datasheet
+851,Sodium,Paraffin,Commercial,Rubitherm (Germany),Na,,100.0,,184.0,,2.0,2.0,880.0,770.0,0.2,0.2,,Manufacturer datasheet; CRC Handbook of Chemistry and Physics
+852,p-Xylenedichloride,Organic (other),Pure / literature,,,,100.0,,138.7,,,,,,,,,Su 2015; Literature compilation
+853,Dimethyl fumarate,Fatty ester,Pure / literature,,,,102.0,,242.0,,,,,1045.2,,,,Nicholas 2014
+854,Methyl fumarate,Fatty ester,Pure / literature,,,,102.0,,242.0,,,,1045.0,,,,,Su 2015; Literature compilation
+855,PlusICE H105,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,104.0,,125.0,,1.5,,1700.0,,0.5,,390.0,Manufacturer datasheet
+856,Catechol,Organic (other),Pure / literature,,,,104.3,,207.0,,,,1370.0,,,,,Su 2015; Literature compilation
+857,Hexacontane (C60),Paraffin,Pure / literature,,,,104.5,,287.0,,,,985.0,,,,,Nicholas 2014
+858,49.4%KNO3 + 29%LiNO3 + 17%NaNO3 + 4.6%Sr(NO3)2,Eutectic,Pure / literature,,,,105.0,,110.0,,,,,,,,,Nicholas 2014
+859,Heptacontane (C70),Paraffin,Pure / literature,,,,106.0,,281.0,,,,1035.0,,,,,Nicholas 2014
+860,Octacontane (C80),Paraffin,Pure / literature,,,,109.0,,283.0,,,,1085.0,,,,,Nicholas 2014
+861,Calcium bromide tetrahydrate,Salt hydrate,Pure / literature,,CaBr2.4H2O,,110.0,,,,,,,,,,,Literature compilation
+862,RT111HC,Paraffin,Commercial,Rubitherm (Germany),,,111.0,,189.6,,2.0,2.0,900.0,800.0,0.2,0.2,,Manufacturer datasheet
+863,Aluminium sulphate 16-hydrate,Salt hydrate,Pure / literature,,Al2(SO4)3.16H2O,,112.0,,,,,,,,,,,Literature compilation
+864,Nonacontane (C90),Paraffin,Pure / literature,,,,112.0,,284.0,,,,1135.0,,,,,Nicholas 2014
+865,AlCl3(82.5)–LiCl(17.5),Molten / inorganic salt,Pure / literature,,,AlCl3(82.5)–LiCl(17.5),114.0,,251.0,,,,,,,,,Cheng Zhou 2018
+866,PlusICE H115,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,114.0,,100.0,,1.51,,2200.0,,0.5,,390.0,Manufacturer datasheet
+867,ATS 115,Salt hydrate,Commercial,Axiotherm (Germany),,,115.0,,130.3,,2.0,2.0,1596.0,1500.0,0.6,0.6,,Manufacturer datasheet
+868,Hectacontane (C100),Paraffin,Pure / literature,,,,115.0,,285.0,,,,1185.0,,,,,Nicholas 2014
+869,Quinone,Organic (other),Pure / literature,,,,115.0,,171.0,,,,1318.0,,,,,Su 2015; Literature compilation
+870,Hectane (C100),Organic (other),Pure / literature,,,,115.25,,285.0,,,,,,,,,Nicholas R. Jankowski 2013
+871,Acetanilide,Organic (other),Pure / literature,,,,116.0,,222.0,,,,1210.0,,,,,L.F.Cabeza 2011; Literature compilation
+872,Magnesium chloride hexahydrate,Salt hydrate,Pure / literature,,MgCl2 6H2O,,117.0,115–117,167.0,165–168.6,2.25,2.61,1570.0,1450.0,0.704,0.57,,"Su 2015; Zalba 2003; Literature compilation; Zalba et al. 2003, Appl. Therm. Eng. 23:251"
+873,PlusICE S117,Salt hydrate,Commercial,PCM Products Ltd / PlusICE (UK),,,117.0,,125.0,,2.61,,1450.0,,0.7,,140.0,Manufacturer datasheet
+874,Indium–Tin eutectic,Eutectic,Pure / literature,,,50In–50Sn,118.0,,27.0,,,,,,,,,Nicholas 2014
+875,PlusICE A118,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,118.0,,195.0,,2.2,,900.0,,0.22,,250.0,Manufacturer datasheet
+876,Succinic anhydride,Organic (other),Pure / literature,,,,119.0,,204.0,,,,1104.0,,,,,Nicholas 2014; Su 2015; Literature compilation
+877,meso-Erythritol,Fatty alcohol,Pure / literature,,C4H10O4,,119.4,,328.2,,1.398,2.87,1451.0,1289.0,0.89,0.33,,"PCM property database; Su 2015; Literature compilation; Solé et al. 2014, Sol. Energy Mater. Sol. Cells 126:125"
+878,LiNO3(29.3)–KNO3(28.4)–NaNO3(42.3),Molten / inorganic salt,Pure / literature,,,LiNO3(29.3)–KNO3(28.4)–NaNO3(42.3),120.0,,261.0,,,,,,,,,Cheng Zhou 2018
+879,LiNO3(29.3)–NaNO3(42.3)–KNO3(28.4),Molten / inorganic salt,Pure / literature,,,LiNO3(29.3)–NaNO3(42.3)–KNO3(28.4),120.0,,260.0,,,,,,,,,Cheng Zhou 2018
+880,NaNO3–KNO3–LiNO3,Molten / inorganic salt,Pure / literature,,53 + 40 + 7,,120.0,,108.0,,,,,,,,,Nicholas 2014
+881,PlusICE H120,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,120.0,,120.0,,1.51,,2220.0,,0.51,,390.0,Manufacturer datasheet
+882,PlusICE X120,Solid-solid,Commercial,PCM Products Ltd / PlusICE (UK),,,120.0,,185.0,,1.5,,1245.0,,0.36,,160.0,Manufacturer datasheet
+883,Valporicacid,Organic (other),Pure / literature,,,,120.0,,,,,,,,,,,Su 2015; Literature compilation
+884,Benzoic acid,Fatty / organic acid,Pure / literature,,,,121.0,,142.8,,,,1266.0,,,,,Nicholas 2014; Su 2015; Literature compilation
+885,Stibene,Organic (other),Pure / literature,,,,124.0,,167.0,,,,1164.0,,,,,Su 2015; Literature compilation
+886,Indalloy 255,Metal / alloy,Pure / literature,,,55.5Bi–44.5Pb,124.5,124–125,20.9,,,,10440.0,,4.0,,,Nicholas 2014
+887,Bi–Pb,Metal / alloy,Pure / literature,,,,125.0,,,,,,,,,,,Su 2015; Literature compilation
+888,Benzamide,Organic (other),Pure / literature,,,,127.2,,169.4,,,,1341.0,,,,,Su 2015; Literature compilation
+889,CsCl–RbCl–LiCl–KCl,Molten / inorganic salt,Pure / literature,,,CsCl(65.6–65.7)–RbCl(14.3–14.4)–LiCl(10.7–10.8)–KCl(9.2),129.25,256 ± 2.5,377.5,375–380,,,,,,,,Cheng Zhou 2018
+890,PlusICE X130,Solid-solid,Commercial,PCM Products Ltd / PlusICE (UK),,,130.0,,315.0,,1.47,,1280.0,,0.36,,160.0,Manufacturer datasheet
+891,HDPE (high-density polyethylene),Polymer / PEG,Pure / literature,,(C2H4)n,,132,,200,,1.9,2.3,950,760,0.45,0.25,,"Farid et al. 2004, Energy Convers. Manag. 45:1597"
+892,LiNO3(32)–NaNO3(45)–KNO3(23),Molten / inorganic salt,Pure / literature,,,LiNO3(32)–NaNO3(45)–KNO3(23),132.0,,310.0,,,,,,,,,Cheng Zhou 2018
+893,Tris(hydroxymethyl)-aminomethane,Organic (other),Pure / literature,,,,132.0,,285.0,,,,,,,,,Nicholas 2014
+894,67%KNO3 + 33%LiNO3,Eutectic,Pure / literature,,,,133.0,,170.0,,,,,,,,,Nicholas 2014
+895,PlusICE A133,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,133.0,,200.0,,2.2,,880.0,,0.23,,250.0,Manufacturer datasheet
+896,Urea,Organic (other),Pure / literature,,,,134.0,133–135,214.0,170–258,,,,,,,,Nicholas 2014
+897,Phenacetin,Organic (other),Pure / literature,,,,137.0,,136.7,,,,,,,,,Su 2015; Literature compilation
+898,Bismuth-tin (Bi58Sn42),Metal / alloy,Pure / literature,,,,138.0,,44.8,,0.201,,8560.0,,19.0,,,Literature compilation
+899,Bismuth–Tin eutectic,Eutectic,Pure / literature,,,58Bi–42Sn,138.0,,44.8,,,,,,,,,Nicholas 2014
+900,Bi–Sn (Bi58Sn42),Metal / alloy,Pure / literature,,,,138.0,,44.8,,0.201,,8560.0,,19.0,,,Su 2015
+901,58Bi–42Sn (Indalloy 281),Metal / alloy,Pure / literature,,,,138.3,,44.8,,,,,,,,,Nicholas 2014
+902,LiNO3(46)–KNO3(54),Molten / inorganic salt,Pure / literature,,,LiNO3(46)–KNO3(54),140.0,,240.0,,,,,,,,,Cheng Zhou 2018
+903,LiNO3(60)–KNO3(40),Molten / inorganic salt,Pure / literature,,,LiNO3(60)–KNO3(40),140.0,,250.0,,,,,,,,,Cheng Zhou 2018
+904,Glucose,Organic (other),Pure / literature,,,,141.0,,174.0,,,,,,,,,Nicholas 2014
+905,Dimethyl terephthalate,Fatty ester,Pure / literature,,,,141.63,,164.8,,1.345,1.918,1448.2,1067.37,,0.1333,,PCM property database
+906,NaNO2 + KNO2 + NaCl + KCl,Molten / inorganic salt,Pure / literature,,33.5 + 36.5 + 15 + 15,,142.0,,150.0,,,,,,,,,Nicholas 2014
+907,NaNO2 + NaNO3 + KNO3,Eutectic,Pure / literature,,,40 + 7 + 53,142.0,,,,,,,,,,,Su 2015; Literature compilation
+908,NaNO3–KNO3–NaNO2,Molten / inorganic salt,Pure / literature,,,NaNO3(48)–KNO3(7)–NaNO2(45),142.0,,108.0,,,,,,,,,Cheng Zhou 2018
+909,Pentaglycerine,Organic (other),Pure / literature,,,,142.5,,229.3,,,,,,,,,Nicholas 2014
+910,LiNO3(54)–KNO3(46),Molten / inorganic salt,Pure / literature,,,LiNO3(54)–KNO3(46),143.0,,260.0,,,,,,,,,Cheng Zhou 2018
+911,PlusICE A144,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,144.0,,115.0,,2.2,,880.0,,0.23,,250.0,Manufacturer datasheet
+912,Fructose-D,Organic (other),Pure / literature,,,,144.5,144–145,145.0,,,,,,,,,Nicholas 2014
+913,Isomalt,Organic (other),Pure / literature,,,,145.0,,170.0,,,,,,,,,Nicholas 2014
+914,Acetyl-p-toluidene,Organic (other),Pure / literature,,,,146.0,,180.0,,,,,,,,,Su 2015; Literature compilation
+915,Maltitol,Organic (other),Pure / literature,,,,148.5,145–152,173.0,,,,,,,,,Nicholas 2014
+916,Lactitol,Organic (other),Pure / literature,,,,149.0,146–152,142.0,135–149,,,,,,,,Nicholas 2014
+917,Xylose-D,Organic (other),Pure / literature,,,,149.0,147–151,248.0,216–280,,,,,,,,Nicholas 2014
+918,Xylose-L,Organic (other),Pure / literature,,,,149.0,147–151,213.0,,,,,,,,,Nicholas 2014
+919,PureTemp151,Fatty ester,Commercial,PureTemp (USA),,,151.0,,216.5,,2.06,2.17,1490.0,1360.0,0.25,0.15,,Manufacturer datasheet
+920,Dimethylolpropionic acid,Fatty / organic acid,Pure / literature,,,,153.5,152–155,288.0,287–289,,,,,,,,Nicholas 2014
+921,Indium,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),In,,155.0,,102.0,,2.2,,880.0,7020,0.23,42,250.0,Manufacturer datasheet; CRC Handbook of Chemistry and Physics
+922,KNO3 + NaNO3 + Ca(NO3)2,Molten / inorganic salt,Pure / literature,,30 + 30 + 40,,155.0,,147.0,,,,,,,,,Nicholas 2014
+923,Phenylhdrazone benzaldehyde,Organic (other),Pure / literature,,,,155.0,,134.8,,,,1443.0,,,,,Su 2015; Literature compilation
+924,Indium,Metal / alloy,Pure / literature,,,,156.8,,28.59,,0.23,,7030.0,,36.4,,,Su 2015; Literature compilation
+925,In,Metal / alloy,Pure / literature,,,In(100),157.0,,29.5,,,,,,,,,Cheng Zhou 2018
+926,Salicylicacid,Organic (other),Pure / literature,,,,159.0,,199.0,,,,1443.0,,,,,Su 2015; Literature compilation
+927,KNO3–NaNO3–NaNO2,Molten / inorganic salt,Pure / literature,,,KNO3(20)–NaNO3(40)–NaNO2(40),160.0,,150.0,,,,,,,,,Cheng Zhou 2018
+928,Benzanilide,Organic (other),Pure / literature,,,,161.0,,162.0,,,,,,,,,Su 2015; Literature compilation
+929,PlusICE H160,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,162.0,,105.0,,1.51,,1910.0,,0.51,,200.0,Manufacturer datasheet
+930,PlusICE A164,Paraffin,Commercial,PCM Products Ltd / PlusICE (UK),,,164.0,,305.0,,2.42,,1500.0,,,,200.0,Manufacturer datasheet
+931,PlusICE X165,Solid-solid,Commercial,PCM Products Ltd / PlusICE (UK),,,165.0,,225.0,,1.43,,1304.0,,0.36,,200.0,Manufacturer datasheet
+932,D-Mannitol,Sugar alcohol,Pure / literature,,C6H14O6,,165.02,165–168,262.7,294–341,1.344,2.36,1489.0,,,,,"PCM property database; Su 2015; L.F.Cabeza 2011; Nicholas 2014; Literature compilation; Solé et al. 2014, Sol. Energy Mater. Sol. Cells 126:125"
+933,KOH–NaOH,Molten / inorganic salt,Pure / literature,,,KOH(41.6)–NaOH(58.4),170.0,169–171,207.5,202–213,,,,,,,,Cheng Zhou 2018
+934,NaOH + KOH,Molten / inorganic salt,Pure / literature,,60 + 40,,170.0,,165.0,,,,,,,,,Nicholas 2014
+935,Hydroquinone,Organic (other),Pure / literature,,,,172.4,,258.0,,,,1358.0,,,,,Su 2015; Literature compilation
+936,KNO3–NaNO2,Molten / inorganic salt,Pure / literature,,,KNO3(40)–NaNO2(60),180.0,,125.0,,,,,,,,,Cheng Zhou 2018
+937,Lithium,Solid-solid,Commercial,PCM Products Ltd / PlusICE (UK),Li,,180.0,,275.0,,1.4,4.38,1330.0,512,0.36,43,200.0,Manufacturer datasheet; CRC Handbook of Chemistry and Physics
+938,Pentaerythritol,Sugar alcohol,Pure / literature,,,,184.2,,270.0,,,,,,,,,Nicholas 2014
+939,Lithium,Metal / alloy,Pure / literature,,,,186.0,,433.78,,4.389,,515.0,,41.3,,,Su 2015; Literature compilation
+940,LiNO3(60)–NaNO3(40),Molten / inorganic salt,Pure / literature,,,LiNO3(60)–NaNO3(40),187.0,,270.0,,,,,,,,,Cheng Zhou 2018
+941,p-Aminobenzoicacid,Organic (other),Pure / literature,,,,187.0,,153.0,,,,,,,,,Su 2015; Literature compilation
+942,Dulcitol,Sugar alcohol,Pure / literature,,,,187.5,,356.8,,1.309,,1470.0,,,,,PCM property database
+943,Galactitol,Sugar alcohol,Pure / literature,,,,188.0,,299.0,,,,,,,,,L.F.Cabeza 2011
+944,LiNO3(55)–NaNO3(45),Molten / inorganic salt,Pure / literature,,,LiNO3(55)–NaNO3(45),188.0,,275.0,,,,,,,,,Cheng Zhou 2018
+945,Pentaerythritol (PE),Solid-solid,Pure / literature,,C5H12O4,,188,,269,,,,1390,,,,,"Pielichowska & Pielichowski 2014, Prog. Mater. Sci. 65:67"
+946,PlusICE H190,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,191.0,,170.0,,1.51,,2300.0,,0.51,,500.0,Manufacturer datasheet
+947,"2,6-Dimethylnaphthalene dicarboxylate",Fatty ester,Pure / literature,,,,191.07,,170.9,,,,1316.5,1162.0,,,,PCM property database
+948,AlCl3,Molten / inorganic salt,Pure / literature,,,,192.0,,276.0,272–280,,,,,,,,Nicholas 2014
+949,Al 0.4% Sn 91.5% Zn 8.1%,Metal / alloy,Pure / literature,,,,198.0,,77.0,,0.29,0.26,7216.0,6869.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+950,LiNO3(50)–NaNO3(50),Molten / inorganic salt,Pure / literature,,,LiNO3(50)–NaNO3(50),199.0,,261.0,,,,,,,,,Cheng Zhou 2018
+951,Sn 92.1% Zn 7.9%,Metal / alloy,Pure / literature,,,,199.0,,75.0,,0.27,0.25,7257.0,6919.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+952,Sn–Zn (Sn91Zn9),Metal / alloy,Pure / literature,,,,199.0,,32.5,,0.272,,7270.0,,61.0,,,Su 2015
+953,Tin-zinc (Sn91Zn9),Metal / alloy,Pure / literature,,,,199.0,,32.5,,0.272,,7270.0,,61.0,,,Literature compilation
+954,Mg 2.0% Sn 98.0%,Metal / alloy,Pure / literature,,,,204.0,,70.0,,0.27,0.28,7018.0,6521.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+955,NaOH(79.6)–LiOH(20.4),Molten / inorganic salt,Pure / literature,,,NaOH(79.6)–LiOH(20.4),215.0,,290.0,,,,,,,,,Cheng Zhou 2018
+956,PlusICE H220,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,220.0,,100.0,,1.52,,2000.0,,0.52,,390.0,Manufacturer datasheet
+957,50%NaNO3 + 50%KNO3,Eutectic,Pure / literature,,,,221.0,220–222,100.35,100–100.7,,,,,,,,Nicholas 2014
+958,Tin–Silver eutectic,Eutectic,Pure / literature,,,96.5Sn–3.5Ag,221.0,,60.0,,,,,,,,,Nicholas 2014
+959,46%KNO3 + 54%NaNO3,Eutectic,Pure / literature,,,,222.0,,117.0,,,,,,,,,Nicholas 2014
+960,NaNO3(54)–KNO3(46),Molten / inorganic salt,Pure / literature,,,NaNO3(54)–KNO3(46),222.0,,152.0,,,,,,,,,Cheng Zhou 2018
+961,NaNO3(60)–KNO3(40),Molten / inorganic salt,Pure / literature,,,NaNO3(60)–KNO3(40),222.0,,150.0,,,,,,,,,Cheng Zhou 2018
+962,NaNO3–KNO3,Molten / inorganic salt,Pure / literature,,50 + 50,,222.0,220–222,100.7,100–100.7,,,,,,,,Nicholas 2014
+963,Solar Salt (60 wt% NaNO3 – 40 wt% KNO3),Eutectic,Pure / literature,,NaNO3-KNO3 60/40,,222,222–238,105,~100–110,,1.5,2000,1900,,0.52,,"Bauer et al., Sandia/DLR molten-salt data"
+964,LiCl–KCl–ZnCl2,Molten / inorganic salt,Pure / literature,,31 + 31 + 38,,224.0,,,,,,,,,,,Nicholas 2014
+965,Myo-inositol,Sugar alcohol,Pure / literature,,C6H12O6,,224.0,,277.0,,,,1752,,,,,"Cheng Zhou 2018; Solé et al. 2014, Sol. Energy Mater. Sol. Cells 126:125"
+966,PlusICE H230,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,227.0,,105.0,,1.52,,1553.0,,0.52,,300.0,Manufacturer datasheet
+967,Tin–Copper eutectic,Eutectic,Pure / literature,,,99.3Sn–0.7Cu,227.0,,58.0,,,,,,,,,Nicholas 2014
+968,Al 0.4% Sn 99.6%,Metal / alloy,Pure / literature,,,,229.0,,61.0,,0.27,0.25,7225.0,6893.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+969,Tin,Molten / inorganic salt,Pure / literature,,Sn,NaNO3(60)–NaNO2(40),230.0,,148.0,,0.228,0.24,7265,6990,67,30,,Cheng Zhou 2018; CRC Handbook of Chemistry and Physics
+970,Sn,Metal / alloy,Pure / literature,,,Sn(100),232.0,,59.0,,0.25,0.25,7264.0,6947.0,,,,Cheng Zhou 2018; Fernández et al. (metal alloy PCM review); Literature compilation
+971,Tin,Metal / alloy,Pure / literature,,,,232.0,,60.5,,0.221,,730.0,,15.08,,,Su 2015; Literature compilation
+972,KCl(68.1)–ZnCl2(31.9),Molten / inorganic salt,Pure / literature,,,KCl(68.1)–ZnCl2(31.9),235.0,,198.0,,,,,,,,,Cheng Zhou 2018
+973,NaOH(61)–NaNO2(39),Molten / inorganic salt,Pure / literature,,,NaOH(61)–NaNO2(39),237.0,,294.0,,,,,,,,,Cheng Zhou 2018
+974,NaOH(61)–NaNO3(39),Molten / inorganic salt,Pure / literature,,,NaOH(61)–NaNO3(39),237.5,237–238,272.0,249–295,,,,,,,,Cheng Zhou 2018
+975,NaOH(63.9)–NaNO3(31.8)–NaCl(4.3),Molten / inorganic salt,Pure / literature,,,NaOH(63.9)–NaNO3(31.8)–NaCl(4.3),242.0,,242.0,,,,,,,,,Cheng Zhou 2018
+976,Indalloy 233,Metal / alloy,Pure / literature,,,85Pb–10Sb–5Sn,250.0,245–255,0.9,,,,10360.0,,,,,Nicholas 2014
+977,PlusICE H250,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,250.0,,280.0,,1.53,,2380.0,,0.52,,600.0,Manufacturer datasheet
+978,NaOH(82.9)–Na2CO3(17.1),Molten / inorganic salt,Pure / literature,,,NaOH(82.9)–Na2CO3(17.1),252.0,,286.0,,,,,,,,,Cheng Zhou 2018
+979,LiNO3,Molten / inorganic salt,Pure / literature,,,LiNO3(100),254.0,,296.0,,,,,,,,,Cheng Zhou 2018
+980,PlusICE H255,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,254.0,,270.0,,1.53,,2380.0,,0.52,,600.0,Manufacturer datasheet
+981,NaOH(67.5)–NaNO3(32.5),Molten / inorganic salt,Pure / literature,,,NaOH(67.5)–NaNO3(32.5),257.0,256–258,271.5,251–292,,,,,,,,Cheng Zhou 2018
+982,NaOH(67.5)–NaNO4(32.5),Molten / inorganic salt,Pure / literature,,,NaOH(67.5)–NaNO4(32.5),257.0,,292.0,,,,,,,,,Cheng Zhou 2018
+983,LiOH–LiCl,Molten / inorganic salt,Pure / literature,,,LiOH(63)–LiCl(37),262.0,,485.0,,,,,,,,,Cheng Zhou 2018
+984,LiCl(51)–LiOH(49),Molten / inorganic salt,Pure / literature,,,LiCl(51)–LiOH(49),264.0,,437.0,,,,,,,,,Cheng Zhou 2018
+985,Bi,Metal / alloy,Pure / literature,,,Bi(100),271.0,,53.0,,,,,,,,,Cheng Zhou 2018
+986,Bismuth,Molten / inorganic salt,Pure / literature,,Bi,NaNO2(100),271.0,,161.0,,0.122,0.146,9780,10050,8,13,,Cheng Zhou 2018; CRC Handbook of Chemistry and Physics
+987,Bismuth,Metal / alloy,Pure / literature,,,,271.4,,53.3,,0.122,,979.0,,8.1,,,Su 2015; Literature compilation
+988,LiCl(51.8)–LiOH(48.2),Molten / inorganic salt,Pure / literature,,,LiCl(51.8)–LiOH(48.2),274.0,,339.0,,,,,,,,,Cheng Zhou 2018
+989,ZnCl2,Molten / inorganic salt,Pure / literature,,,ZnCl2(100),280.0,,75.0,,,,,,,,,Cheng Zhou 2018
+990,LiCl(49.2)–LiOH(47.2)–KCl(3.6),Molten / inorganic salt,Pure / literature,,,LiCl(49.2)–LiOH(47.2)–KCl(3.6),282.0,,300.0,,,,,,,,,Cheng Zhou 2018
+991,NaOH(75.2)–Na2CO3(14.9)–NaCl(10),Molten / inorganic salt,Pure / literature,,,NaOH(75.2)–Na2CO3(14.9)–NaCl(10),282.0,,316.0,,,,,,,,,Cheng Zhou 2018
+992,NaOH(80)–Na2CO3(13)–NaCl(7),Molten / inorganic salt,Pure / literature,,,NaOH(80)–Na2CO3(13)–NaCl(7),282.0,,279.0,,,,,,,,,Cheng Zhou 2018
+993,NaOH(85.8)–NaCl(7.8)–Na2CO3(6.4),Molten / inorganic salt,Pure / literature,,,NaOH(85.8)–NaCl(7.8)–Na2CO3(6.4),282.0,,316.0,,,,,,,,,Cheng Zhou 2018
+994,PlusICE H280,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,282.0,,160.0,,1.54,,2250.0,,0.53,,500.0,Manufacturer datasheet
+995,NaOH(84)–Na2CO3(16),Molten / inorganic salt,Pure / literature,,,NaOH(84)–Na2CO3(16),283.0,,340.0,,,,,,,,,Cheng Zhou 2018
+996,PlusICE H285,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,285.0,,85.0,,1.54,,2200.0,,0.53,,390.0,Manufacturer datasheet
+997,NaOH(76.8)–Na2CO3(15.4)–NaCl(7.8),Molten / inorganic salt,Pure / literature,,,NaOH(76.8)–Na2CO3(15.4)–NaCl(7.8),291.0,,283.0,,,,,,,,,Cheng Zhou 2018
+998,PlusICE H290,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,292.0,,150.0,,1.55,,2200.0,,0.53,,500.0,Manufacturer datasheet
+999,NaOH(75.1)–Na2CO3(14.9)–NaCl(10),Molten / inorganic salt,Pure / literature,,,NaOH(75.1)–Na2CO3(14.9)–NaCl(10),298.0,,286.0,,,,,,,,,Cheng Zhou 2018
+1000,PlusICE H300,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,302.0,,130.0,,1.55,,1900.0,,0.54,,500.0,Manufacturer datasheet
+1001,PlusICE H305,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,305.0,,150.0,,1.56,,1570.0,,0.54,,350.0,Manufacturer datasheet
+1002,Sodium nitrate,Molten / inorganic salt,Pure / literature,,NaNO3,,307.5,307–308,185.5,172–199,,1.82,2258.5,1908,0.5,0.51,,"Zalba 2003; Literature compilation; Fernández et al. (metal alloy PCM review); Kenisarin 2010, Renew. Sustain. Energy Rev. 14:955"
+1003,KOH–LiOH,Molten / inorganic salt,Pure / literature,,,KOH(60)–LiOH(40),314.0,,341.0,,,,,,,,,Cheng Zhou 2018
+1004,NaOH,Molten / inorganic salt,Pure / literature,,,NaOH(100),318.0,,165.0,,,,,,,,,Cheng Zhou 2018
+1005,NaOH(65.2)–NaCl(20)–Na2CO3(14.8),Molten / inorganic salt,Pure / literature,,,NaOH(65.2)–NaCl(20)–Na2CO3(14.8),318.0,,290.0,,,,,,,,,Cheng Zhou 2018
+1006,Sodium hydroxide,Molten / inorganic salt,Pure / literature,,NaOH,,318,,165,,,2.08,2130,1780,0.92,,,"Kenisarin 2010, Renew. Sustain. Energy Rev. 14:955"
+1007,KCl(44.7)–LiCl(35)–BaCl2(20.3),Molten / inorganic salt,Pure / literature,,,KCl(44.7)–LiCl(35)–BaCl2(20.3),320.0,,170.0,,,,,,,,,Cheng Zhou 2018
+1008,PlusICE H320,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,320.0,,70.0,,1.5,,2100.0,,0.55,,390.0,Manufacturer datasheet
+1009,Cd,Metal / alloy,Pure / literature,,,Cd(100),321.0,,65.0,,,,,,,,,Cheng Zhou 2018
+1010,Lead,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),Pb,,327.0,,80.0,,1.51,0.15,2110.0,10660,0.55,15.4,390.0,Manufacturer datasheet; CRC Handbook of Chemistry and Physics
+1011,Pb,Metal / alloy,Pure / literature,,,Pb(100),327.0,,24.7,,,,,,,,,Cheng Zhou 2018
+1012,Zn(30)–Al(70),Metal / alloy,Pure / literature,,,Zn(30)–Al(70),331.0,,75.0,,,,,,,,,Cheng Zhou 2018
+1013,PlusICE H335,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,334.0,,80.0,,1.51,,2110.0,,0.55,,390.0,Manufacturer datasheet
+1014,46.3Mg–53.7Zn,Metal / alloy,Pure / literature,,,,340.0,,185.0,,,,,,,,,Nicholas 2014
+1015,LiCl–KCl–LiCO3–LiF,Molten / inorganic salt,Pure / literature,,,LiCl(47.4–47.7)–KCl(46.8–47.0)–LiCO3(3.2–3.4)–LiF(2.1–2.4),341.5,340–343,377.5,375–380,,,,,,,,Cheng Zhou 2018
+1016,Zn(40)–Al(60),Metal / alloy,Pure / literature,,,Zn(40)–Al(60),342.0,,84.0,,,,,,,,,Cheng Zhou 2018
+1017,LiCl–NaCl–KCl,Molten / inorganic salt,Pure / literature,,,LiCl(43)–NaCl(33)–KCl(24),346.0,,281.0,,,,,,,,,Cheng Zhou 2018
+1018,NaCl–KCl–LiCl,Molten / inorganic salt,Pure / literature,,,NaCl(34.81)–KCl(32.29)–LiCl(32.29),346.0,,281.0,,,,,,,,,Cheng Zhou 2018
+1019,Mg 46.9% Zn 53.1%,Metal / alloy,Pure / literature,,,,347.0,,171.0,,1.69,1.05,3311.0,2660.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1020,KCl(56)–LiCl(44),Molten / inorganic salt,Pure / literature,,,KCl(56)–LiCl(44),348.0,,170.0,,,,,,,,,Cheng Zhou 2018
+1021,MnCl2(60.6)–KCl(22.9)–NaCl(16.5),Molten / inorganic salt,Pure / literature,,,MnCl2(60.6)–KCl(22.9)–NaCl(16.5),350.0,,215.0,,,,,,,,,Cheng Zhou 2018
+1022,KCl(55)–LiCl(45),Molten / inorganic salt,Pure / literature,,,KCl(55)–LiCl(45),352.0,,234.6,,,,,,,,,Cheng Zhou 2018
+1023,Zn(50)–Al(50),Metal / alloy,Pure / literature,,,Zn(50)–Al(50),352.0,,91.0,,,,,,,,,Cheng Zhou 2018
+1024,NaCl–LiCl–KCl,Molten / inorganic salt,Pure / literature,,,NaCl(34.81)–LiCl(32.9)–KCl(32.29),352.89,,138.0,,,,,,,,,Cheng Zhou 2018
+1025,PlusICE H355,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,353.0,,230.0,,1.52,,2060.0,,0.56,,1300.0,Manufacturer datasheet
+1026,KCl(55.3)–LiCl(44.7),Molten / inorganic salt,Pure / literature,,,KCl(55.3)–LiCl(44.7),354.5,,218.32,,,,,,,,,Cheng Zhou 2018
+1027,Na2O2,Molten / inorganic salt,Pure / literature,,,,360.0,,314.0,,,,,,,,,Nicholas 2014
+1028,Zn(60)–Al(40),Metal / alloy,Pure / literature,,,Zn(60)–Al(40),362.0,,97.0,,,,,,,,,Cheng Zhou 2018
+1029,Mg 2.7% Zn 97.3%,Metal / alloy,Pure / literature,,,,367.0,,119.0,,0.45,0.53,6509.0,5998.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1030,KCl(50)–LiCl(39.9)–NaCl(8.3)–LiF(1.8),Molten / inorganic salt,Pure / literature,,,KCl(50)–LiCl(39.9)–NaCl(8.3)–LiF(1.8),368.0,,523.0,,,,,,,,,Cheng Zhou 2018
+1031,NaOH(71.9)–NaCl(28.1),Molten / inorganic salt,Pure / literature,,,NaOH(71.9)–NaCl(28.1),370.0,,370.0,,,,,,,,,Cheng Zhou 2018
+1032,NaOH(80)–NaCl(20),Molten / inorganic salt,Pure / literature,,,NaOH(80)–NaCl(20),370.0,,370.0,,,,,,,,,Cheng Zhou 2018
+1033,Zn(70)–Al(30),Metal / alloy,Pure / literature,,,Zn(70)–Al(30),371.0,,102.0,,,,,,,,,Cheng Zhou 2018
+1034,Zn(80)–Al(20),Metal / alloy,Pure / literature,,,Zn(80)–Al(20),377.0,,106.0,,,,,,,,,Cheng Zhou 2018
+1035,KOH,Molten / inorganic salt,Pure / literature,,,,380.0,,149.7,,,,2044.0,,0.5,,,Zalba 2003
+1036,Potassium hydroxide,Molten / inorganic salt,Pure / literature,,KOH,,380.0,,149.0,,,,,,,,,Literature compilation; Fernández et al. (metal alloy PCM review)
+1037,Potassium nitrate,Molten / inorganic salt,Pure / literature,,KNO3,,380.0,,266.0,,,1.22,2110,1865,0.45,0.42,,"Literature compilation; Fernández et al. (metal alloy PCM review); Kenisarin 2010, Renew. Sustain. Energy Rev. 14:955"
+1038,Zn(85)–Al(15),Metal / alloy,Pure / literature,,,Zn(85)–Al(15),380.0,,108.0,,,,,,,,,Cheng Zhou 2018
+1039,Al 5.2% Zn 94.8%,Metal / alloy,Pure / literature,,,,381.0,,121.0,,0.55,0.5,6327.0,5989.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1040,Al 5.3% Cu 2.3% Zn 92.5%,Metal / alloy,Pure / literature,,,,381.0,,113.0,,0.6,0.51,6341.0,6007.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1041,PlusICE H380,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,382.0,,225.0,,1.53,,2050.0,,0.56,,1300.0,Manufacturer datasheet
+1042,Zn(90)–Al(10),Metal / alloy,Pure / literature,,,Zn(90)–Al(10),382.0,,110.0,,,,,,,,,Cheng Zhou 2018
+1043,Zn–3.9Al eutectic,Metal / alloy,Pure / literature,,Zn-3.9 wt% Al,,382,,118,,,,6630,,,,,"Kenisarin 2010, Renew. Sustain. Energy Rev. 14:955"
+1044,NaCl–KCl–MgCl2–NaNO3,Molten / inorganic salt,Pure / literature,,12 + 24 + 64,,384.0,,,,,,,,,,,Nicholas 2014
+1045,MgCl2 + KCl + NaCl,Molten / inorganic salt,Pure / literature,,32 + 48 + 20,,385.0,,435.0,,,,,,,,,Nicholas 2014
+1046,MgCl2 + NaCl + KCl,Molten / inorganic salt,Pure / literature,,32% + 20% + 48%,,385.0,,435.0,,,,,,,,,Nicholas 2014
+1047,MgCl2(55)–NaCl(24.5)–KCl(20.5),Molten / inorganic salt,Pure / literature,,,MgCl2(55)–NaCl(24.5)–KCl(20.5),385.0,,234.0,,,,,,,,,Cheng Zhou 2018
+1048,MgCl2(63)–NaCl(23)–KCl(14),Molten / inorganic salt,Pure / literature,,,MgCl2(63)–NaCl(23)–KCl(14),385.0,,461.0,,,,,,,,,Cheng Zhou 2018
+1049,MgCl2(60)–KCl(20.4)–NaCl(19.6),Molten / inorganic salt,Pure / literature,,,MgCl2(60)–KCl(20.4)–NaCl(19.6),387.6,,199.0,,,,,,,,,Cheng Zhou 2018
+1050,MgCl2(57.0–53.0)–NaCl(22.5–26.5)–KCl(18.5–22.5),Molten / inorganic salt,Pure / literature,,,MgCl2(57.0–53.0)–NaCl(22.5–26.5)–KCl(18.5–22.5),389.0,385–393,407.5,405–410,,,,,,,,Cheng Zhou 2018
+1051,MgCl2(70.4)–NaCl(18.4)–KCl(11.3),Molten / inorganic salt,Pure / literature,,,MgCl2(70.4)–NaCl(18.4)–KCl(11.3),389.0,385–393,410.0,,,,,,,,,Cheng Zhou 2018
+1052,CaCl2 + NaCl + MgCl2,Molten / inorganic salt,Pure / literature,,40 + 40 + 20,,390.0,,420.0,,,,,,,,,Nicholas 2014
+1053,MnCl2(48.8)–KCl(38.1)–NaCl(13.1),Molten / inorganic salt,Pure / literature,,,MnCl2(48.8)–KCl(38.1)–NaCl(13.1),390.0,,230.0,,,,,,,,,Cheng Zhou 2018
+1054,PlusICE H395,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,395.0,,215.0,,1.53,,2330.0,,0.56,,800.0,Manufacturer datasheet
+1055,MnCl2(66)–NaCl(18.4)–KCl(15.6),Molten / inorganic salt,Pure / literature,,,MnCl2(66)–NaCl(18.4)–KCl(15.6),396.0,,291.0,,,,,,,,,Cheng Zhou 2018
+1056,MnCl2(66.6)–KCl(17)–NaCl(16.4),Molten / inorganic salt,Pure / literature,,,MnCl2(66.6)–KCl(17)–NaCl(16.4),396.0,,290.0,,,,,,,,,Cheng Zhou 2018
+1057,MnCl2(52.4)–KCl(31.3)–NaCl(16.3),Molten / inorganic salt,Pure / literature,,,MnCl2(52.4)–KCl(31.3)–NaCl(16.3),400.0,,235.0,,,,,,,,,Cheng Zhou 2018
+1058,Mn 0.8% Zn 99.2%,Metal / alloy,Pure / literature,,,,414.0,,115.0,,0.43,0.48,6901.0,6497.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1059,Al 27.6% Mg 60.8% Sn 11.6%,Metal / alloy,Pure / literature,,,,419.0,,264.0,,1.14,1.08,2160.0,1948.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1060,Zinc,Molten / inorganic salt,Pure / literature,,Zn,LiCl(29)–Li2SO4(26)–LiF(24)–Li2CO3(21),419.0,,387.0,,0.39,0.48,7140,6570,116,50,,Cheng Zhou 2018; CRC Handbook of Chemistry and Physics
+1061,Zn,Metal / alloy,Pure / literature,,,,420.0,,112.0,,0.43,0.48,6870.0,6493.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1062,Zn(100),Metal / alloy,Pure / literature,,,Zn(100),420.0,,112.0,,,,,,,,,Cheng Zhou 2018
+1063,PlusICE H425,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,425.0,,220.0,,1.54,,2100.0,,0.57,,1400.0,Manufacturer datasheet
+1064,LiOH(80)–LiF(20),Molten / inorganic salt,Pure / literature,,,LiOH(80)–LiF(20),426.0,,869.0,,,,,,,,,Cheng Zhou 2018
+1065,LiF(50)–LiOH(50),Molten / inorganic salt,Pure / literature,,,LiF(50)–LiOH(50),427.0,,512.0,,,,,,,,,Cheng Zhou 2018
+1066,LiOH(78.7)–LiF(21.3),Molten / inorganic salt,Pure / literature,,,LiOH(78.7)–LiF(21.3),427.0,,1163.0,,,,,,,,,Cheng Zhou 2018
+1067,LiF(81.2)–LiOH(18.8),Molten / inorganic salt,Pure / literature,,,LiF(81.2)–LiOH(18.8),430.0,,528.0,,,,,,,,,Cheng Zhou 2018
+1068,MgCl2(56.1)–NaCl(43.9),Molten / inorganic salt,Pure / literature,,,MgCl2(56.1)–NaCl(43.9),430.0,,320.0,,,,,,,,,Cheng Zhou 2018
+1069,PlusICE H430,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,430.0,,125.0,,1.54,,2160.0,,0.57,,1400.0,Manufacturer datasheet
+1070,Al 49.1% Mg 38.5% Sn 12.4%,Metal / alloy,Pure / literature,,,,432.0,,294.0,,1.02,1.05,2964.0,2157.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1071,KCl(54)–ZnCl2(46),Molten / inorganic salt,Pure / literature,,,KCl(54)–ZnCl2(46),432.0,,218.0,,,,,,,,,Cheng Zhou 2018
+1072,Al 54.5% Mg 32.7% Sn 12.8%,Metal / alloy,Pure / literature,,,,433.0,,305.0,,0.99,1.04,3462.0,2222.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1073,2KCl·MgCl2,Molten / inorganic salt,Pure / literature,,,,435.0,,184.0,,,,,,,,,Cheng Zhou 2018
+1074,KCl–MgCl2,Molten / inorganic salt,Pure / literature,,,KCl(61)–MgCl2(39),435.0,,351.0,,,,,,,,,Cheng Zhou 2018
+1075,NaCl–MgCl2,Molten / inorganic salt,Pure / literature,,,NaCl(61.5)–MgCl2(38.5),435.0,,328.0,,,,,,,,,Cheng Zhou 2018
+1076,Al 33.3% Mg 66.7%,Metal / alloy,Pure / literature,,,,436.0,,260.0,,1.26,1.18,1955.0,1793.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1077,KF–LiF–NaF–BaF2,Molten / inorganic salt,Pure / literature,,,KF(54.8)–LiF(27.1)–NaF(10.9)–BaF2(7.2),438.0,,332.0,,,,,,,,,Cheng Zhou 2018
+1078,MgCl2(55.9)–NaCl(44.1),Molten / inorganic salt,Pure / literature,,,MgCl2(55.9)–NaCl(44.1),442.0,,325.0,,,,,,,,,Cheng Zhou 2018
+1079,KF–LiF–NaF–KCl,Molten / inorganic salt,Pure / literature,,,KF(57–57.5)–LiF(26.6–26.9)–NaF(10.8–11.0)–KCl(5–5.1),444.0,440–448,687.0,682–692,,,,,,,,Cheng Zhou 2018
+1080,Al 56.2% Mg 29.1% Zn 14.7%,Metal / alloy,Pure / literature,,,,446.0,,307.0,,1.08,1.07,3096.0,2282.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1081,MnCl2(75)–KCl(25),Molten / inorganic salt,Pure / literature,,,MnCl2(75)–KCl(25),448.0,,236.0,,,,,,,,,Cheng Zhou 2018
+1082,KF–LiF–NaF–MgF2,Molten / inorganic salt,Pure / literature,,,KF(55.1)–LiF(27.1)–NaF(11.9)–MgF2(5.9),449.0,,699.0,,,,,,,,,Cheng Zhou 2018
+1083,Al 47.3% Mg 37.6% Zn 15.1%,Metal / alloy,Pure / literature,,,,450.0,,299.0,,2.02,1.09,2812.0,2001.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1084,Al 60.1% Mg 39.9%,Metal / alloy,Pure / literature,,,,450.0,,290.0,,1.13,1.15,2598.0,2194.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1085,MgCl2(50)–NaCl(50),Molten / inorganic salt,Pure / literature,,,MgCl2(50)–NaCl(50),450.0,,429.0,,,,,,,,,Cheng Zhou 2018
+1086,MgCl2(52)–NaCl(48),Molten / inorganic salt,Pure / literature,,,MgCl2(52)–NaCl(48),450.0,,293.0,,,,,,,,,Cheng Zhou 2018
+1087,MgCl2(52.1)–NaCl(47.9),Molten / inorganic salt,Pure / literature,,,MgCl2(52.1)–NaCl(47.9),450.0,,328.0,,,,,,,,,Cheng Zhou 2018
+1088,MnCl2(75.8)–KCl(24.2),Molten / inorganic salt,Pure / literature,,,MnCl2(75.8)–KCl(24.2),450.0,,237.0,,,,,,,,,Cheng Zhou 2018
+1089,Al 65.9% Mg 34.1%,Metal / alloy,Pure / literature,,,,451.0,,313.0,,1.1,1.14,3283.0,2052.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1090,60Mg–25Cu–15Zn,Metal / alloy,Pure / literature,,,,452.0,,254.0,,,,,,,,,Nicholas 2014
+1091,KF(59)–LiF(29.2)–NaF(11.6),Eutectic,Pure / literature,,,KF(59)–LiF(29.2)–NaF(11.6),454.0,,325.0,,,,,,,,,Cheng Zhou 2018
+1092,KF(59.1)–LiF(29.2)–NaF(11.7),Eutectic,Pure / literature,,,KF(59.1)–LiF(29.2)–NaF(11.7),454.0,,414.0,,,,,,,,,Cheng Zhou 2018
+1093,CaCl2–NaCl–KCl–NaF,Molten / inorganic salt,Pure / literature,,,CaCl2(62.7)–NaCl(28.7)–KCl(7.2)–NaF(1.4),460.0,,231.0,,,,,,,,,Cheng Zhou 2018
+1094,CaCl2–NaCl–MgCl2–KCl,Molten / inorganic salt,Pure / literature,,,CaCl2(55)–NaCl(33)–MgCl2(10)–KCl(2),460.0,,245.0,,,,,,,,,Cheng Zhou 2018
+1095,LiOH,Molten / inorganic salt,Pure / literature,,,,462.0,,875.0,,,,,,,,,Nicholas 2014
+1096,LiOH(100),Molten / inorganic salt,Pure / literature,,,LiOH(100),462.0,,875.0,,,,,,,,,Cheng Zhou 2018
+1097,KF(59)–LiF(29)–NaF(12),Eutectic,Pure / literature,,,KF(59)–LiF(29)–NaF(12),463.0,,442.0,,,,,,,,,Cheng Zhou 2018
+1098,CaCl2(64.6)–NaCl(29.1)–KCl(6.3),Molten / inorganic salt,Pure / literature,,,CaCl2(64.6)–NaCl(29.1)–KCl(6.3),465.0,,245.0,,,,,,,,,Cheng Zhou 2018
+1099,Mg 56.0% Mn 14.7% Ni 29.3%,Metal / alloy,Pure / literature,,,,465.0,,240.0,,0.96,0.94,2623.0,2442.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1100,MgCl2(63.8)–KCl(36.2),Molten / inorganic salt,Pure / literature,,,MgCl2(63.8)–KCl(36.2),470.0,,392.0,,,,,,,,,Cheng Zhou 2018
+1101,MgCl2(64)–KCl(36),Molten / inorganic salt,Pure / literature,,,MgCl2(64)–KCl(36),470.0,,388.0,,,,,,,,,Cheng Zhou 2018
+1102,KCl–BaCl2–MgCl2–NaCl,Molten / inorganic salt,Pure / literature,,,KCl(45.1)–BaCl2(20.9)–MgCl2(20)–NaCl(14),475.0,,248.0,,,,,,,,,Cheng Zhou 2018
+1103,KCl(37.3)–BaCl2(28.8)–CaCl2(19.8)–NaCl(14.1),Molten / inorganic salt,Pure / literature,,,KCl(37.3)–BaCl2(28.8)–CaCl2(19.8)–NaCl(14.1),478.0,,208.0,,,,,,,,,Cheng Zhou 2018
+1104,KCl(35)–BaCl2(21.3)–CaCl2(27.1)–NaCl(16.6),Molten / inorganic salt,Pure / literature,,,KCl(35)–BaCl2(21.3)–CaCl2(27.1)–NaCl(16.6),479.0,,217.0,,,,,,,,,Cheng Zhou 2018
+1105,PlusICE H485,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,483.0,,200.0,,1.55,,2220.0,,0.57,,800.0,Manufacturer datasheet
+1106,LiCl–LiF–MgF2,Molten / inorganic salt,Pure / literature,,,LiCl(75.9)–LiF(17.7)–MgF2(6.4),484.0,,157.0,,,,,,,,,Cheng Zhou 2018
+1107,LiF–LiCl,Molten / inorganic salt,Pure / literature,,,LiF(63)–LiCl(37),485.0,,403.0,,,,,,,,,Cheng Zhou 2018
+1108,Mg 67.2% Ni 17.4% Sn 15.4%,Metal / alloy,Pure / literature,,,,486.0,,260.0,,0.94,1.0,2369.0,2143.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1109,Cu 33.5% Mg 66.5%,Metal / alloy,Pure / literature,,,,487.0,,306.0,,0.91,0.99,2349.0,2174.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1110,KF–LiCl,Molten / inorganic salt,Pure / literature,,,KF(57.8)–LiCl(42.2),487.0,,344.0,,,,,,,,,Cheng Zhou 2018
+1111,MgCl2–CaCl2–KCl,Molten / inorganic salt,Pure / literature,,,MgCl2(48)–CaCl2(27)–KCl(25),487.0,,342.0,,,,,,,,,Cheng Zhou 2018
+1112,CaCl2–NaF–CaF2,Molten / inorganic salt,Pure / literature,,,CaCl2(72)–NaF(26.4)–CaF2(1.5),490.0,,264.0,,,,,,,,,Cheng Zhou 2018
+1113,KF–LiF,Molten / inorganic salt,Pure / literature,,,KF(67)–LiF(33),493.0,,458.0,,,,,,,,,Cheng Zhou 2018
+1114,CaCl2(68.8–68.9)–NaCl(31.1–31.2),Molten / inorganic salt,Pure / literature,,,CaCl2(68.8–68.9)–NaCl(31.1–31.2),495.0,490–500,236.0,233–239,,,,,,,,Cheng Zhou 2018
+1115,CaCl2(67)–NaCl(33),Molten / inorganic salt,Pure / literature,,,CaCl2(67)–NaCl(33),500.0,,281.0,,,,,,,,,Cheng Zhou 2018
+1116,CaCl2(68)–NaCl(32),Molten / inorganic salt,Pure / literature,,,CaCl2(68)–NaCl(32),500.0,,239.0,,,,,,,,,Cheng Zhou 2018
+1117,H500A,Organic (other),Pure / literature,,,,500.0,,140.0,,1.56,,2140.0,,,,,Literature compilation
+1118,PlusICE H500,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,500.0,,300.0,,1.55,,2220.0,,0.57,,800.0,Manufacturer datasheet
+1119,PlusICE H500A,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,500.0,,140.0,,1.56,,2140.0,,0.57,,1400.0,Manufacturer datasheet
+1120,CaCl2(66)–NaCl(29)–KCl(5),Molten / inorganic salt,Pure / literature,,,CaCl2(66)–NaCl(29)–KCl(5),504.0,,279.0,,,,,,,,,Cheng Zhou 2018
+1121,SrCl2–NaCl–KCl,Molten / inorganic salt,Pure / literature,,,SrCl2(68)–NaCl(19)–KCl(13),504.0,,223.0,,,,,,,,,Cheng Zhou 2018
+1122,64.6Al–5.2Si–28Cu–2.2Mg,Metal / alloy,Pure / literature,,,,507.0,,374.0,,,,,,,,,Nicholas 2014
+1123,Al 62.4% Cu 30.8% Mg 6.9%,Metal / alloy,Pure / literature,,,,508.0,,407.0,,0.91,0.89,3239.0,2949.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1124,Mg 76.9% Ni 23.1%,Metal / alloy,Pure / literature,,,,508.0,,267.0,,0.98,1.11,2117.0,1952.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1125,LiCl–Li2CO3,Molten / inorganic salt,Pure / literature,,,LiCl(64.25)–Li2CO3(35.75),510.0,,339.7,,,,,,,,,Cheng Zhou 2018
+1126,ZrF4–NaF,Molten / inorganic salt,Pure / literature,,,ZrF4(79.9)–NaF(20.1),510.0,,255.0,,,,,,,,,Cheng Zhou 2018
+1127,Al 68.5% Cu 25.4% Si 6.1%,Metal / alloy,Pure / literature,,,,522.0,,460.0,,0.95,0.91,3169.0,2970.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1128,PlusICE H525,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,525.0,,155.0,,1.56,,2350.0,,0.57,,1000.0,Manufacturer datasheet
+1129,KClO4,Molten / inorganic salt,Pure / literature,,,,527.0,,1253.0,,,,,,,,,Nicholas 2014
+1130,KCl–K2CO3–KF,Molten / inorganic salt,Pure / literature,,,KCl(40)–K2CO3(37)–KF(23),528.0,,283.0,,,,,,,,,Cheng Zhou 2018
+1131,PlusICE H535,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,535.0,,130.0,,1.57,,2320.0,,0.56,,1000.0,Manufacturer datasheet
+1132,SrCl2–MgCl2,Molten / inorganic salt,Pure / literature,,,SrCl2(63)–MgCl2(37),535.0,,239.0,,,,,,,,,Cheng Zhou 2018
+1133,LiF + NaF,Eutectic,Pure / literature,,36.1 + 34,,536.0,,653.0,,,,,,,,,Nicholas 2014
+1134,BaCl2–KCl–NaCl,Molten / inorganic salt,Pure / literature,,,BaCl2(53)–KCl(28)–NaCl(19),542.0,,221.0,,,,,,,,,Cheng Zhou 2018
+1135,Al 66.4% Cu 32.3% Mn 1.3%,Metal / alloy,Pure / literature,,,,544.0,,373.0,,0.91,0.87,3439.0,3154.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1136,66.92Al–33.08Cu,Metal / alloy,Pure / literature,,,,548.0,,372.0,,,,,,,,,Nicholas 2014
+1137,Al 66.7% Cu 33.3%,Metal / alloy,Pure / literature,,,,548.0,,381.0,,0.89,0.87,3430.0,3149.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1138,K2CO3 + Li2CO3 + Na2CO3,Molten / inorganic salt,Pure / literature,,20% + 20% + 60%,,550.0,,283.0,,1.59,,2380.0,,,1.83,,Nicholas 2014
+1139,BaCl2–CaCl2–KCl,Molten / inorganic salt,Pure / literature,,,BaCl2(47)–CaCl2(29)–KCl(24),551.0,,219.0,,,,,,,,,Cheng Zhou 2018
+1140,Cu 64.0% Mg 36.0%,Metal / alloy,Pure / literature,,,,552.0,,283.0,,0.7,0.76,3721.0,3272.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1141,LiCl–NaCl,Molten / inorganic salt,Pure / literature,,,LiCl(64.5)–NaCl(35.5),556.0,,414.5,,,,,,,,,Cheng Zhou 2018
+1142,87.76Al–12.24Si,Metal / alloy,Pure / literature,,,,557.0,,498.0,,,,,,,,,Nicholas 2014
+1143,Mg 61.1% Mn 1.0% Sn 37.8%,Metal / alloy,Pure / literature,,,,561.0,,267.0,,0.94,0.96,2512.0,2258.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1144,Mg 62.2% Sn 37.8%,Metal / alloy,Pure / literature,,,,563.0,,267.0,,0.94,0.97,2479.0,2234.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1145,46.3Al–4.6Si–49.1Cu,Metal / alloy,Pure / literature,,,,571.0,,406.0,,,,,,,,,Nicholas 2014
+1146,LiCl–MgF2,Molten / inorganic salt,Pure / literature,,,LiCl(92.1)–MgF2(7.9),573.0,,131.0,,,,,,,,,Cheng Zhou 2018
+1147,NaCl + NiCl2,Molten / inorganic salt,Pure / literature,,95.2 + 4.8,NaCl(89.9)–NiCl2(10.1),573.0,,558.0,,,,,,,,,Nicholas 2014; Cheng Zhou 2018
+1148,Al 86.2% Ni 1.9% Si 11.9%,Metal / alloy,Pure / literature,,,,574.0,,509.0,,1.09,1.1,2590.0,2486.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1149,88%Al–12%Si,Metal / alloy,Pure / literature,,,,576.0,,560.0,,,,,,,,,Nicholas 2014
+1150,Al 87.5% Si 12.5%,Metal / alloy,Pure / literature,,,,577.0,,504.0,,1.1,1.11,2550.0,2437.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1151,Al–12.6Si eutectic (AlSi12),Metal / alloy,Pure / literature,,Al-12.6 wt% Si,,577,,560,,,,2700,,160,,,"Kenisarin 2010, Renew. Sustain. Energy Rev. 14:955"
+1152,NaF(36.5)–CaF2(27.2)–LiF(25.7)–MgF2(10.6),Eutectic,Pure / literature,,,NaF(36.5)–CaF2(27.2)–LiF(25.7)–MgF2(10.6),593.0,,510.0,,,,,,,,,Cheng Zhou 2018
+1153,CaF2 + LiF + MgF2 + NaF,Eutectic,Pure / literature,,~27 + ~26 + ~11 + ~36,,594.0,593–595,512.5,510–515,,,,,,,,Nicholas 2014
+1154,NaF(36.45–36.57)–CaF2(27.0–27.25)–LiF(25.67–25.76)–MgF2(10.63–10.67),Molten / inorganic salt,Pure / literature,,,NaF(36.45–36.57)–CaF2(27.0–27.25)–LiF(25.67–25.76)–MgF2(10.63–10.67),594.0,593–595,512.5,510–515,,,,,,,,Cheng Zhou 2018
+1155,KCl–NaCl–NaF,Molten / inorganic salt,Pure / literature,,,KCl(50.2)–NaCl(39.4)–NaF(10.4),602.0,,370.3,,,,,,,,,Cheng Zhou 2018
+1156,KCl–KF,Molten / inorganic salt,Pure / literature,,,KCl(51.2)–KF(48.8),605.0,,407.0,,,,,,,,,Cheng Zhou 2018
+1157,LiCl,Molten / inorganic salt,Pure / literature,,,LiCl(100),610.0,,416.0,,,,,,,,,Cheng Zhou 2018
+1158,Lithium chloride,Molten / inorganic salt,Pure / literature,,LiCl,,610,,470,,,,2068,1502,,,,CRC Handbook of Chemistry and Physics
+1159,PlusICE H610,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,610.0,,410.0,,1.57,,2070.0,,0.56,,1300.0,Manufacturer datasheet
+1160,35.1% LiF + 38.4% NaF + 26.5% CaF2,Eutectic,Pure / literature,,,,615.0,,,,,,2820.0,,,,,Zalba 2003
+1161,CaF2–NaF–LiF,Molten / inorganic salt,Pure / literature,,,CaF2(45.1)–NaF(35)–LiF(19.9),615.0,,636.0,,,,,,,,,Cheng Zhou 2018
+1162,NaF(38.3)–LiF(35.2)–CaF2(26.5),Eutectic,Pure / literature,,,NaF(38.3)–LiF(35.2)–CaF2(26.5),615.0,,640.0,,,,,,,,,Cheng Zhou 2018
+1163,NaF(50.4)–LiF(32.6)–MgF2(17),Eutectic,Pure / literature,,,NaF(50.4)–LiF(32.6)–MgF2(17),622.0,,625.0,,,,,,,,,Cheng Zhou 2018
+1164,Mg 34.3% Ni 28.1% Sn 37.6%,Metal / alloy,Pure / literature,,,,624.0,,344.0,,0.59,0.75,4136.0,3251.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1165,Sb,Metal / alloy,Pure / literature,,,Sb(100),631.0,,165.0,,,,,,,,,Cheng Zhou 2018
+1166,32.5% LiF + 50.5% NaF + 17.0% MgF2,Eutectic,Pure / literature,,,,632.0,,,,,,2457.5,,,,,Zalba 2003
+1167,LiF–NaF–MgF2,Molten / inorganic salt,Pure / literature,,,LiF(46)–NaF(44)–MgF2(10),632.0,,858.0,,,,,,,,,Cheng Zhou 2018
+1168,Mg 98.5% Si 1.5%,Metal / alloy,Pure / literature,,,,639.0,,372.0,,1.19,1.4,1650.0,1590.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1169,PlusICE H640,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,640.0,,338.0,,1.58,,2380.0,,0.56,,800.0,Manufacturer datasheet
+1170,Al 93.8% Mn 1.8% Ni 4.4%,Metal / alloy,Pure / literature,,,,644.0,,404.0,,1.09,1.14,2650.0,2480.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1171,51.8% NaF + 34% CaF2 + 14.2% MgF2,Eutectic,Pure / literature,,,,645.0,,,,,,2670.0,,,,,Zalba 2003
+1172,CsCl,Molten / inorganic salt,Pure / literature,,,CsCl(100),645.0,,121.0,,,,,,,,,Cheng Zhou 2018
+1173,Al 95.1% Ni 4.9%,Metal / alloy,Pure / literature,,,,646.0,,416.0,,1.07,1.14,2677.0,2527.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1174,Al 95.7% Fe 1.3% Ni 2.9%,Metal / alloy,Pure / literature,,,,647.0,,420.0,,1.77,1.15,2659.0,2510.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1175,Mg 23.4% Ni 29.2% Sn 47.4%,Metal / alloy,Pure / literature,,,,648.0,,321.0,,1.15,0.52,2510.0,5135.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1176,Mg,Metal / alloy,Pure / literature,,,Mg(100),650.0,,370.0,,1.2,1.41,1637.0,1580.0,,,,Cheng Zhou 2018; Fernández et al. (metal alloy PCM review); Literature compilation
+1177,NaF(49.9)–LiF(33.4)–MgF2(17.1),Eutectic,Pure / literature,,,NaF(49.9)–LiF(33.4)–MgF2(17.1),650.0,,860.0,,,,,,,,,Cheng Zhou 2018
+1178,NaF–NaCl–KCl–Na2CO3,Molten / inorganic salt,Pure / literature,,10 + 30 + 30 + 30,,650.0,,,,,,,,,,,Nicholas 2014
+1179,MgF2–LiF–CaF2–NaF,Molten / inorganic salt,Pure / literature,,,MgF2(37.5)–LiF(34.7)–CaF2(24.5)–NaF(3.3),651.0,,470.0,,,,,,,,,Cheng Zhou 2018
+1180,48.1% LiF + 51.9% NaF,Eutectic,Pure / literature,,,,652.0,,,,,,2325.0,,,,,Zalba 2003
+1181,Magnesium,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),Mg,,652.0,,300.0,,1.58,1.36,2450.0,1584,0.56,79,800.0,Manufacturer datasheet; CRC Handbook of Chemistry and Physics
+1182,NaF(51.9)–LiF(48.1),Eutectic,Pure / literature,,,NaF(51.9)–LiF(48.1),652.0,,816.0,,,,,,,,,Cheng Zhou 2018
+1183,NaF(52)–LiF(48),Eutectic,Pure / literature,,,NaF(52)–LiF(48),652.0,,711.0,,,,,,,,,Cheng Zhou 2018
+1184,Al 98.3% Fe 1.7%,Metal / alloy,Pure / literature,,,,654.0,,404.0,,1.08,1.17,2593.0,2406.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1185,MgF2–CaF2–LiF–NaF,Molten / inorganic salt,Pure / literature,,,MgF2(43.9–44.1)–CaF2(36.3–36.6)–LiF(16.9–17)–NaF(2.6–2.7),654.0,651–657,465.0,460–470,,,,,,,,Cheng Zhou 2018
+1186,Aluminium,Metal / alloy,Pure / literature,,Al,,657.0,,393.0,,1.11,1.17,2589.0,2410.0,237,91,,Fernández et al. (metal alloy PCM review); Literature compilation; CRC Handbook of Chemistry and Physics
+1187,Al,Metal / alloy,Pure / literature,,,,660.0,,397.0,,1.09,1.18,2553.0,2376.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1188,CaCl2–CaSO4–CaMoO4,Molten / inorganic salt,Pure / literature,,,CaCl2(65)–CaSO4(22.8)–CaMoO4(12.2),673.0,,224.0,,,,,,,,,Cheng Zhou 2018
+1189,NaCl–NaF,Molten / inorganic salt,Pure / literature,,,NaCl(73.4)–NaF(26.6),675.0,,572.0,,,,,,,,,Cheng Zhou 2018
+1190,Na2CO3–Li2CO3,Molten / inorganic salt,Pure / literature,,,Na2CO3(50)–Li2CO3(50),680.0,,250.0,,,,,,,,,Cheng Zhou 2018
+1191,NaCl–LiF,Molten / inorganic salt,Pure / literature,,,NaCl(76)–LiF(24),680.0,,476.9,,,,,,,,,Cheng Zhou 2018
+1192,63.8% KF + 27.9% NaF + 8.3% MgF2,Eutectic,Pure / literature,,,,685.0,,,,,,2090.0,,,,,Zalba 2003
+1193,PlusICE H690,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,687.0,,250.0,,1.59,,2400.0,,0.56,,800.0,Manufacturer datasheet
+1194,LiF–MgF2–NaF,Molten / inorganic salt,Pure / literature,,,LiF(44.8)–MgF2(33)–NaF(22.2),693.0,,690.0,,,,,,,,,Cheng Zhou 2018
+1195,PlusICE H695,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,695.0,,280.0,,1.59,,2460.0,,0.56,,800.0,Manufacturer datasheet
+1196,PlusICE H700,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,699.0,,250.0,,1.6,,2410.0,,0.57,,800.0,Manufacturer datasheet
+1197,Cu 57.2% Mg 5.5% Zn 37.3%,Metal / alloy,Pure / literature,,,,700.0,,151.0,,0.54,0.66,6889.0,6119.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1198,CsF,Molten / inorganic salt,Pure / literature,,,CsF(100),703.0,,143.0,,,,,,,,,Cheng Zhou 2018
+1199,H705A,Organic (other),Pure / literature,,,,705.0,,452.0,,1.6,,2040.0,,,,,Literature compilation
+1200,PlusICE H705A,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,705.0,,452.0,,1.6,,2040.0,,0.57,,1400.0,Manufacturer datasheet
+1201,PlusICE H705,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,706.0,,250.0,,1.6,,2430.0,,0.57,,800.0,Manufacturer datasheet
+1202,Cu 72.5% Mg 11.4% Mn 16.1%,Metal / alloy,Pure / literature,,,,709.0,,246.0,,0.64,,6165.0,,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1203,MgF2–LiF–KF,Molten / inorganic salt,Pure / literature,,,MgF2(48.2)–LiF(42.8)–KF(9),710.0,,782.0,,,,,,,,,Cheng Zhou 2018
+1204,Na2CO3–K2CO3,Molten / inorganic salt,Pure / literature,,,Na2CO3(60)–K2CO3(40),710.0,,270.0,,,,,,,,,Cheng Zhou 2018
+1205,Magnesium chloride,Molten / inorganic salt,Pure / literature,,MgCl2,,714,,452,,,,2320,1680,,,,"Kenisarin 2010, Renew. Sustain. Energy Rev. 14:955"
+1206,MgCl2,Molten / inorganic salt,Pure / literature,,,MgCl2(100),714.0,,452.0,,,,,,,,,Cheng Zhou 2018
+1207,Li2CO3,Molten / inorganic salt,Pure / literature,,,Li2CO3(100),723.0,,200.0,,,,,,,,,Cheng Zhou 2018
+1208,Lithium carbonate,Molten / inorganic salt,Pure / literature,,Li2CO3,,723,,509,,,,2110,1830,,,,"Kenisarin 2010, Renew. Sustain. Energy Rev. 14:955"
+1209,RbCl,Molten / inorganic salt,Pure / literature,,,RbCl(100),723.0,,197.0,,,,,,,,,Cheng Zhou 2018
+1210,PlusICE H725,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,725.0,,602.0,,1.59,,2210.0,,0.58,,1300.0,Manufacturer datasheet
+1211,Cu 90.8% Mg 9.2%,Metal / alloy,Pure / literature,,,,726.0,,200.0,,0.6,0.53,5353.0,6484.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1212,MgF2(50.7)–LiF(49.3),Eutectic,Pure / literature,,,MgF2(50.7)–LiF(49.3),728.0,,520.0,,,,,,,,,Cheng Zhou 2018
+1213,NaF–CaF2–MgF2,Molten / inorganic salt,Pure / literature,,,NaF(51.8)–CaF2(34.1)–MgF2(14.2),743.0,,568.0,,,,,,,,,Cheng Zhou 2018
+1214,Cu 65.5% Ni 1.0% Sn 33.5%,Metal / alloy,Pure / literature,,,,744.0,,146.0,,0.54,0.66,5863.0,8056.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1215,NaF–CaF2–MgF3,Molten / inorganic salt,Pure / literature,,,NaF(51.8)–CaF2(34.1)–MgF3(14.2),745.0,,574.0,,,,,,,,,Cheng Zhou 2018
+1216,45.8% LiF + 54.2% MgF2,Eutectic,Pure / literature,,,,746.0,,,,,,2592.5,,,,,Zalba 2003
+1217,LiF–MgF2,Molten / inorganic salt,Pure / literature,,,LiF(67)–MgF2(33),746.0,,708.0,,,,,,,,,Cheng Zhou 2018
+1218,MgF2(54.2)–LiF(45.8),Eutectic,Pure / literature,,,MgF2(54.2)–LiF(45.8),746.0,,947.0,,,,,,,,,Cheng Zhou 2018
+1219,LiF–MgF2–KF,Molten / inorganic salt,Pure / literature,,,LiF(55.1)–MgF2(23.2)–KF(21.7),749.0,,860.0,,,,,,,,,Cheng Zhou 2018
+1220,MgF2(54)–LiF(46),Eutectic,Pure / literature,,,MgF2(54)–LiF(46),750.0,,847.0,,,,,,,,,Cheng Zhou 2018
+1221,PlusICE H755,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,755.0,,466.0,,1.59,,2160.0,,0.58,,800.0,Manufacturer datasheet
+1222,CeF3–LiF,Molten / inorganic salt,Pure / literature,,,CeF3(65.5)–LiF(34.5),756.0,,500.0,,,,,,,,,Cheng Zhou 2018
+1223,LiF(55.6)–CaF2(44.4),Eutectic,Pure / literature,,,LiF(55.6)–CaF2(44.4),765.0,,757.0,,,,,,,,,Cheng Zhou 2018
+1224,LiF(57.8)–CaF2(42.2),Eutectic,Pure / literature,,,LiF(57.8)–CaF2(42.2),767.0,,790.0,,,,,,,,,Cheng Zhou 2018
+1225,LiF(60.2)–CaF2(39.8),Eutectic,Pure / literature,,,LiF(60.2)–CaF2(39.8),767.0,,815.0,,,,,,,,,Cheng Zhou 2018
+1226,KF(86.1)–MgF2(13.9),Eutectic,Pure / literature,,,KF(86.1)–MgF2(13.9),770.0,,500.0,,,,,,,,,Cheng Zhou 2018
+1227,KCl,Molten / inorganic salt,Pure / literature,,,KCl(100),771.0,,353.0,,,,,,,,,Cheng Zhou 2018
+1228,CaCl2,Molten / inorganic salt,Pure / literature,,,CaCl2(100),772.0,,253.0,,,,,,,,,Cheng Zhou 2018
+1229,Calcium chloride,Molten / inorganic salt,Pure / literature,,CaCl2,,772,,253,,,,2150,,,,,"Kenisarin 2010, Renew. Sustain. Energy Rev. 14:955"
+1230,KF–CaF2,Molten / inorganic salt,Pure / literature,,,KF(80.8)–CaF2(19.2),780.0,,440.0,,,,,,,,,Cheng Zhou 2018
+1231,KF(84.1)–MgF2(15.9),Eutectic,Pure / literature,,,KF(84.1)–MgF2(15.9),790.0,,520.0,,,,,,,,,Cheng Zhou 2018
+1232,RbF,Molten / inorganic salt,Pure / literature,,,RbF(100),795.0,,248.0,,,,,,,,,Cheng Zhou 2018
+1233,NaCl,Molten / inorganic salt,Pure / literature,,,,801.0,800–802,479.35,466.7–492,,,2160.0,,5.0,,,Zalba 2003
+1234,Sodium chloride,Molten / inorganic salt,Pure / literature,,NaCl,,801,,482,,,1.15,2160,1556,5.0,0.5,,CRC Handbook of Chemistry and Physics
+1235,Cu 83.6% Si 16.4%,Metal / alloy,Pure / literature,,,,803.0,,231.0,,0.39,0.51,7607.0,5830.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1236,NaF(55.3)–MgF2(25.6)–KF(19.1),Eutectic,Pure / literature,,,NaF(55.3)–MgF2(25.6)–KF(19.1),804.0,,650.0,,,,,,,,,Cheng Zhou 2018
+1237,53.6% NaF + 28.6% MgF2 + 17.8% KF,Eutectic,Pure / literature,,,,809.0,,,,,,2480.0,,,,,Zalba 2003
+1238,NaF(55.3)–MgF2(28.6)–KF(17.8),Eutectic,Pure / literature,,,NaF(55.3)–MgF2(28.6)–KF(17.8),809.0,,543.0,,,,,,,,,Cheng Zhou 2018
+1239,NaF(53.3)–CaF2(46.7),Eutectic,Pure / literature,,,NaF(53.3)–CaF2(46.7),810.0,,600.0,,,,,,,,,Cheng Zhou 2018
+1240,NaF(62.7)–CaF2(37.3),Eutectic,Pure / literature,,,NaF(62.7)–CaF2(37.3),810.0,,590.0,,,,,,,,,Cheng Zhou 2018
+1241,Al 12.2% Cu 79.9% Mg 7.9%,Metal / alloy,Pure / literature,,,,812.0,,188.0,,0.54,1.03,4954.0,6107.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1242,Cu 90.5% Si 9.5%,Metal / alloy,Pure / literature,,,,820.0,,100.0,,0.64,0.49,6116.0,6196.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1243,NaF(74.6)–MgF2(25.4),Eutectic,Pure / literature,,,NaF(74.6)–MgF2(25.4),830.0,,620.0,,,,,,,,,Cheng Zhou 2018
+1244,66.9% NaF + 33.1% MgF2,Eutectic,Pure / literature,,,,832.0,,,,,,2565.0,,,,,Zalba 2003
+1245,NaF(66.9)–MgF2(33.1),Eutectic,Pure / literature,,,NaF(66.9)–MgF2(33.1),832.0,,627.0,,,,,,,,,Cheng Zhou 2018
+1246,NaF(67)–MgF2(33),Eutectic,Pure / literature,,,NaF(67)–MgF2(33),832.0,,616.0,,,,,,,,,Cheng Zhou 2018
+1247,NaF(75)–MgF2(25),Eutectic,Pure / literature,,,NaF(75)–MgF2(25),832.0,,649.0,,,,,,,,,Cheng Zhou 2018
+1248,Cu 40.3% Zn 59.7%,Metal / alloy,Pure / literature,,,,836.0,,170.0,,0.51,0.45,6810.0,7836.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1249,PlusICE H845,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,845.0,,276.0,,1.58,,2530.0,,0.59,,900.0,Manufacturer datasheet
+1250,LiF,Molten / inorganic salt,Pure / literature,,,LiF(100),848.0,,1037.0,,,,,,,,,Cheng Zhou 2018
+1251,Na2CO3,Molten / inorganic salt,Pure / literature,,,,854.0,,275.7,,,,2533.0,,2.0,,,Zalba 2003
+1252,Sodium carbonate,Molten / inorganic salt,Pure / literature,,Na2CO3,,854,,276,,,,2533,1972,2.0,,,"Kenisarin 2010, Renew. Sustain. Energy Rev. 14:955"
+1253,KF,Molten / inorganic salt,Pure / literature,,,KF(100),857.0,,452.0,,,,,,,,,Cheng Zhou 2018
+1254,Cr 1.1% Cu 63.9% Mn 35.0%,Metal / alloy,Pure / literature,,,,864.0,,150.0,,0.64,0.64,6971.0,7839.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1255,SrCl2,Molten / inorganic salt,Pure / literature,,,SrCl2(100),875.0,,103.0,,,,,,,,,Cheng Zhou 2018
+1256,Ni 27.8% Zn 72.2%,Metal / alloy,Pure / literature,,,,881.0,,271.0,,0.49,0.51,7506.0,6824.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1257,PlusICE H885,Molten / inorganic salt,Commercial,PCM Products Ltd / PlusICE (UK),,,885.0,,236.0,,1.58,,2290.0,,0.59,,900.0,Manufacturer datasheet
+1258,NaF–AlF3,Molten / inorganic salt,Pure / literature,,,NaF(68.8)–AlF3(31.2),888.0,,539.0,,,,,,,,,Cheng Zhou 2018
+1259,K2CO3,Molten / inorganic salt,Pure / literature,,,,897.0,,235.8,,,,2290.0,,2.0,,,Zalba 2003
+1260,Cu 58.6% Fe 1.2% Zn 40.1%,Metal / alloy,Pure / literature,,,,900.0,,154.0,,0.7,0.64,8252.0,7241.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1261,Cu 60.9% Zn 39.1%,Metal / alloy,Pure / literature,,,,903.0,,157.0,,0.66,0.64,8285.0,7276.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1262,NaF(49.1)–MgF2(26.2)–CaF2(24.7),Eutectic,Pure / literature,,,NaF(49.1)–MgF2(26.2)–CaF2(24.7),905.0,,520.0,,,,,,,,,Cheng Zhou 2018
+1263,Mg 42.4% Si 57.6%,Metal / alloy,Pure / literature,,,,945.0,,1132.0,,1.06,1.15,2044.0,2049.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1264,Ni 61.6% Si 38.4%,Metal / alloy,Pure / literature,,,,948.0,,595.0,,0.66,0.73,5321.0,5081.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1265,Mn 77.0% Si 6.9% Zn 16.2%,Metal / alloy,Pure / literature,,,,954.0,,274.0,,1.07,0.74,6667.0,5747.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1266,BaCl2,Molten / inorganic salt,Pure / literature,,,BaCl2(100),961.0,,76.0,,,,,,,,,Cheng Zhou 2018
+1267,Ni 71.1% Si 28.9%,Metal / alloy,Pure / literature,,,,966.0,,391.0,,0.68,0.7,6345.0,5800.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1268,CaF–MgF2,Molten / inorganic salt,Pure / literature,,,CaF(71.5)–MgF2(28.5),980.0,,610.0,,,,,,,,,Cheng Zhou 2018
+1269,Mn 59.5% Sn 40.5%,Metal / alloy,Pure / literature,,,,984.0,,250.0,,0.48,0.56,7566.0,6186.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1270,NaMgF3–KMgF3,Molten / inorganic salt,Pure / literature,,,NaMgF3(74.3)–KMgF3(25.7),986.0,,641.0,,,,,,,,,Cheng Zhou 2018
+1271,MgF2–NaF,Molten / inorganic salt,Pure / literature,,,MgF2(69)–NaF(31),996.0,,710.0,,,,,,,,,Cheng Zhou 2018
+1272,NaF,Molten / inorganic salt,Pure / literature,,,NaF(100),996.0,,796.0,,,,,,,,,Cheng Zhou 2018
+1273,KF(57.6)–MgF2(42.4),Eutectic,Pure / literature,,,KF(57.6)–MgF2(42.4),1000.0,,690.0,,,,,,,,,Cheng Zhou 2018
+1274,MgF2(70.5)–KF(29.5),Eutectic,Pure / literature,,,MgF2(70.5)–KF(29.5),1006.0,,770.0,,,,,,,,,Cheng Zhou 2018
+1275,NaF(52.9)–MgF2(47.1),Eutectic,Pure / literature,,,NaF(52.9)–MgF2(47.1),1008.0,,670.0,,,,,,,,,Cheng Zhou 2018
+1276,Na3AlF6,Molten / inorganic salt,Pure / literature,,,Na3AlF6(100),1010.0,,530.0,,,,,,,,,Cheng Zhou 2018
+1277,NaMgF3,Molten / inorganic salt,Pure / literature,,,NaMgF3(100),1030.0,,710.0,,,,,,,,,Cheng Zhou 2018
+1278,Al 8.7% Cu 91.3%,Metal / alloy,Pure / literature,,,,1036.0,,288.0,,0.52,0.56,6645.0,5399.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1279,LiF(80.5)–CaF2(19.5),Eutectic,Pure / literature,,,LiF(80.5)–CaF2(19.5),1040.0,,790.0,,,,,,,,,Cheng Zhou 2018
+1280,Mn 89.2% Si 10.8%,Metal / alloy,Pure / literature,,,,1040.0,,184.0,,1.05,0.82,7246.0,6540.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1281,KCaF3,Molten / inorganic salt,Pure / literature,,,KCaF3(100),1070.0,,500.0,,,,,,,,,Cheng Zhou 2018
+1282,MgF3,Molten / inorganic salt,Pure / literature,,,MgF3(100),1070.0,,710.0,,,,,,,,,Cheng Zhou 2018
+1283,Cr 1.5% Cu 98.5%,Metal / alloy,Pure / literature,,,,1075.0,,212.0,,0.46,0.5,8338.0,7883.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1284,Copper,Metal / alloy,Pure / literature,,Cu,,1085.0,,209.0,,0.44,0.49,8360.0,7897.0,401,163,,Fernández et al. (metal alloy PCM review); Literature compilation; CRC Handbook of Chemistry and Physics
+1285,Mg 9.6% Ni 90.4%,Metal / alloy,Pure / literature,,,,1095.0,,371.0,,0.6,0.7,6635.0,5728.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1286,FeF2,Molten / inorganic salt,Pure / literature,,,FeF2(100),1100.0,,550.0,,,,,,,,,Cheng Zhou 2018
+1287,Ni 69.2% Sn 30.8%,Metal / alloy,Pure / literature,,,,1124.0,,229.0,,0.54,0.57,7660.0,7525.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1288,Mn 10.5% Ni 73.5% Si 16.0%,Metal / alloy,Pure / literature,,,,1134.0,,500.0,,1.11,0.71,7040.0,6436.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1289,Mn 48.6% Si 51.4%,Metal / alloy,Pure / literature,,,,1144.0,,974.0,,0.67,0.91,4527.0,3584.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1290,Ni 88.6% Si 11.4%,Metal / alloy,Pure / literature,,,,1151.0,,277.0,,8.37,0.68,8065.0,7165.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1291,Al 51.4% Fe 48.6%,Metal / alloy,Pure / literature,,,,1155.0,,545.0,,0.98,0.94,4293.0,3405.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1292,Al 58.1% Fe 41.9%,Metal / alloy,Pure / literature,,,,1155.0,,711.0,,0.9,0.97,3969.0,3181.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1293,Ni 56.7% Sn 43.3%,Metal / alloy,Pure / literature,,,,1167.0,,277.0,,0.47,0.53,7702.0,7237.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1294,Al 3.2% Ni 85.2% Si 11.6%,Metal / alloy,Pure / literature,,,,1179.0,,374.0,,1.0,0.7,7314.0,6723.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1295,Cr 4.0% Fe 39.4% Si 56.7%,Metal / alloy,Pure / literature,,,,1186.0,,731.0,,0.89,0.86,4411.0,3626.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1296,Mn 93.3% Ni 5.0% Si 1.7%,Metal / alloy,Pure / literature,,,,1196.0,,284.0,,1.03,,6940.0,,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1297,Fe 81.9% Si 18.1%,Metal / alloy,Pure / literature,,,,1198.0,,282.0,,0.85,0.8,5961.0,6397.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1298,Fe 78.2% Si 21.8%,Metal / alloy,Pure / literature,,,,1203.0,,294.0,,0.82,0.76,6167.0,5231.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1299,Fe 49.3% Si 50.7%,Metal / alloy,Pure / literature,,,,1204.0,,623.0,,0.88,0.84,4901.0,3828.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1300,Fe 42.9% Si 57.1%,Metal / alloy,Pure / literature,,,,1205.0,,682.0,,0.9,0.86,4422.0,3614.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1301,Fe 12.7% Mn 87.3%,Metal / alloy,Pure / literature,,,,1234.0,,280.0,,0.74,0.85,7735.0,7297.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1302,Cr 28.8% Cu 33.8% Ni 37.4%,Metal / alloy,Pure / literature,,,,1235.0,,235.0,,0.79,0.64,6501.0,6104.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1303,Mn 71.4% Si 28.6%,Metal / alloy,Pure / literature,,,,1240.0,,587.0,,0.72,0.9,5692.0,4276.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1304,Ni 83.2% Si 16.8%,Metal / alloy,Pure / literature,,,,1240.0,,386.0,,0.6,0.72,7226.0,6484.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1305,Mn,Metal / alloy,Pure / literature,,,,1246.0,,235.0,,0.78,0.87,6156.0,5947.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1306,MgF2,Molten / inorganic salt,Pure / literature,,,MgF2(100),1271.0,,936.0,,,,,,,,,Cheng Zhou 2018
+1307,Al 19.3% Mn 80.7%,Metal / alloy,Pure / literature,,,,1280.0,,315.0,,1.03,0.93,5316.0,4370.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1308,Cr 24.1% Si 75.9%,Metal / alloy,Pure / literature,,,,1323.0,,1458.0,,0.88,0.93,2989.0,3039.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1309,Cr 50.9% Ni 49.1%,Metal / alloy,Pure / literature,,,,1345.0,,263.0,,0.7,0.76,7322.0,6727.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1310,Al 13.5% Ni 86.5%,Metal / alloy,Pure / literature,,,,1368.0,,393.0,,0.7,0.77,6899.0,6641.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1311,BaF2,Molten / inorganic salt,Pure / literature,,,BaF2(100),1368.0,,105.0,,,,,,,,,Cheng Zhou 2018
+1312,Cr 57.7% Si 42.3%,Metal / alloy,Pure / literature,,,,1407.0,,1020.0,,0.78,0.89,4544.0,3949.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1313,Silicon,Metal / alloy,Pure / literature,,Si,,1414.0,,1788.0,,0.94,0.97,2289.0,2579.0,149,,,Fernández et al. (metal alloy PCM review); Literature compilation; CRC Handbook of Chemistry and Physics
+1314,CaF2,Molten / inorganic salt,Pure / literature,,,CaF2(100),1418.0,,381.0,,,,,,,,,Cheng Zhou 2018
+1315,Ni,Metal / alloy,Pure / literature,,,,1455.0,,298.0,,0.58,0.73,8230.0,7896.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1316,SrF2,Molten / inorganic salt,Pure / literature,,,SrF2(100),1477.0,,226.0,,,,,,,,,Cheng Zhou 2018
+1317,Fe,Metal / alloy,Pure / literature,,,,1538.0,,247.0,,0.72,0.82,7291.0,7022.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1318,Cr 90.0% Si 10.0%,Metal / alloy,Pure / literature,,,,1699.0,,408.0,,0.82,0.93,6186.0,5459.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
+1319,Cr,Metal / alloy,Pure / literature,,,,1907.0,,404.0,,0.75,0.96,6562.0,6136.0,,,,Fernández et al. (metal alloy PCM review); Literature compilation
