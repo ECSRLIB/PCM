@@ -1,0 +1,69 @@
+dropped Methanoic acid row with Tm -49.6 °C (formic acid melts at ~8 °C)
+dropped corrupted duplicate row: Methyl decanoate (negative density, Tm 67.63626316)
+dropped corrupted duplicate row: Methyl tetradecanoate (negative density, Tm 70.51409774)
+dropped corrupted duplicate row: Ethyl decanoate (negative density, Tm 73.39193233)
+dropped corrupted duplicate row: Ethyl dodecanoate (negative density, Tm 76.26976692)
+dropped corrupted duplicate row: Ethyl hexadecanoate (negative density, Tm 79.1476015)
+dropped n-Tridecane Tm +6.0 (sign lost; other sources give negative)
+dropped n-Dodecane Tm +12.0 (sign lost; other sources give negative)
+dropped Tetradecane + octadecane Tm +4.02 (sign lost; other sources give negative)
+dropped Diethyleneglycol Tm +10.0 (sign lost; other sources give negative)
+HS15N: removed implausible k 5.26
+Crodatherm ME 29P: removed implausible density 337.0
+Crodatherm 74: removed implausible k 939.0
+Crodatherm 74: removed implausible k 858.0
+Hexadecyl hexadecanoate: rhos 0.989 g/cm³ → 989.0 kg/m³
+Hexadecyl hexadecanoate: rhol 0.59978 g/cm³ → 599.8 kg/m³
+Hexadecyl octadecanoate: rhos 0.869 g/cm³ → 869.0 kg/m³
+Hexadecyl octadecanoate: rhol 0.62379 g/cm³ → 623.8 kg/m³
+Tetradecyl octadecanoate: rhos 0.8698 g/cm³ → 869.8 kg/m³
+Tetradecyl octadecanoate: rhol 0.61943 g/cm³ → 619.4 kg/m³
+Tritetracontane (C43): removed implausible cp 819.0
+Tettratetracontane (C44): removed implausible cp 820.0
+Hextetracontane (C46): removed implausible cp 822.0
+Octatetracontane (C48): removed implausible cp 823.0
+Hexatcontane (C60): removed implausible cp 831.0
+Hectane (C100): removed implausible cp 846.0
+Polyglycol E400: removed implausible density 575.0
+Polyglycol E400: removed implausible k 19.093
+Caprylic Acid: removed implausible density 497.0
+Caprylic Acid: removed implausible k 19.075
+Capric Acid: removed implausible k 33.572
+Tristearin: removed implausible cp 862.0
+Stearyl palmitate: rhos 1.55 g/cm³ → 1550.0 kg/m³
+Stearyl palmitate: rhol 1.89 g/cm³ → 1890.0 kg/m³
+Stearyl stearate: rhos 1.86 g/cm³ → 1860.0 kg/m³
+Stearyl stearate: rhol 2.15 g/cm³ → 2150.0 kg/m³
+Cetyl arachidate: rhos 1.98 g/cm³ → 1980.0 kg/m³
+Cetyl arachidate: rhol 2.31 g/cm³ → 2310.0 kg/m³
+Palmitic Acid: removed implausible density 463.5
+Palmitic Acid: removed implausible k 34.081
+Stearyl arachidate: rhos 1.93 g/cm³ → 1930.0 kg/m³
+Stearyl arachidate: rhol 2.35 g/cm³ → 2350.0 kg/m³
+Lauric Acid: removed implausible density 461.0
+Lauric Acid: removed implausible k 25.073
+Myristic Acid: removed implausible density 458.0
+Stearic Acid: removed implausible density 459.0
+Stearic Acid: removed implausible k 35.086
+LiNO3·3H2O: rhos 0.68 g/cm³ → 680.0 kg/m³
+LiNO3·3H2O: removed implausible cp 1473.5
+Na2SO4·10H2O (Glauber’s Salt): rhos 0.544 g/cm³ → 544.0 kg/m³
+Na2SO4·10H2O (Glauber’s Salt): removed implausible cp 1485.0
+67Ga–20.5In–12.5Zn: removed implausible density 415.0
+NaCl (22.4 wt%) + H2O: removed implausible cp 1136.5
+KCl (19.5 wt%) + H2O: removed implausible cp 1115.5
+Triethylene glycol: removed implausible density -12001.0
+Dimethyl sulfoxide: removed implausible density -10091.0
+Phosphoric acid: removed implausible k 8.217
+Cr 24.1% Si 75.9%: removed implausible latent heat 1458.0
+Si: removed implausible latent heat 1788.0
+Triethylene glycol: removed implausible density -12001.0
+Dimethyl sulfoxide: removed implausible density -10091.0
+Dipotassium hydrogen phosphate tetrahydrate: removed implausible cp 231.0
+Calcium chloride dodecahydrate: removed implausible cp 174.0
+Sodium sulphate decahydrate: removed implausible cp 252.5
+Sodium carbonate decahydrate: removed implausible cp 267.0
+Magnesium chloride hexahydrate: removed implausible cp 167.0
+Potassium nitrate: Tm 380.0 -> 334 °C, ΔH 266.0 -> 97 (handbook value: Kenisarin 2010, Renew. Sustain. Energy Rev. 14:955)
+merged duplicate Tin (232.0 °C)
+merged duplicate Bismuth (271.4 °C)
