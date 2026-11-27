@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PCM Library — Phase Change Material Database | ECSR Lab</title>
+<meta name="description" content="Free, searchable database of 1,300+ phase change materials (PCMs): melting point, latent heat, specific heat, density and thermal conductivity for paraffins, fatty acids, salt hydrates, molten salts, metals, eutectics and commercial products, with interactive charts.">
+<meta name="keywords" content="phase change material, PCM database, latent heat, thermal energy storage, salt hydrate, paraffin, molten salt, eutectic, thermophysical properties">
+<meta name="theme-color" content="#0b1220">
+<link rel="canonical" href="https://ecsrlib.github.io/pcmlibrary.github.io/">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/icon-32.png">
+<link rel="apple-touch-icon" href="assets/icon-180.png">
+<link rel="manifest" href="site.webmanifest">
+<meta property="og:type" content="website">
+<meta property="og:title" content="PCM Library — Phase Change Material Database">
+<meta property="og:description" content="Search, chart and compare 1,300+ phase change materials for thermal energy storage. By the Energy Conversion & Storage Research (ECSR) Lab.">
+<meta property="og:image" content="https://ecsrlib.github.io/pcmlibrary.github.io/assets/og-image.png">
+<meta property="og:url" content="https://ecsrlib.github.io/pcmlibrary.github.io/">
+<meta name="twitter:card" content="summary_large_image">
+<script>try{var t=localStorage.getItem("pcm-theme");if(t==="dark"||(!t&&matchMedia("(prefers-color-scheme: dark)").matches))document.documentElement.dataset.theme="dark"}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT@0,9..144,400..700,50;1,9..144,400..700,50&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="preload" href="data/pcm.json" as="fetch" crossorigin>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "PCM Library — Phase Change Material Database",
+  "description": "Thermophysical properties (phase change temperature, latent heat, specific heat, density, thermal conductivity) of over 1,300 phase change materials compiled from peer-reviewed reviews, handbooks and manufacturer datasheets.",
+  "url": "https://ecsrlib.github.io/pcmlibrary.github.io/",
+  "keywords": ["phase change materials", "latent heat", "thermal energy storage", "thermophysical properties"],
+  "creator": {"@type": "Organization", "name": "Energy Conversion and Storage Research (ECSR) Lab"},
+  "distribution": [
+    {"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://ecsrlib.github.io/pcmlibrary.github.io/data/pcm.json"},
+    {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://ecsrlib.github.io/pcmlibrary.github.io/data/pcm.csv"}
+  ]
+}
+</script>
+</head>
+<body>
+<a class="skip" href="#database">Skip to database</a>
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="./" aria-label="PCM Library home">
+      <img src="assets/icon-180.png" alt="" width="36" height="36">
+      <span><b>PCM Library</b><small>ECSR Lab</small></span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Main">
+      <a href="./" aria-current="page">Database</a>
+      <a href="#explore">Charts</a>
+      <a href="#database">Table</a>
+      <a href="#data">About the data</a>
+      <a href="about.html">About ECSR Lab</a>
+    </nav>
+    <button class="icon-btn" id="theme" aria-label="Switch to dark mode" title="Toggle dark mode">
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+    </button>
+    <button class="icon-btn menu-btn" aria-expanded="false" aria-controls="nav" aria-label="Menu">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="wrap">
+      <div>
+        <span class="eyebrow">Open thermophysical database</span>
+        <h1>Every <em>phase change material</em>, mapped and compared.</h1>
+        <p class="lede">Search, chart and compare materials for thermal energy storage, from sub-zero cold chains to molten-salt solar plants. Every value lists its source.</p>
+        <form class="hero-search" role="search" onsubmit="document.getElementById('database').scrollIntoView({behavior:'smooth'});return false">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <label for="hq" class="sr-only">Search materials</label>
+          <input id="hq" type="search" placeholder="Try RT35HC, CaCl2·6H2O, stearic, erythritol…" autocomplete="off">
+          <kbd>/</kbd>
+        </form>
+        <div class="hero-stats" aria-live="polite">
+          <div><b id="s-total">—</b><span>materials</span></div>
+          <div><b id="s-com">—</b><span>commercial products</span></div>
+          <div><b id="s-range">—</b><span>temperature span</span></div>
+          <div><b id="s-refs">—</b><span>data sources</span></div>
+        </div>
+      </div>
+      <figure class="hero-art" aria-hidden="true" style="margin:0">
+        <div class="t"><span>Latent heat vs. melting point, −60 to 150 °C</span><span id="hero-n"></span></div>
+        <svg id="hero-svg" viewBox="0 0 520 330"></svg>
+      </figure>
+    </div>
+  </section>
+
+  <div class="filterbar" id="filterbar">
+    <div class="wrap">
+      <div class="fb-search">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <label for="q" class="sr-only">Filter by name, formula or manufacturer</label>
+        <input id="q" type="search" placeholder="Filter by name, formula, maker…" autocomplete="off">
+      </div>
+      <div class="pop" id="pop-class">
+        <button class="ctl" aria-expanded="false" aria-haspopup="true">Material class <span class="badge-n" id="cls-n" hidden></span>
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></button>
+        <div class="pop-panel" role="group" aria-label="Material class">
+          <h4>Material family</h4>
+          <div class="fam-list" id="f-fam"></div>
+        </div>
+      </div>
+      <div class="seg" role="group" aria-label="Source type">
+        <button aria-pressed="true" data-nature="">All</button>
+        <button aria-pressed="false" data-nature="Pure / literature">Literature</button>
+        <button aria-pressed="false" data-nature="Commercial">Commercial</button>
+      </div>
+      <div class="temp-ctl">
+        <span>T<sub>pc</sub></span>
+        <input id="tmin" type="number" inputmode="decimal" placeholder="min" aria-label="Minimum phase change temperature, °C">
+        <span>–</span>
+        <input id="tmax" type="number" inputmode="decimal" placeholder="max" aria-label="Maximum phase change temperature, °C">
+        <span style="padding-right:6px">°C</span>
+      </div>
+      <div class="pop" id="pop-more">
+        <button class="ctl" aria-expanded="false" aria-haspopup="true">More filters <span class="badge-n" id="more-n" hidden></span>
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></button>
+        <div class="pop-panel">
+          <h4>Minimum latent heat (kJ/kg)</h4>
+          <input id="lhmin" type="number" inputmode="decimal" placeholder="e.g. 150">
+          <h4 style="margin-top:14px">Manufacturer</h4>
+          <select id="maker" aria-label="Manufacturer"><option value="">Any manufacturer</option></select>
+          <h4 style="margin-top:14px">Data completeness</h4>
+          <label class="fam"><input type="checkbox" id="f-lh"> Has latent heat</label>
+          <label class="fam"><input type="checkbox" id="f-full"> Has density, c<sub>p</sub> and k</label>
+        </div>
+      </div>
+      <span class="fb-spacer"></span>
+      <button class="btn ghost" id="reset">Reset</button>
+    </div>
+    <div class="wrap presets" role="group" aria-label="Application presets">
+      <button class="chip" data-preset="cold"><span class="ic">❄️</span>Cold chain −40–8 °C</button>
+      <button class="chip" data-preset="building"><span class="ic">🏠</span>Buildings 18–30 °C</button>
+      <button class="chip" data-preset="body"><span class="ic">🧥</span>Textiles 28–40 °C</button>
+      <button class="chip" data-preset="electronics"><span class="ic">💻</span>Electronics 35–75 °C</button>
+      <button class="chip" data-preset="solar"><span class="ic">☀️</span>Solar hot water 40–90 °C</button>
+      <button class="chip" data-preset="industrial"><span class="ic">🏭</span>Industrial 100–300 °C</button>
+      <button class="chip" data-preset="csp"><span class="ic">🔆</span>CSP &gt; 300 °C</button>
+    </div>
+  </div>
+
+  <section class="section" id="explore">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <span class="kicker">Visual explorer</span>
+          <h2>Six ways to see the library</h2>
+          <p>All charts follow the filters above. Hover for details, click a point or bar to open the material, and click a legend item to show or hide a family.</p>
+        </div>
+      </div>
+
+      <div class="kpis" id="kpis"></div>
+
+      <div class="viz-grid">
+        <article class="card viz wide">
+          <div class="viz-head">
+            <div><h3>Property map</h3><p>Latent heat against phase change temperature, with application temperature zones shaded.</p></div>
+            <div style="display:flex;gap:8px;flex-wrap:wrap">
+              <div class="seg" role="group" aria-label="Y axis">
+                <button aria-pressed="true" data-sy="lh">kJ/kg</button>
+                <button aria-pressed="false" data-sy="vol">MJ/m³</button>
+              </div>
+              <div class="seg" role="group" aria-label="Temperature range">
+                <button aria-pressed="true" data-sx="fit">Auto</button>
+                <button aria-pressed="false" data-sx="low">−60–150 °C</button>
+                <button aria-pressed="false" data-sx="mid">100–700 °C</button>
+                <button aria-pressed="false" data-sx="all">Full range</button>
+              </div>
+            </div>
+          </div>
+          <div class="chart" id="c-scatter" style="height:440px"></div>
+          <div class="legend" id="legend" role="group" aria-label="Show or hide families"></div>
+        </article>
+
+        <article class="card viz w7">
+          <div class="viz-head">
+            <div><h3>Conductivity vs. storage density</h3><p>Materials toward the top right store more heat per volume and charge faster. Both axes use a log scale.</p></div>
+          </div>
+          <div class="chart" id="c-ashby" style="height:360px"></div>
+          <div class="viz-foot" id="ashby-foot"></div>
+        </article>
+
+        <article class="card viz w5">
+          <div class="viz-head">
+            <div><h3>Temperature distribution</h3><p>How many materials melt in each temperature band, stacked by family.</p></div>
+            <div class="seg" role="group" aria-label="Histogram range">
+              <button aria-pressed="true" data-hx="low">−60–150 °C</button>
+              <button aria-pressed="false" data-hx="high">100–1000 °C</button>
+              <button aria-pressed="false" data-hx="fit">All</button>
+            </div>
+          </div>
+          <div class="chart" id="c-hist" style="height:360px"></div>
+        </article>
+
+        <article class="card viz w7">
+          <div class="viz-head">
+            <div><h3>Latent heat by family</h3><p>Box shows the middle 50%, the line is the median, and dots are individual materials.</p></div>
+            <div class="seg" role="group" aria-label="Box plot metric">
+              <button aria-pressed="true" data-bm="lh">kJ/kg</button>
+              <button aria-pressed="false" data-bm="vol">MJ/m³</button>
+            </div>
+          </div>
+          <div class="chart" id="c-box" style="height:380px"></div>
+        </article>
+
+        <article class="card viz w5">
+          <div class="viz-head">
+            <div><h3>Family × temperature heatmap</h3><p>Number of materials in each cell. Click a cell to filter.</p></div>
+          </div>
+          <div class="chart" id="c-heat" style="height:380px"></div>
+        </article>
+
+        <article class="card viz wide">
+          <div class="viz-head">
+            <div><h3>Top performers</h3><p>The best materials in the current selection for the chosen property. Click a bar to open it.</p></div>
+            <div class="seg" role="group" aria-label="Ranking metric">
+              <button aria-pressed="true" data-rk="lh">Latent heat</button>
+              <button aria-pressed="false" data-rk="vol">Volumetric</button>
+              <button aria-pressed="false" data-rk="k">Conductivity</button>
+              <button aria-pressed="false" data-rk="cp">Specific heat</button>
+            </div>
+          </div>
+          <div class="chart" id="c-rank" style="height:420px"></div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="database">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <span class="kicker">Data table</span>
+          <h2>Browse every material</h2>
+          <p>Click a column heading to sort, click a row to see its full properties, or press + to add it to a comparison.</p>
+        </div>
+      </div>
+      <div class="card">
+        <div class="results-bar">
+          <div class="count" id="count">Loading…</div>
+          <div class="spacer"></div>
+          <a class="btn" href="data/pcm.csv" download>⤓ Full CSV</a>
+          <button class="btn primary" id="export">⤓ Export these results</button>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th scope="col"><button data-sort="name">Material <span class="arrow">↕</span></button></th>
+                <th scope="col"><button data-sort="fam">Family <span class="arrow">↕</span></button></th>
+                <th scope="col" class="num"><button data-sort="tm">T<sub>pc</sub> (°C) <span class="arrow">↕</span></button></th>
+                <th scope="col" class="num"><button data-sort="lh">ΔH (kJ/kg) <span class="arrow">↕</span></button></th>
+                <th scope="col" class="num"><button data-sort="vol">MJ/m³ <span class="arrow">↕</span></button></th>
+                <th scope="col" class="num"><button data-sort="rho">ρ (kg/m³) <span class="arrow">↕</span></button></th>
+                <th scope="col" class="num"><button data-sort="cp">c<sub>p</sub> (kJ/kg·K) <span class="arrow">↕</span></button></th>
+                <th scope="col" class="num"><button data-sort="k">k (W/m·K) <span class="arrow">↕</span></button></th>
+                <th scope="col"><span class="sr-only">Compare</span></th>
+              </tr>
+            </thead>
+            <tbody id="rows"></tbody>
+          </table>
+          <noscript><p class="empty">This database needs JavaScript. You can still <a href="data/pcm.csv">download the full dataset as CSV</a>.</p></noscript>
+        </div>
+        <div class="pager" id="pager"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="data">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <span class="kicker">Methodology</span>
+          <h2>About the data</h2>
+          <p>How the library was put together, and how to use it responsibly.</p>
+        </div>
+      </div>
+      <div class="grid-3">
+        <div class="card info">
+          <h3>What's inside</h3>
+          <p>We merged several literature tables and a commercial-product compilation into one record per material, then added well-established handbook values. Each record keeps all its reported values and their sources.</p>
+          <ul>
+            <li>Organic: paraffins, fatty acids, esters, alcohols, sugar alcohols, PEGs</li>
+            <li>Inorganic: salt hydrates, molten salts, metals and alloys</li>
+            <li>Eutectics and solid–solid PCMs</li>
+            <li>Commercial products from Rubitherm, PureTemp, Croda, Climator, Axiotherm, PLUSS, PCM Products and others</li>
+          </ul>
+        </div>
+        <div class="card info">
+          <h3>Quality checks</h3>
+          <p>Every record passed automatic checks. Rows were flagged or corrected when they had:</p>
+          <ul>
+            <li>a minus sign lost from a sub-zero melting point</li>
+            <li>density in g/cm³ instead of kg/m³</li>
+            <li>values in the wrong column</li>
+            <li>impossible values, such as a negative density</li>
+          </ul>
+          <p class="note">Values vary between sources because of sample purity and measurement method. Confirm critical design values against the original reference.</p>
+        </div>
+        <div class="card info">
+          <h3>Download &amp; reuse</h3>
+          <p>The whole library is free to download for research and teaching.</p>
+          <p style="display:flex;gap:8px;flex-wrap:wrap"><a class="btn" href="data/pcm.csv" download>⤓ pcm.csv</a> <a class="btn" href="data/pcm.json" download>⤓ pcm.json</a></p>
+          <p class="note">If the library helps your work, please cite it. See <a href="about.html#cite">How to cite</a>.</p>
+          <p class="note">Units: T in °C, ΔH in kJ/kg, c<sub>p</sub> in kJ/kg·K, ρ in kg/m³, k in W/m·K. Volumetric storage = ΔH × ρ (solid density where available).</p>
+        </div>
+      </div>
+      <div class="card info" style="margin-top:18px">
+        <h3>Main references</h3>
+        <ul class="refs" id="refs"></ul>
+      </div>
+    </div>
+  </section>
+</main>
+
+<div class="tip" id="tip" role="tooltip"></div>
+
+<div class="tray" id="tray" aria-live="polite">
+  <strong style="font-size:13px;font-weight:600" id="tray-label">Compare</strong>
+  <div class="items" id="tray-items"></div>
+  <button class="btn primary" id="open-compare">Compare</button>
+  <button class="btn ghost" id="clear-compare" style="color:#fff">Clear</button>
+</div>
+
+<dialog id="compare-dialog" aria-labelledby="cmp-title">
+  <header><h2 id="cmp-title">Side-by-side comparison</h2><button class="btn" data-close>Close</button></header>
+  <div class="body" id="compare-body"></div>
+</dialog>
+
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="d-title" aria-hidden="true">
+  <button class="btn close" id="d-close" aria-label="Close details">✕</button>
+  <header id="d-head"></header>
+  <div class="body" id="d-body"></div>
+</aside>
+
+<footer class="site">
+  <div class="wrap">
+    <div>
+      <a class="brand" href="./"><img src="assets/icon-180.png" alt="" width="36" height="36"><span><b>PCM Library</b><small>ECSR Lab</small></span></a>
+      <p style="margin-top:14px;max-width:46ch">A free phase change material database for thermal energy storage research, from the Energy Conversion &amp; Storage Research Lab.</p>
+    </div>
+    <div>
+      <h4>Explore</h4>
+      <p><a href="#explore">Charts</a></p>
+      <p><a href="#database">Data table</a></p>
+      <p><a href="#data">About the data</a></p>
+      <p><a href="about.html">About ECSR Lab</a></p>
+    </div>
+    <div>
+      <h4>Credits</h4>
+      <p>Created by <strong>Sonu Singh</strong> (M.Tech)</p>
+      <p>Supervised by <strong>Dr. Shobhana Singh</strong></p>
+      <p><a href="https://github.com/ECSRLIB/pcmlibrary.github.io">Source on GitHub</a></p>
+    </div>
+    <div class="legal">
+      <span>© 2025–2026 ECSR Laboratory.</span>
+      <span>Data is provided "as is" for research and education. Confirm values before using them in a design.</span>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/app.js" defer></script>
+</body>
+</html>
